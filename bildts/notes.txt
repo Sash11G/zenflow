@@ -1,0 +1,47 @@
+C FUNCTION IMPLEMENTATION NOTES
+===============================
+
+MEMCMP IMPLEMENTATION NOTES:
+
+int memcmp() takes 3 arguments: *ptr1, *ptr2, and size_t len.
+It compares the first len bytes of memory in both locations.
+
+Returns:
+- 0 if all bytes are equal.
+- Positive integer if the first differing byte in s1 is greater than in s2.
+- Negative integer if the first differing byte in s2 is greater than in s1.
+
+Note:
+- It does not stop at a null terminator, unlike strlen.
+- It compares raw memory, not strings.
+
+DEBUGGING:
+- Forgot to add "return 0;" when memory blocks are equal.
+- Improved testing with a helper function and multiple test cases:
+  - Identical strings
+  - Differences at the end
+  - Shorter strings for partial comparisons
+
+
+MEMCPY NOTES:
+
+- Learned that memcpy is often implemented with char buffers since chars hold 1 byte.
+- All data types are measured in bytes.
+- memcpy can return void or void*, depending on whether you want to return a value or just perform the copy.
+- Arguments:
+  - `const char*` is used for the source (ROM, unaltered),
+  - `char*` for the destination buffer,
+  - `size_t` for the number of bytes to copy.
+  - For non-char arrays, pass `sizeof(type) * count`.
+
+- After casting the void* parameters to `char*`, we copy using a loop:
+  Example:
+
+    while (n--) {
+        *dest++ = *src++;
+    }
+
+- This copies a memory block based on the specified size and type.
+- To display arrays (e.g., of ints), loop over them.
+- To get the number of elements in an array:
+  `sizeof(arr) / sizeof(type)`
