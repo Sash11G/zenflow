@@ -7,11 +7,11 @@
 
 int main() {
 
-    int *arr = malloc(sizeof(int) * 4);
+    char *arr = malloc(sizeof(char) * 4);
     int num;
     char buff[50];
-    
-    for (int i = 0; i < 4; i++) {
+    printf("%zu\n", sizeof(char));
+    for (int i = 0; i < sizeof(arr); i++) {
         fgets(buff, 50, stdin);
         num = atoi(buff);
         printf("%d\n", num);
