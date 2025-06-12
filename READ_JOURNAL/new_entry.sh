@@ -1,27 +1,54 @@
 #!/bin/bash
 
+READ_JOURNAL="$HOME/zenflow/READ_JOURNAL"
 
-read -p "Enter directory name: " dir
-mkdir -p "$HOME/$dir"
+# Get subdirectories
+mapfile -t dirs < <(find "$READ_JOURNAL" -mindepth 1 -maxdepth 1 -type d | sort)
+if [ ${#dirs[@]} -eq 0 ]; then
+    echo "No subdirectories found in $READ_JOURNAL."
+    exit 1
+fi
 
-echo "Directory ensured: $HOME/$dir"
-JOURNAL_DIR="$HOME/zenflow/READ_JOURNAL/caffein_log"
+# Display dirs with indexes
+echo "Select a directory:"
+for i in "${!dirs[@]}"; do
+    name=$(basename "${dirs[$i]}")
+    printf "[%d] %s\n" "$i" "$name"
+done
 
-# Get the next available number by finding the max and adding 1
-last_number=$(find "$JOURNAL_DIR" -name "day_*.txt" | sed -E 's/.*day_([0-9]+)\.txt/\1/' | sort -n | tail -n 1)
-next_number=$((last_number + 1))
+# Prompt
+read -p "Enter index: " index
 
-# Format the filename
-filename="day_${next_number}.txt"
-filepath="${JOURNAL_DIR}/${filename}"
+# Validate input
+if ! [[ "$index" =~ ^[0-9]+$ ]] || [ "$index" -ge "${#dirs[@]}" ]; then
+    echo "Invalid index."
+    exit 1
+fi
 
-# Create the new file with the header
-{
-    date
-    echo ""
-    echo "Day ${next_number}:"
-    echo ""
-} > "$filepath"
+# Get selected dir name
+dir=$(basename "${dirs[$index]}")
+BASE_DIR="$READ_JOURNAL/$dir"
 
-# Open it with your editor (e.g., nvim)
-nvim "$filepath"
+# Month subdirectory
+month_dir="$(date '+%Y-%m')"
+MONTH_PATH="$BASE_DIR/$month_dir"
+mkdir -p "$MONTH_PATH"
+
+# File name and path
+today="$(date '+%Y-%m-%d')"
+filename="${today}_${dir}.txt"
+FILEPATH="$MONTH_PATH/$filename"
+
+# Create file if new
+if [ ! -f "$FILEPATH" ]; then
+    {
+        date
+        echo ""
+        echo "Log for $dir on $today"
+        echo ""
+    } > "$FILEPATH"
+fi
+
+# Open with editor
+nvim "$FILEPATH"
+
