@@ -1,22 +1,35 @@
+
 #!/bin/bash
 
-JOURNAL_DIR="$HOME/zenflow/READ_JOURNAL"
+read -p "Enter subdirectory in READ_JOURNAL: " dir
+BASE_DIR="$HOME/zenflow/READ_JOURNAL/$dir"
 
-# Get the next available number by finding the max and adding 1
-last_number=$(find "$JOURNAL_DIR" -name "day_*.txt" | sed -E 's/.*day_([0-9]+)\.txt/\1/' | sort -n | tail -n 1)
-next_number=$((last_number + 1))
+# Error if directory doesn't exist
+if [ ! -d "$BASE_DIR" ]; then
+    echo "Error: Directory '$BASE_DIR' does not exist."
+    exit 1
+fi
 
-# Format the filename
-filename="day_${next_number}.txt"
-filepath="${JOURNAL_DIR}/${filename}"
+# Create monthly subdirectory if needed
+month_dir="$(date '+%Y-%m')"
+MONTH_PATH="$BASE_DIR/$month_dir"
+mkdir -p "$MONTH_PATH"
 
-# Create the new file with the header
-{
-    date
-    echo ""
-    echo "Day ${next_number}:"
-    echo ""
-} > "$filepath"
+# Generate filename with directory name included
+today="$(date '+%Y-%m-%d')"
+filename="${today}_${dir}.txt"
+FILEPATH="$MONTH_PATH/$filename"
 
-# Open it with your editor (e.g., nvim)
-nvim "$filepath"
+# If the file doesn't exist, create it with header
+if [ ! -f "$FILEPATH" ]; then
+    {
+        date
+        echo ""
+        echo "Log for $dir on $today"
+        echo ""
+    } > "$FILEPATH"
+fi
+
+# Open the file
+nvim "$FILEPATH"
+
