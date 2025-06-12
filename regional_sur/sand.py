@@ -1,6 +1,8 @@
 
 
-dict1 = 1
+x = 42
 
-if isinstance(dict1, int):
-    print("yes")
+if isinstance(x, int):
+    print("x is an integer")
+else:
+    print("x is not an integer")
