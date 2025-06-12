@@ -2,3 +2,13 @@ Thu Jun 12 08:31:31 PM -03 2025
 
 Log for python on 2025-06-12
 
+I learned isinstance()
+
+compares object with 
+
+isinstance(5, int)              # True
+isinstance("hello", str)        # True
+isinstance([1, 2, 3], list)     # True
+isinstance(5, (int, float))     # True
+isinstance(5.0, (int, float))   # True
+isinstance("5", (int, float))   # False
