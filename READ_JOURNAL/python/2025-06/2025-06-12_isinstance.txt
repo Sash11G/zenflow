@@ -4,7 +4,10 @@ Log for python on 2025-06-12
 
 I learned isinstance()
 
-compares object with 
+isinstance() is a built-in Python function that checks
+if an object is an instance of a specific class or a tuple
+of classes. 
+Returns: True or False
 
 isinstance(5, int)              # True
 isinstance("hello", str)        # True
