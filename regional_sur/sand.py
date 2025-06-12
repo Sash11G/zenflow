@@ -1,6 +1,6 @@
 
 
-dict1 = {1: 1, 2: 2}
+dict1 = 1
 
-if isinstance(dict1, dict):
+if isinstance(dict1, int):
     print("yes")
