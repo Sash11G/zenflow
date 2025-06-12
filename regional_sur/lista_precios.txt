@@ -1,0 +1,799 @@
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+Cod.,Nombre,Cód. Barra,Desc.,IVA,Mon.,Unitario,Empaque
+Precios finales con IVA incluído. Suejta a modificaciones y a disponibilidad de stock.,,,,Fecha de actualización:,,,7/1/2024
+,"100,100 • Legumbres y Otros",,,,,,
+,,,,,,,
+1172,Alpiste 25 kg,,25 kg,EXE,U$S,1.75,43.75
+B171,Alpiste 5 kg,,5 kg,EXE,U$S,2.01,10.05
+0022,Arvejas Secas 25 kg,,25 kg,22%,U$S,1.23,30.76
+K002,Arvejas Secas 1 kg,,12 unid.,22%,U$S,1.42,17.04
+1190,Avena Laminada 25 kg,,25 kg,22%,U$S,1.40,35.00
+B1190,"Avena Laminada 2,5 kg",,Unitario,22%,U$S,1.61,4.03
+K1190,Avena Laminada 1 kg,,10 unid.,22%,U$S,1.68,16.80
+1191,Avena Arrollada 25 kg,,25 kg,22%,U$S,1.40,35.00
+B1191,"Avena Arrollada 2,5 kg",,Unitario,22%,U$S,1.61,4.03
+K1191,Avena Arrollada 1 kg,,10 unid.,22%,U$S,1.68,16.80
+1192,Harina de Avena Integral 25 kg,,25 kg,10%,U$S,1.45,36.26
+K1192,Harina de Avena Integral 1 kg,,Unitario,10%,U$S,1.74,1.74
+136,Fariña de Mandioca 25 kg,,25 kg,22%,U$S,2.30,57.50
+B136,Fariña de Mandioca 5 kg,,5 kg,22%,U$S,2.65,13.25
+1366,Fécula de Mandioca 25 kg,,25 kg,22%,U$S,1.40,35.00
+B1366,Fécula de Mandioca 5 kg,,5 kg,22%,U$S,1.61,8.05
+K1366,Fécula de Mandioca 1 kg,,12 unid.,22%,U$S,1.68,20.16
+077,Fécula de Maíz Amisol 25 kg,,25 kg,22%,U$S,0.92,23.06
+K077,Fécula de Maíz Amisol 1 kg,,25 unid.,22%,U$S,1.30,32.50
+282,Garbanzos 8mm 25 kg,,25 kg,22%,U$S,1.82,45.50
+B281,Garbanzos 8mm 5 kg,,5 kg,22%,U$S,2.10,10.50
+K281,Garbanzos 8mm 1 kg,7730905132102,12 unid.,22%,U$S,2.18,26.16
+173,Harina de Maíz 25 kg,,25 kg,10%,$,35.41,885.15
+B114,Harina de Maíz 5 kg,,5 kg,10%,$,37.60,188.00
+0040,Lentejas Argentinas 25 kg,,25 kg,22%,U$S,2.15,53.75
+288,Lentejón Canadiense Laird N°2 25 kg ,,25 kg,22%,U$S,2.86,71.50
+B0055,Lentejón Canadiense Laird N°2 5 kg ,,5 kg,22%,U$S,3.28,16.40
+K288,Lentejón Canadiense Laird N°2 1 kg ,7730905132263,12 unid.,22%,U$S,3.43,41.16
+089,Maíz Pisingallo 25 kg,,25 kg,EXE,U$S,0.00,0.00
+0895,Maíz Pisingallo 20 kg,,20 kg,EXE,U$S,1.10,22.00
+B089,Maíz Pisingallo 5 kg,,5 kg,EXE,U$S,1.26,6.30
+112,Maní con Cáscara 10 kg,,10 kg,EXE,$,120.00,1200.00
+0785,Maní en Grana 25 kg,,25 kg,22%,U$S,3.00,75.00
+178,Maní Runner 25 kg,,25 kg,22%,U$S,3.00,75.00
+B078,Maní Runner 5 kg,,5 kg,22%,U$S,3.45,17.25
+0781,Maní Tostado Salado 25 kg,,25 kg,22%,U$S,3.43,85.73
+0783,Maní Tostado sin Sal 25 kg,,25 kg,22%,U$S,3.43,85.73
+116,Mazamorra 25 kg,,25 kg,22%,$,63.90,1597.50
+B116,Mazamorra 5 kg,,5 kg,22%,$,71.00,355.00
+B117,Mazamorra Blanca 5 kg,,5 kg,22%,$,149.50,747.50
+1919,Poroto Alubia 25 kg,,25 kg,22%,U$S,2.07,51.75
+B1919,Poroto Alubia 5 kg,,5 kg,22%,U$S,2.38,11.90
+K1919,Poroto Alubia 1 kg,,12 unid.,22%,U$S,2.48,29.76
+148,Poroto de Soja 25 kg,,25 kg,22%,U$S,1.20,30.00
+K148,Poroto de Soja 1 kg,,12 unid.,22%,U$S,1.44,17.28
+110,Poroto Frutilla 25 kg,,25 kg,22%,U$S,2.40,60.00
+B098,Poroto Frutilla 5 kg,,5 kg,22%,U$S,2.88,14.40
+K098,Poroto Frutilla 1 kg,,12 unid.,22%,U$S,3.00,36.00
+191,Poroto Manteca 25 kg,,25 kg,22%,U$S,3.05,76.25
+B191,Poroto Manteca 5 kg,,5 kg,22%,U$S,3.50,17.50
+K191,Poroto Manteca 1 kg,7730905132133,12 unid.,22%,U$S,3.66,43.92
+149,Poroto Negro 25 kg,,25 kg,22%,U$S,1.89,47.25
+B149,Poroto Negro 5 kg,,5 kg,22%,U$S,2.17,10.85
+K149,Poroto Negro 1 kg,7730905132270,12 unid.,22%,U$S,2.27,27.24
+182,Puré de Papas Blanco 20 kg (Suc. Paso de la Arena),,20 kg,22%,U$S,4.50,90.00
+183,Puré de Papas Blanco 17 kg (Suc. Villa Española),,17 kg,22%,U$S,4.50,76.50
+B180,Puré de Papas Blanco 2 kg,7730905132010,2 kg,22%,U$S,5.52,11.04
+K180,Puré de Papas Blanco 1 kg,7730905131969,1 kg,22%,U$S,5.76,5.76
+1110,Arroz Blanco Japonés Grano Corto Mirokumai 5 kg,7730900890014,5 kg,10%,$,103.2864,516.43
+1111,Arroz Blanco Japonés Grano Corto Mirokumai 1 kg,,1 kg,10%,$,104.94,104.94
+1112,Arroz Integral Japonés Grano Corto Mirokumai 1 kg,7730900890038,1 kg,10%,$,104.94,104.94
+Cód.,Nombre,Cód. Barra,Desc.,IVA,Mon.,Unitario,Empaque
+,,,,Fecha de actualización:,,,7/1/2024
+,"100,101 • Semillas",,,,,,
+,,,,,,,
+2864,Girasol con Cáscara 20 kg,,20 kg,EXE,U$S,1.51,30.20
+B2864,Girasol con Cáscara 5 kg,,5 kg,EXE,U$S,1.74,8.69
+K2864,Girasol con Cáscara 1 kg,,12 unid.,EXE,U$S,1.81,21.74
+2860,"Girasol Confitero 22,68 kg",,"22,68 kg",22%,U$S,2.52,57.16
+B286,Girasol Confitero 5 kg,,5 kg,22%,U$S,2.90,14.52
+K2860,Girasol Confitero 1 kg,7730905132454,12 unid.,22%,U$S,3.02,36.24
+K2861,Girasol Tostado 1 kg,7739753120903,1 kg,22%,U$S,5.30,5.30
+K2862,Girasol Tostado con Sal 1 kg,7739753120910,1 kg,22%,U$S,5.30,5.30
+K2863,Girasol Tostado con Soja 1 kg,7739753120934,1 kg,22%,U$S,5.30,5.30
+314,Semilla de Zapallo 25 kg,,25 kg,22%,U$S,7.93,198.25
+B314,Semilla de Zapallo 5 kg,,5 kg,22%,U$S,8.33,41.65
+K314,Semilla de Zapallo 1 kg,7730905132355,12 unid.,22%,U$S,8.72,104.64
+K3140,Semilla de Zapallo Tostadas1 kg,,12 unid.,22%,U$S,11.40,136.80
+K3141,Semilla de Zapallo Tostadas con Sal 1 kg,,12 unid.,22%,U$S,11.40,136.80
+287,Lino Marrón 25 kg,,25 kg,EXE,U$S,1.95,48.75
+B287,Lino Marrón 5 kg,,5 kg,EXE,U$S,2.25,11.25
+K287,Lino Marrón 1 kg,7730905132379,12 unid.,EXE,U$S,2.34,28.08
+313,Semilla de Chía 25 kg,,25 kg,EXE,U$S,4.50,112.50
+K313,Semilla de Chía 1 kg,7730905131976,12 unid.,EXE,U$S,5.40,64.80
+312,Semilla de Quinoa Blanca 25 kg,,25 kg,EXE,U$S,3.90,97.50
+K312,Semilla de Quinoa Blanca 1 kg,,12 unid.,EXE,U$S,4.68,56.16
+3121,Semilla de Quinoa Roja 25 kg,,25 kg,EXE,U$S,4.10,102.50
+K3121,Semilla de Quinoa Roja 1 kg,,12 unid.,EXE,U$S,4.92,59.04
+3122,Semilla de Quinoa Negra 25 kg,,25 kg,EXE,U$S,4.15,103.75
+K3122,Semilla de Quinoa Negra 1 kg,,12 unid.,EXE,U$S,5.00,60.00
+310,Semilla de Quinoa Dorada 25 kg,,25 kg,EXE,U$S,2.21,55.25
+K310,Semilla de Quinoa Dorada 1 kg,,12 unid.,EXE,U$S,2.40,28.80
+3130,Amaranto 25 kg,,25 kg,EXE,U$S,3.05,76.25
+K3130,Amaranto 1 kg,,12 unid.,EXE,U$S,3.66,43.92
+299,Sésamo Blanco 25 kg,,25 kg,22%,U$S,4.40,110.00
+B299,Sésamo Blanco 5 kg,,5 kg,22%,U$S,5.06,25.30
+K299,Sésamo Blanco 1 kg,7730905132409,12 unid.,22%,U$S,5.31,63.72
+298,Sésamo Natural 25 kg,,25 kg,EXE,U$S,3.05,76.25
+B298,Sésamo Natural 5 kg,,5 kg,EXE,U$S,3.51,17.55
+K298,Sésamo Natural 1 kg,7730905132416,12 unid.,EXE,U$S,3.66,43.92
+300,Sésamo Negro 25 kg,,25 kg,EXE,U$S,4.20,105.00
+B300,Sésamo Negro 5 kg,,5 kg,EXE,U$S,4.83,24.15
+K300,Sésamo Negro 1 kg,7730905132447,12 unid.,EXE,U$S,5.10,61.20
+302,Tahini 453g (Pásta de Sésamo),851168001039,12 unid.,22%,U$S,6.59,79.08
+,"100,102 • Especias",,,,,,
+B189,Adobo 5 kg,,5 kg,22%,U$S,7.10,35.50
+K189,Adobo 1 kg,,12 unid.,22%,U$S,7.50,90.00
+259,Ají Molido 20 kg,,20 kg,22%,U$S,7.71,154.20
+B259,Ají Molido 5 kg,,5 kg,22%,U$S,8.87,44.35
+144,Ajo Blanco Granulado 25 kg,,25 kg,22%,U$S,5.20,130.00
+K144,Ajo Blanco Granulado 1 kg,,12 unid.,22%,U$S,6.25,75.00
+K1441,Ajo en Polvo 1 kg,,12 unid.,22%,U$S,5.00,60.00
+B245,Ajo y Perejil 5 kg,,5 kg,22%,U$S,7.00,35.00
+K245,Ajo y Perejil 1 kg,,12 unid.,22%,U$S,8.40,100.80
+036,Anís en Grano 25 kg,,25 kg,EXE,U$S,13.18,329.40
+K036,Anís en Grano 1 kg,,12 unid.,EXE,U$S,15.81,189.72
+0361,Anís Estrellado 10 kg,,10 kg,EXE,U$S,22.50,225.00
+K0361,Anís Estrellado 1 kg,,10 unid.,EXE,U$S,23.50,235.00
+0051,Clavo de Olor 25 kg,,25 kg,EXE,U$S,17.00,425.00
+B005,Clavo de Olor 5 kg,,5 kg,EXE,U$S,19.55,97.75
+K0051,Clavo de Olor 1 kg,,12 unid.,EXE,U$S,20.40,244.80
+K040,Jengibre en Polvo 1 kg,,12 unid.,22%,U$S,10.25,123.00
+307,Canela Entera 10 kg,,10 kg,EXE,U$S,18.20,182.00
+K307,Canela Entera 1 kg,,12 unid.,EXE,U$S,21.84,262.08
+309,Canela Cigarrete 10 kg,,10 kg,EXE,U$S,18.20,182.00
+K309,Canela Cigarrete 1 kg,,1 kg,EXE,U$S,21.84,21.84
+B310,Canela Molida 5 kg,,5 kg,22%,U$S,12.30,61.50
+K311,Canela Molida 1 kg,,12 unid.,22%,U$S,14.76,177.12
+K039,Comino en Grano 1 kg,,12 unid.,EXE,U$S,7.52,90.24
+K0391,Comino en Polvo 1 kg,,12 unid.,22%,U$S,9.88,118.56
+042,Tomillo Seco 20 kg,,20 kg,EXE,U$S,6.20,124.00
+K042,Tomillo Seco 1 kg,,12 unid.,EXE,U$S,7.13,85.56
+K0370,Condimento Verde 1 kg,,12 unid.,22%,U$S,11.10,133.20
+K038,Cúrcuma 1 kg,,12 unid.,22%,U$S,7.94,95.28
+K0392,Curry 1 kg,,12 unid.,22%,U$S,12.75,153.00
+Cód.,Nombre,Cód. Barra,Desc.,IVA,Mon.,Unitario,Empaque
+,,,,Fecha de actualización:,,,7/1/2024
+,"100,102 • Especias (Continuación)",,,,,,
+,,,,,,,
+0371,Espinaca en Polvo 20 kg,,20 kg,22%,U$S,9.64,192.80
+K0371,Espinaca en Polvo 1 kg,,12 unid.,22%,U$S,11.57,138.84
+043,Hongos Secos 20 kg,,15 kg,22%,U$S,12.50,250.00
+C043,Hongos Secos 500 g,,12 unid.,22%,U$S,7.20,86.40
+,,,,,,,
+K0380,Semilla de Mostaza 1 kg,,12 unid.,22%,U$S,6.85,82.20
+K0381,Mostaza en Polvo 1 kg,,12 unid.,22%,U$S,10.25,123.00
+,,,,,,,
+306,Nuez Moscada Entera ABCD 25 kg,,25 kg,22%,U$S,27.67,691.75
+B306,Nuez Moscada Entera ABCD 5 kg,,5 kg,22%,U$S,31.82,159.10
+K306,Nuez Moscada Entera ABCD 1 kg,,12 unid.,22%,U$S,33.20,398.40
+B305,Nuez Moscada Molida 5 kg,,5 kg,22%,U$S,22.00,110.00
+K305,Nuez Moscada Molida 1 kg,,12 unid.,22%,U$S,24.20,290.40
+304,Nuez Moscada Rota BWP 25 kg,,25 kg,22%,U$S,0.00,0.00
+,,,,,,,
+130,"Orégano 1° Calidad 12,5 kg",,"12,5 kg",EXE,U$S,3.70,46.25
+K130,Orégano 1° Calidad 1 kg,,12 unid.,EXE,U$S,4.25,51.00
+3150,Perejil 20 kg,,20 kg,22%,U$S,6.20,124.00
+3151,Perejil 9 kg,,9 kg,22%,U$S,0.00,0.00
+,,,,,,,
+096,Pimentón Choice 25 kg,,25 kg,22%,U$S,6.80,170.00
+097,Pimentón Delicia 25 kg,,25 kg,22%,U$S,5.43,135.75
+B097,Pimentón Delicia 5 kg,,5 kg,22%,U$S,6.24,31.20
+K097,Pimentón Delicia 1 kg,,12 unid.,22%,U$S,6.52,78.24
+,,,,,,,
+100,Pimienta Blanca en Grano 25 kg,,25 kg,22%,U$S,12.60,315.00
+B100,Pimienta Blanca en Grano 5 kg,,5 kg,22%,U$S,14.50,72.50
+C100,Pimienta Blanca en Grano 500 g,,12 unid.,22%,U$S,7.60,91.20
+B134,Pimienta Blanca Molida 5 kg,,5 kg,22%,U$S,15.80,79.00
+C134,Pimienta Blanca Molida 500 g,,12 unid.,22%,U$S,8.30,99.60
+1011,Pimienta Negra en Grano 25 kg,,25 kg,EXE,U$S,7.15,178.75
+B101,Pimienta Negra en Grano 5 kg,,5 kg,EXE,U$S,8.20,41.00
+C101,Pimienta Negra en Grano 500 g,,12 unid.,EXE,U$S,4.30,51.60
+B135,Pimienta Negra Molida 5 kg,,5 kg,22%,U$S,9.00,45.00
+C135,Pimienta Negra Molida 500 g,,12 unid.,22%,U$S,4.72,56.64
+,,,,,,,
+,Miel,,,,,,
+230,Miel Cosecha Dorada 1 kg,7730905132171,Unitario,EXE,$,262.00,262.00
+231,Miel Cosecha Dorada 500 g,7730905132188,Unitario,EXE,$,147.00,147.00
+232,Miel Cosecha Dorada 250 g,7730905132195,Unitario,EXE,$,108.00,108.00
+233,Miel Pura de Abejas 5 kg,,Unitario,EXE,$,1050.00,1050.00
+,,,,,,,
+,"100,104 • Repostería",,,,,,
+,,,,,,,
+610,Caroteno 1 L,,Unitario,22%,$,371.66,371.66
+611,Amarillo Huevo Especial 1 L,,Unitario,22%,$,71.00,71.00
+612,Vainilla Especial 1 L,,Unitario,22%,$,185.83,185.83
+613,Polvo de Hornear 1 kg,,Unitario,22%,$,127.55,127.55
+606,Baño Repostería Blanco 1 kg,,6 unid.,22%,U$S,5.50,33.00
+607,Baño Repostería con Leche 1 kg,,6 unid.,22%,U$S,5.50,33.00
+608,Baño Repostería Semiamargo 1 kg,,6 unid.,22%,U$S,5.50,33.00
+K112,Arándanos con Chocolate 1 kg,,Unitario,22%,U$S,29.21,29.21
+K113,Café con Chocolate 1 kg,,Unitario,22%,$,1905.00,1905.00
+K017,Almendras con Chocolate 1 kg,,Unitario,22%,U$S,33.34,33.34
+609,"Pasas de Uva con Chocolate 8,5 kg",,"8,5 kg",22%,U$S,11.55,98.17
+K111,Pasas de Uva con Chocolate 1 kg,,Unitario,22%,U$S,15.12,15.12
+0784,"Garrapiñada 5,5 kg",,"5,5 kg",22%,U$S,3.90,21.45
+K0784,Garrapiñada 1 kg,,Unitario,22%,U$S,4.68,4.68
+600,Chispitas de Chocolate Termofusión 8 kg,,8 kg,22%,U$S,7.27,58.16
+K600,Chispitas de Chocolate Termofusión 1 kg,,Unitario,22%,U$S,8.72,8.72
+601,Maní con Chocolate Semiamargo 7 kg,,7 kg,22%,U$S,7.03,49.18
+K601,Maní con Chocolate Semiamargo 1 kg,,Unitario,22%,U$S,8.43,8.43
+603,Maní con Chocolate Confitado de Colores 7 kg,,7 kg,22%,U$S,7.94,55.60
+K603,Maní con Chocolate Confitado de Colores 1 kg,,Unitario,22%,U$S,9.53,9.53
+605,"Mini Lentejas de Chocolate de Colores 9,5 kg",,"9,5 kg",22%,U$S,7.72,73.37
+K605,Mini Lentejas de Chocolate de Colores 1 kg,,Unitario,22%,U$S,9.27,9.27
+602,Lentejas de Chocolate de Colores 10 kg,,10 kg,22%,U$S,7.99,79.93
+K602,Lentejas de Chocolate de Colores 1 kg,,Unitario,22%,U$S,9.59,9.59
+ ,Bolita de Cereal con Chocolate 4 kg,,4 kg,22%,U$S,9.95,39.81
+K604,Bolita de Cereal con Chocolate 1 kg,,Unitario,22%,U$S,11.94,11.94
+Cód.,Nombre,Cód. Barra,Desc.,IVA,Mon.,Unitario,Empaque
+,,,,Fecha de actualización:,,,7/1/2024
+,"100,104 • Repostería (Continuación) • Nuevo",,,,,,
+,,,,,,,
+7510,Gelatina Sabor Frutilla 1 kg,,1 kg,22%,U$S,4.96,4.96
+7511,Gelatina Sabor Naranja 1 lg,,1 kg,22%,U$S,4.96,4.96
+7610,Flan Sabor Vainilla 1 kg,,1 kg,22%,U$S,4.33,4.33
+7710,Postre Sabor Chocolate 1 kg,,1 kg,22%,U$S,3.70,3.70
+7711,Postre Sabor Vainilla 1 kg,,1 kg,22%,U$S,3.48,3.48
+,,,,,,,
+,"100,105 • Fruta Seca – Desecadas",,,,,,
+,,,,,,,
+1019,"Arándanos Deshidratados Rojos 11,34 kg",,"11,34 kg",22%,U$S,8.00,90.72
+K1019,Arándanos Deshidratados Rojos 1 kg,,Unitario,22%,U$S,9.60,9.60
+203,Avellanas Peladas Crudas 10 kg,,10 kg,22%,U$S,17.00,170.00
+K203,Avellanas Peladas Crudas 1 kg,,Unitario,22%,U$S,18.90,18.90
+204,Avellanas Peladas Tostadas 10 kg,,10 kg,22%,U$S,17.00,170.00
+K204,Avellanas Peladas Tostadas 1 kg,,Unitario,22%,U$S,18.90,18.90
+,,,,,,,
+1015,Bayas de Goji 20 kg,,20 kg,22%,U$S,13.80,276.00
+K1015,Bayas de Goji 1 kg,7730905132362,Unitario,22%,U$S,15.20,15.20
+,,,,,,,
+223,"Castañas de Cajú Enteras Naturales W3 22,68 kg",,"22,68 kg",22%,U$S,12.63,286.45
+K223,Castañas de Cajú Enteras Naturales W3 1 kg,,Unitario,22%,U$S,15.29,15.29
+224,"Castañas de Cajú Enteras Tostadas c/Sal 22,68 kg",,"22,68 kg",22%,U$S,13.24,300.28
+K224,Castañas de Cajú Enteras Tostadas c/Sal 1 kg,,Unitario,22%,U$S,16.40,16.40
+225,"Castañas de Cajú Enteras Tostadas 22,68 kg",,"22,68 kg",22%,U$S,13.24,300.28
+K225,Castañas de Cajú Enteras Tostadas 1 kg,,Unitario,22%,U$S,16.40,16.40
+222,"Castañas de Cajú Tostadas en Trozos 22,68 kg",,"22,68 kg",22%,U$S,9.96,225.89
+K222,Castañas de Cajú Tostadas en Trozos 1 kg,,Unitario,22%,U$S,11.95,11.95
+K230,Castañas de Cajú Tostadas con Miel 1 kg,773953120941,Unitario,22%,U$S,20.11,20.11
+,,,,,,,
+2202,Pistachos Pelados Crudos 12 kg,,12 kg,22%,U$S,33.50,402.00
+K2202,Pistachos Pelados Crudos 1 kg,,Unitario,22%,U$S,40.00,40.00
+2201,Pistachos Tostados con Cáscara 10 kg,,10 kg,22%,U$S,20.00,200.00
+K2201,Pistachos Tostados con Cáscara 1 kg,,Unitario,22%,U$S,21.00,21.00
+2200,Pistachos Tostados Salados con Cáscara 10 kg,,10 kg,22%,U$S,20.00,200.00
+K2200,Pistachos Tostados Salados con Cáscara 1 kg,,Unitario,22%,U$S,21.00,21.00
+,,,,,,,
+198,Ciruela sin Carozo 60/70 10 kg,,10 kg,22%,U$S,7.30,73.00
+K198,Ciruela sin Carozo 60/70 1 kg,,Unitario,22%,U$S,8.80,8.80
+199,Ciruela con Carozo 10 kg,,10 kg,22%,U$S,0.00,0.00
+K199,Ciruela con Carozo 1 kg,,Unitario,22%,U$S,0.00,0.00
+,,,,,,,
+0410,Coco Rallado Fino 25 kg,,25 kg,22%,U$S,3.00,75.00
+B069,Coco Rallado Fino 5 kg,,5 kg,22%,U$S,3.45,17.25
+K069,Coco Rallado Fino 1 kg,,Unitario,22%,U$S,3.60,3.60
+0411,"Coco Chips 11,34 kg",,"11,34 kg",22%,U$S,4.00,45.36
+B0411,Coco Chips 5 kg,,5 kg,22%,U$S,4.60,23.01
+K0411,Coco Chips 1 kg,,Unitario,22%,U$S,4.81,4.81
+,,,,,,,
+218,Fruta Picada “Sicola”,7896798190596,10 kg,22%,U$S,2.85,28.50
+1020,"Frutilla Deshidratada 12,5 kg",,"12,5 kg",22%,U$S,11.60,145.00
+019,Almendras Peladas Enteras 10 kg,,10 kg,22%,U$S,10.20,102.00
+K019,Almendras Peladas Enteras 1 kg,7730905132287,Unitario,22%,U$S,12.24,12.24
+K0180,Almendras Peladas Tostadas 1 kg,7739753120859,Unitario,22%,U$S,14.01,14.01
+K0181,Almendras Peladas Tostadas con Sal 1 kg,7739753120866,Unitario,22%,U$S,14.01,14.01
+K0182,Almendras Peladas Tostadas con Soja 1 kg,7739753120880,Unitario,22%,U$S,14.01,14.01
+K0183,Almendras Peladas Tostadas con Miel 1 kg,7739753120873,Unitario,22%,U$S,16.90,16.90
+,,,,,,,
+207,Nuez Pelada Cuartos 10 kg,,10 kg,22%,U$S,8.50,85.00
+K207,Nuez Pelada Cuartos 1 kg,,Unitario,22%,U$S,10.50,10.50
+206,Nuez Pelada Mariposa 10 kg,,10 kg,22%,U$S,12.00,120.00
+K206,Nuez Pelada Mariposa 1 kg,,Unitario,22%,U$S,14.40,14.40
+202,Nuez con Cáscara 25 kg,,25 kg,22%,U$S,5.60,140.00
+B202,Nuez con Cáscara 5 kg,,5 kg,22%,U$S,6.40,32.00
+,,,,,,,
+1210,Pasas de Uva Rubias 10 kg,,10 kg,22%,U$S,7.45,74.50
+K1210,Pasas de Uva Rubias 1 kg,,Unitario,22%,U$S,8.94,8.94
+1010,Pasas de Uva Morena Argentina 10 kg,,10 kg,22%,U$S,3.50,35.00
+K110,Pasas de Uva Morena 1 kg,7730905132430,Unitario,22%,U$S,4.16,4.16
+1310,Pasas de Uva Chilena 10 kg,,10 kg,22%,U$S,3.30,33.00
+1311,Pasas de Uva Chilena Jumbo 10 kg,,10 kg,22%,U$S,3.65,36.50
+,,,,,,,
+Cód.,Nombre,Cód. Barra,Desc.,IVA,Mon.,Unitario,Empaque
+,,,,Fecha de actualización:,,,7/1/2024
+,"100,106 • Azúcar – Infusiones",,,,,,
+,,,,,,,
+B046,Azúcar Impalpable 5 kg,,5 kg,22%,U$S,1.89,9.46
+K177,Cacao en Polvo Natural 1 kg,,Unitario,22%,U$S,8.65,8.65
+045,"Cocoa Cosecha Dorada 2,5 kg",7730905130658,Unitario,22%,U$S,4.16,10.40
+044,Cocoa Cosecha Dorada 500 g,7730905130641,10 unid.,22%,U$S,2.40,24.00
+051,Cocoa Cosecha Dorada 200 g,7730905130634,20 unid.,22%,U$S,1.05,21.00
+,,,,,,,
+058,Té Ceylan Standard 1001 23 kg,,23 kg,10%,U$S,11.31,260.22
+B221,Té Ceylan Standard 1001 5 kg,,5 kg,10%,U$S,15.64,78.20
+K058,Té Ceylan Standard 1001 1 kg,,Unitario,10%,U$S,16.32,16.32
+059,Té Ceylan Verde 14 kg,,14 kg,10%,U$S,12.08,169.15
+B059,Té Ceylan Verde 5 kg,,5 kg,10%,U$S,14.38,71.90
+K059,Té Ceylan Verde 1 kg,,1 kg,10%,U$S,15.00,15.00
+,,,,,,,
+060,Yerba Campero 1 kg,7730905130993,20 unid.,10%,U$S,2.68,53.60
+061,Yerba Campero 500 g,7730905131006,20 unid.,10%,U$S,1.38,27.60
+,,,,,,,
+,"100,107 • Cereales",,,,,,
+,,,,,,,
+317,"Copos de Maíz Integral 4 unid. de 2,5 kg",7797599000223,10 kg,22%,U$S,4.60,46.00
+3180,"Copos de Maíz Natural 4 unid. de 2,5 kg",7797599000209,10 kg,22%,U$S,3.37,33.67
+3181,Copos de Maíz Natural 11 unid. de 1 kg,7797599231894,11 unid.,22%,U$S,3.51,38.65
+3182,Copos de Maíz Natural Nutri 32 unid. de 150 g,7797599232075,32 unid.,22%,U$S,0.72,23.04
+3190,"Copos de Maíz Azucarados 4 unid. de 2,5 kg",7797599000216,10 kg,22%,U$S,3.37,33.67
+3191,Copos de Maíz Azucarados 11 unid. de 1 kg,7797599231900,11 unid.,22%,U$S,3.51,38.65
+3192,Copos de Maíz Azucarados 32 unid. de 200 g,7797599232068,32 unid.,22%,U$S,0.85,27.20
+3200,"Granola Nutrifood 5 unid. de 1,5 kg",7797599000032,"7,5 kg",22%,U$S,6.60,49.50
+3202,Granola Nutrifood 20 unid. de 320 g,7797599000520,20 unid.,22%,U$S,2.11,42.20
+K7000,Granola Tradicional con Azúcar Rubio 900g,7739753120392,Unitario,22%,U$S,6.15,6.15
+K7001,Granola Tradicional con Stevia 900g,7739753120590,Unitario,22%,U$S,6.15,6.15
+K7010,Granola Frutos Secos con Azúcar Rubio 900g,7739753120477,Unitario,22%,U$S,7.20,7.20
+K7011,Granola Frutos Secos con Stevia Rubio 900g,7739753120675,Unitario,22%,U$S,7.20,7.20
+321,"Copitas de Maíz de Chocolate 4 unid. de 2,5 kg",7797599000261,10 kg,22%,U$S,4.35,43.50
+3220,"Esferas de Chocolate 4 unid. de 2,5 kg",7797599000278,10 kg,22%,U$S,3.88,38.80
+3221,Esferas de Chocolate 10 unid. de 1 kg,7797599231917,10 unid.,22%,U$S,4.10,41.00
+3222,Esferas de Chocolate 32 unid. de 200 g,7797599232051,32 unid.,22%,U$S,0.93,29.76
+3230,"Aritos Frutados 4 unid. de 2,5 kg",7797599000292,10 kg,22%,U$S,3.70,37.00
+3231,Aritos Frutados 10 unid. de 1 kg,7797599231887,10 unid.,22%,U$S,3.90,39.00
+3232,Aritos Frutados 32 unid. de 160 g,7797599232044,32 unid.,22%,U$S,0.80,25.60
+3240,"Anillos con Avena y Miel 4 unid. de 2,5 kg",7797599321689,10 kg,22%,U$S,3.70,37.00
+3250,"Almohaditas de Chocolate 4 unid. de 2,5 kg",7797599231641,10 kg,22%,U$S,5.15,51.50
+3260,"Almohaditas de Frutilla 4 unid. de 2,5 kg",7797599231658,10 kg,22%,U$S,5.15,51.50
+3270,"Almohaditas de Limón 4 unid. de 2,5 kg",7797599231634,10 kg,22%,U$S,5.15,51.50
+,,,,,,,
+,"100,200 • Snacks y Galletas",,,,,,
+,,,,,,,
+K781,Maní Tostado Salado Cosecha Dorada 1kg,7790905131822,12 unid.,22%,U$S,4.10,49.20
+K783,Maní Tostado sin Sal Cosecha Dorada 1kg,7790905131839,12 unid.,22%,U$S,4.10,49.20
+,,,,,,,
+1320,Papas Bastones Sabor Original Ringo 90 g,6917554959873,12 unid.,22%,U$S,1.34,16.08
+1321,Papas Bastones Sabor Crema y Cebolla Ringo 90 g,6917554626566,12 unid.,22%,U$S,1.34,16.08
+1322,Papas Bastones Sabor Barbacoa Ringo 90 g,6917554959859,12 unid.,22%,U$S,1.34,16.08
+1323,Papas Bastones Sabor Queso Ringo 90 g,6917554959880,12 unid.,22%,U$S,1.34,16.08
+,,,,,,,
+1324,Papas Sabor Original Ringo 120 g,6917554108899,12 unid.,22%,U$S,1.54,18.48
+1325,Papas Sabor Crema y Cebolla Ringo 120 g,6917554108905,12 unid.,22%,U$S,1.54,18.48
+1327,Papas Sabor Barbacoa Ringo 120 g,6917554119437,12 unid.,22%,U$S,1.54,18.48
+,,,,,,,
+3900,Galleta Agua y Sal x3 • 350 g Estrela,7896264670843,24 unid.,22%,U$S,0.88,21.12
+3901,Galleta Cream Cracker x3 • 350 g Estrela,7896264670577,24 unid.,22%,U$S,0.88,21.12
+3910,Galleta María Tradicional x3 • 350 g Estrela,7896264670836,24 unid.,22%,U$S,0.88,21.12
+3911,Galleta Maizena Tradicional x3 • 350 g Estrela,7896264670959,24 unid.,22%,U$S,0.94,22.56
+,,,,,,,
+3913,Galleta Rellena Sabor Frutilla 120 g Estrela,7896264670171,30 unid.,22%,U$S,0.39,11.70
+3914,Galleta Rellena Sabor Chocolate 120 g Estrela,7896264670164,30 unid.,22%,U$S,0.39,11.70
+,,,,,,,
+3926,Waffle de Chocolate 100 g Estrela,7896264670133,40 unid.,22%,U$S,0.35,14.00
+3927,Waffle de Frutilla 100 g Estrela,7896264670140,40 unid.,22%,U$S,0.35,14.00
+3925,Waffle de Limón 100 g Estrela,7896264670157,40 unid.,22%,U$S,0.35,14.00
+,,,,,,,
+,,,,,,,
+Cód.,Nombre,Cód. Barra,Desc.,IVA,Mon.,Unitario,Empaque
+,,,,Fecha de actualización:,,,7/1/2024
+,"100,202 • Fraccionados Cosecha Dorada • Nueva Línea DoyPack",,,,,,
+,,,,,,,
+E189,Adobo Cosecha Dorada 25 g,7730905131228,30 unid.,22%,U$S,0.34,10.20
+E245,Ajo y Perejil Cosecha Dorada 25 g,7730905131204,30 unid.,22%,U$S,0.34,10.20
+E130,Orégano Cosecha Dorada 15 g,7730905131198,30 unid.,EXE,U$S,0.23,6.90
+E097,Pimentón Cosecha Dorada 25 g,7730905131211,30 unid.,22%,U$S,0.29,8.70
+E144,Ajo Granulado Cosecha Dorada 30 g,7730905133109,30 unid.,22%,U$S,0.34,10.20
+E259,Ají Molido Cosecha Dorada 20 g,7730905133093,30 unid.,22%,U$S,0.34,10.20
+E100,Pimienta Blanca en Grano Cosecha Dorada 30 g,7730905133116,30 unid.,22%,U$S,0.45,13.50
+E101,Pimienta Negra en Grano Cosecha Dorada 30 g,7730905133123,30 unid.,EXE,U$S,0.42,12.60
+,,,,,,,
+D144,Ajo Granulado Cosecha Dorada 250 g,7730905132690,12 unid.,22%,U$S,1.66,19.92
+D189,Adobo Cosecha Dorada 250 g,7730905132065,12 unid.,22%,U$S,2.10,25.20
+D245,Ajo y Perejil Cosecha Dorada 250 g,7730905132072,12 unid.,22%,U$S,2.00,24.00
+D130,Orégano Cosecha Dorada 250 g,7730905132089,12 unid.,EXE,U$S,1.95,23.40
+D097,Pimentón Cosecha Dorada 250 g,7730905132096,12 unid.,22%,U$S,1.66,19.92
+,,,,,,,
+E046,Azúcar Impalpable Cosecha Dorada 200 g,7730905130672,30 unid.,22%,U$S,0.00,0.00
+E076,Fécula de Maíz Cosecha Dorada 200 g,7730905130689,30 unid.,22%,U$S,0.39,11.58
+,,,,,,,
+E182,Puré de Papas Cosecha Dorada 125 g,7730905131365,30 unid.,22%,U$S,0.95,28.50
+,,,,,,,
+D019,Almendras Peladas Doypack CD 100 g,7730905132706,12 unid.,22%,U$S,1.45,17.41
+D207,Nueces Peladas DoyPack CD 80 g,7730905132713,12 unid.,22%,U$S,1.40,16.81
+D224,Castañas de Cajú Tostadas c/Sal DoyPack 100 g,7730905132836,12 unid.,22%,U$S,1.87,22.45
+D225,Castañas de Cajú Tostadas s/Sal DoyPack 100 g,7730905132720,12 unid.,22%,U$S,1.87,22.45
+D781,Maní Tostado Salado con Sal DoyPack CD 100 g,7730905132737,12 unid.,22%,U$S,0.60,7.20
+D783,Maní Tostado Salado sin Sal DoyPack CD 100 g,7730905132744,12 unid.,22%,U$S,0.60,7.20
+D1010,Pasas de Uva DoyPack CD 100 g,7730905132751,12 unid.,22%,U$S,0.50,6.00
+D198,Ciruelas sin Carozo DoyPack CD 100 g,7730905132768,12 unid.,22%,U$S,1.19,14.27
+,,,,,,,
+D001,Mix Castañas/Almendras/Maní DoyPack CD 100 g,7730905132775,12 unid.,22%,U$S,1.28,15.36
+D002,Mix Nueces/Almendras/Pasas DoyPack CD 100 g,7730905132782,12 unid.,22%,U$S,1.15,13.81
+,,,,,,,
+D784,Garrapiñada DoyPack CD 100 g,7730905132799,12 unid.,22%,U$S,0.60,7.20
+D601,Maní con Chocolate DoyPack CD 100 g,7730905132867,12 unid.,22%,U$S,0.97,11.64
+D602,Lentejas de Chocolate DoyPack CD 100 g,7730905132843,12 unid.,22%,U$S,1.09,13.08
+,,,,,,,
+D313,Semilla de Chía DoyPack CD 100 g,7730905132805,12 unid.,EXE,U$S,0.78,9.35
+D312,Quinoa Blanca DoyPack CD 100 g,7730905132812,12 unid.,EXE,U$S,0.52,6.19
+D286,Girasol Confitero DoyPack CD 100 g,7730905132829,12 unid.,22%,U$S,0.48,5.76
+,,,,,,,
+D288,Lentejón DoyPack CD 400 g,7730905130900,18 unid.,22%,U$S,1.82,32.76
+D191,Poroto Manteca DoyPack CD 500 g,7730905130870,18 unid.,22%,U$S,1.90,34.20
+D149,Poroto Negro DoyPack CD 500 g,7730905131136,18 unid.,22%,U$S,1.25,22.51
+D110,Poroto Frutilla DoyPack CD 500 g,7730905131129,18 unid.,22%,U$S,1.65,29.70
+D282,Garbanzos DoyPack CD 400 g,7730905130887,18 unid.,22%,U$S,1.16,20.88
+D089,Maíz Pisingallo DoyPack CD 500 g,7730905130733,18 unid.,22%,U$S,0.94,16.92
+D1190,Avena Laminada DoyPack CD 250 g,7730905132850,18 unid.,22%,U$S,0.71,12.79
+D041,Coco Rallado DoyPack CD 200 g,7730905130702,18 unid.,22%,U$S,1.40,25.22
+,,,,,,,
+580,Té Ceylan 6x100 Saquitos de 2 g CD,7730905132232,6 unid.,10%,U$S,7.50,45.00
+585,Té Ceylan 12x50 Saquitos de 2 g CD,7730905132225,12 unid.,10%,U$S,2.34,28.05
+582,Té Ceylan 24x25 Saquitos de 2 g CD,7730905132218,24 unid.,10%,U$S,1.40,33.66
+581,Té Ceylan 48x10 Saquitos de 2 g CD,7730905132201,48 unid.,10%,U$S,0.82,39.35
+588,Té Ceylan Verde 12x50 Saquitos de 2 g CD,7730905132317,12 unid.,10%,U$S,2.52,30.28
+587,Té Ceylan Verde 24x25 Saquitos de 2 g CD,7730905132300,24 unid.,10%,U$S,1.51,36.24
+586,Té Ceylan Verde 48x10 Saquitos de 2 g CD,7730905132294,48 unid.,10%,U$S,0.90,43.00
+591,Té Ceylan con Limón 12x50 Saquitos de 2 g CD,7730905132348,12 unid.,10%,U$S,2.87,34.49
+590,Té Ceylan con Limón 24x25 Saquitos de 2 g CD,7730905132331,24 unid.,10%,U$S,1.63,39.02
+589,Té Ceylan con Limón 48x10 Saquitos de 2 g CD,7730905132331,48 unid.,10%,U$S,0.97,46.55
+,,,,,,,
+E115,Gofio Pajarito 1 kg,7730914720017,10 unid.,22%,$,132.00,1320.00
+E1151,Gofio Pajarito 500 g,7730914720031,20 unid.,22%,$,78.00,1560.00
+E1152,Gofio Pajarito 250 g ,7730914720079,24 unid.,22%,$,44.20,1060.80
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+Cód.,Nombre,Cód. Barra,Desc.,IVA,Mon.,Unitario,Empaque
+,,,,Fecha de actualización:,,,7/1/2024
+,Fideos de Sémola de Trigo Candeal • Bonavita,,,,,,
+,,,,,,,
+807,Caracoles 500 g Bonavita,7798031150391,15 unid.,10%,U$S,0.75,11.25
+802,Coditos 500 g Bonavita,7798031150872,15 unid.,10%,U$S,0.75,11.25
+806,Mostachol Rayado 500 g Bonavita,7798031150384,15 unid.,10%,U$S,0.75,11.25
+803,Moños 500 g Bonavita,7798031150117,15 unid.,10%,U$S,0.75,11.25
+801,Rigatti 500 g Bonavita,7798031150094,15 unid.,10%,U$S,0.75,11.25
+804,Spaghetti 500 g Bonavita,7798031150049,20 unid.,10%,U$S,0.75,15.00
+805,Tallarines 500 g Bonavita,7798031150063,20 unid.,10%,U$S,0.75,15.00
+800,Tirabuzón 500 g Bonavita,7798031150070,15 unid.,10%,U$S,0.75,11.25
+,,,,,,,
+,Pastas Sol Pampeano • NUEVO,,,,,,
+,,,,,,,
+820,Tirabuzón 400 g Sol Pampeano,7798031155495,15 unid.,10%,U$S,0.52,7.82
+824,Spaghetti 400 g Sol Pampeano,7798031155471,20 unid.,10%,U$S,0.52,10.42
+826,Mostachol 400 g Sol Pampeano,7798031155518,15 unid.,10%,U$S,0.52,7.82
+,,,,,,,
+,Pastas Línea Natural Sin Gluten - Vegana - KOSHER • Cosecha Dorada • NUEVO,,,,,,
+,,,,,,,
+8100,Fusilli de Maíz Amarillo 250 g,7730905132997,12 unid.,10%,U$S,1.60,19.20
+8101,Spaghetti de Maíz Amarillo 250 g,7730905132980,12 unid.,10%,U$S,1.80,21.60
+8120,Mini Fusilli de Arroz Integral 250 g,7730905133017,12 unid.,10%,U$S,1.70,20.40
+8121,Spaghetti de Arroz Integral 250 g,7730905133000,12 unid.,10%,U$S,1.90,22.80
+8130,Fusilli de Quinoa Real 250 g,7730905133031,12 unid.,10%,U$S,2.10,25.20
+8131,Spaghetti de Quinoa Real 250 g,7930905133024,12 unid.,10%,U$S,2.30,27.60
+8140,Fusilli de Chía 250 g,7730905133055,12 unid.,10%,U$S,2.10,25.20
+8141,Spaghetti de Chía 250 g,7730905133048,12 unid.,10%,U$S,2.30,27.60
+8150,Coditos de Lentejas 250 g,7730905133062,12 unid.,10%,U$S,3.10,37.20
+8160,Sedanini de Arvejas 250 g,7730905133079,12 unid.,10%,U$S,2.90,34.80
+,,,,,,,
+,"100,203 • Encurtidos Cosecha Dorada",,,,,,
+,,,,,,,
+380,Ajíes Catalanes 350 g Cosecha Dorada,7730905131891,6 unid.,22%,$,100.00,600.00
+381,Ajíes Catalanes 580 g Cosecha Dorada,7730905131945,6 unid.,22%,$,150.00,900.00
+382,Pickles 350 g Cosecha Dorada,7730905131884,6 unid.,22%,$,100.00,600.00
+383,Pickles 660 g Cosecha Dorada,7730905131938,6 unid.,22%,$,150.00,900.00
+384,Morrones en Vinagre 350 g Cosecha Dorada,7730905131877,6 unid.,22%,$,115.00,690.00
+385,Morrones en Vinagre 660 g Cosecha Dorada,7730905131921,6 unid.,22%,$,170.00,1020.00
+386,Hongos en Escabeche 350 g Cosecha Dorada,7730905131860,6 unid.,22%,$,115.00,690.00
+387,Hongos en Escabeche 660 g Cosecha Dorada,7730905131914,6 unid.,22%,$,170.00,1020.00
+388,Hongos en Vinagre 350 g Cosecha Dorada,7730905131853,6 unid.,22%,$,115.00,690.00
+389,Hongos en Vinagre 660 g Cosecha Dorada,7730905131907,6 unid.,22%,$,170.00,1020.00
+,,,,,,,
+,Bebidas Alcohólicas: Samba • Burguesa • Moinho Real • Smith 44 • Vinos Campero,,,,,,
+,,,,,,,
+,Samba,,,,,,
+7913,Cerveza Samba Lata 350 ml,7898295301130,12 Latas,22%,U$S,0.68,8.16
+7914,Cerveza Samba Lata 473 ml,7898295300201,12 Latas,22%,U$S,0.85,10.20
+7916,Cerveza Samba Botella 600 ml,7898295300614,6 Bot.,22%,U$S,1.35,8.10
+,,,,,,,
+,Burguesa,,,,,,
+7924,Cerveza Burguesa Lata 473 ml,7898295301505,12 Latas,22%,U$S,0.97,11.64
+,,,,,,,
+,Moinho Real,,,,,,
+7934,Cerveza Moinho Real Lata 473 ml,7898295303530,12 Latas,22%,U$S,1.00,12.00
+7936,Cerveza Moinho Real Botella 600 ml,7898295303264,6 Bot.,22%,U$S,1.47,8.82
+,,,,,,,
+,Smith 44,,,,,,
+7941,Cerveza Smith 44 Botella 330 ml,7898295303769,24 Bot.,22%,U$S,0.96,23.04
+7944,Cerveza Smith 44 Lata 473 ml,7898295305152,6 Latas,22%,U$S,1.18,7.08
+7946,Cerveza Smith 44 Botella x 600 ml,7898295305169,6 Bot.,22%,U$S,1.64,9.84
+,,,,,,,
+,Conti Malzbier,,,,,,
+7964,Cerveza Negra Conti Malzbier Lata 473 ml,7898295301574,12 Latas,22%,U$S,1.00,12.00
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+Cód.,Nombre,Cód. Barra,Desc.,IVA,Mon.,Unitario,Empaque
+,,,,Fecha de actualización:,,,1/29/2024
+,Conserva de Frutas • Cosecha Dorada / Campero,,,,,,
+,,,,,,,
+3020,Durazno en Almíbar Cosecha Dorada 3 kg,7730905130290,6 unid.,22%,U$S,0.00,0.00
+0020,Durazno en Almíbar Cosecha Dorada 820 g,7730905130306,12 unid.,22%,U$S,1.80,21.60
+297,Durazno en Almíbar sin Azúcar CD 800 g,7730905131662,12 unid.,22%,U$S,2.25,27.00
+296,Durazno en Almíbar Campero 800 g,7730905130313,12 unid.,22%,U$S,1.75,21.00
+,,,,,,,
+3012,Ananá en Almíbar Cosecha Dorada 3 kg,7730905130382,6 unid.,22%,U$S,7.05,42.30
+290,Ananá en Almíbar Cosecha Dorada 820 g,7730905130375,12 unid.,22%,U$S,2.08,25.00
+289,Ananá en Almíbar sin Azúcar CD 820 g,7730905131778,12 unid.,22%,U$S,2.25,27.00
+291,Ananá en Almíbar Campero 850 g,7730905130368,12 unid.,22%,U$S,2.04,24.50
+,,,,,,,
+277,Coctail de Frutas Cosecha Dorada 820 g,7730905130320,12 unid.,22%,U$S,2.90,34.81
+273,Coctail de Frutas sin Azúcar CD 800 g,7730905131495,12 unid.,22%,U$S,2.90,34.81
+,,,,,,,
+278,Peras en Almíbar Cosecha Dorada 820 g,7730905130337,12 unid.,22%,U$S,2.35,28.20
+284,Peras en Almíbar sin Azúcar CD 800 g,7730905131402,12 unid.,22%,U$S,2.35,28.20
+1941,Higos en Almíbar Cosecha Dorada 790 g,7730905130344,12 unid.,22%,U$S,2.76,33.12
+126,Zapallo en Almíbar Cosecha Dorada 830 g,7730905130351,12 unid.,22%,U$S,2.68,32.16
+295,Arándanos en Almíbar Cosecha Dorada 520 g,7730905132645,12 unid.,22%,U$S,2.40,28.80
+275,Frutillas en Almíbar Cosecha Dorada 850 g,7730905131372,12 unid.,22%,U$S,3.46,41.52
+294,Frutillas en Almíbar Cosecha Dorada 520 g,7730905131648,12 unid.,22%,U$S,2.40,28.80
+,,,,,,,
+262,Cerezas Rojas al Marrasquino Frasco 190 g,7730905131280,12 unid.,22%,U$S,2.90,34.80
+U261,"Cerezas Rojas al Marrasquino 3,1 kg",7730905130405,Unitario,22%,U$S,17.13,17.13
+U268,"Cerezas Verdes al Marrasquino 3,1 kg",7730905131105,Unitario,22%,U$S,17.13,17.13
+263,Cerezas Confitadas 8 kg,7730905131112,8 kg,22%,U$S,10.00,80.00
+,,,,,,,
+,"100,301 • Conservas de Vegetales Cosecha Dorada / Campero",,,,,,
+,,,,,,,
+219,Arvejas Campero 300 g,7730905130047,24 unid.,22%,U$S,0.44,10.44
+008,"Arvejas Cosecha Dorada 2,5 kg",7730905131600,6 unid.,22%,U$S,4.40,26.40
+165,Arvejas Cosecha Dorada 800 g,7730905131594,12 unid.,22%,U$S,1.37,16.44
+011,Arvejas Cosecha Dorada Abre Fácil 400 g,7730905131587,24 unid.,22%,U$S,0.60,14.40
+010,Arvejas Cosecha Dorada Abre Fácil 300 g,7730905130016,24 unid.,22%,U$S,0.50,12.00
+213,Arvejas y Maíz Cosecha Dorada 300 g,7730905131235,24 unid.,22%,U$S,0.61,14.64
+210,Zanahoria y Arvejas Cosecha Dorada 300 g,7730905131334,24 unid.,22%,U$S,0.61,14.64
+,,,,,,,
+2142,Champignon Entero Cosecha Dorada 184 g,7730905131433,24 unid.,22%,U$S,1.01,24.24
+2140,Champignon Entero Cosecha Dorada 400 g,7730905130245,24 unid.,22%,U$S,1.56,37.44
+215,"Champignon Entero Cosecha Dorada 2,84 kg",7730905130269,6 unid.,22%,U$S,10.41,62.46
+2143,Champignon Laminado Cosecha Dorada 184 g,7730905131440,24 unid.,22%,U$S,0.66,15.84
+2141,Champignon Laminado Cosecha Dorada 400 g,7730905130238,24 unid.,22%,U$S,1.13,27.12
+216,"Champignon Laminado Cosecha Dorada 2,84 kg",7730905130252,6 unid.,22%,U$S,5.60,33.60
+,,,,,,,
+018,Crema de Choclo Cosecha Dorada 400 g,7730905131617,24 unid.,22%,U$S,1.34,32.16
+185,Espárragos Enteros Cosecha Dorada 800 g,7730905130139,12 unid.,22%,U$S,3.40,40.80
+,,,,,,,
+2090,Jardinera de Hortalizas y Legumbres CD 300 g,7730905131341,24 unid.,22%,U$S,0.61,14.64
+211,Jardinera de Legumbes CD 300 g,7730905131297,24 unid.,22%,U$S,0.61,14.64
+,,,,,,,
+161,"Maíz en Grano Cosecha Dorada 2,6 kg",7730905130092,6 unid.,22%,U$S,6.40,38.41
+025,Maíz en Grano Cosecha Dorada 800 g,7730905130078,12 unid.,22%,U$S,1.95,23.40
+023,Maíz en Grano Cosecha Dorada 300 g,7730905130085,24 unid.,22%,U$S,0.68,16.32
+332,"Morrones Enteros Cosecha Dorada 2,5 kg",7730905131082,6 unid.,22%,U$S,7.70,46.20
+333,Morrones Enteros Cosecha Dorada 793 g,7730905131426,12 unid.,22%,U$S,3.00,36.00
+,,,,,,,
+260,Poroto Alubia Cosecha Dorada 300 g,7730905131549,24 unid.,22%,U$S,0.70,16.80
+265,Poroto Colorado Cosecha Dorada 300 g,7730905133086,24 unid.,22%,U$S,0.64,15.36
+258,Poroto Frutilla Cosecha Dorada 400 g,7730905131525,24 unid.,22%,U$S,0.73,17.52
+264,Poroto Manteca Cosecha Dorada 400 g,7730905131532,24 unid.,22%,U$S,0.85,20.40
+249,Poroto Negro Cosecha Dorada 400 g,7730905131563,24 unid.,22%,U$S,0.73,17.52
+267,Garbanzos Cosecha Dorada 400 g,7730905130160,24 unid.,22%,U$S,0.73,17.52
+271,Lentejas Cosecha Dorada 400 g,7730905131457,24 unid.,22%,U$S,0.73,17.52
+, ,,,,,,
+2092,Box de Tomate Campero 900 g,7730905130276,12 unid.,22%,U$S,0.80,9.60
+2097,Pulpa Tamizada Campero 1 kg,7730905131983,12 unid.,22%,U$S,1.06,12.72
+2098,Pulpa de Tomate Concentrada CD 1 kg,7730905131952,12 unid.,22%,U$S,1.37,16.44
+2094,Puré de Tomate Cosecha Dorada Botella 680 g,7730905132003,12 unid.,22%,U$S,1.83,21.96
+,,,,,,,
+,,,,,,,
+Cód.,Nombre,Cód. Barra,Desc.,IVA,Mon.,Unitario,Empaque
+,,,,Fecha de actualización:,,,1/29/2024
+,"100,301 • Conservas de Vegetales Cosecha Dorada / Campero (Continuación)",,,,,,
+,,,,,,,
+2096,Salsa de Tomate Señor Tomate 1 kg,7730905133215,12 unid.,22%,U$S,0.78,9.36
+2093,Salsa Pizzera 3 kg,7730493091652,Unitario,22%,U$S,3.84,3.84
+,,,,,,,
+027,"Tomate Perita Pelado Cosecha Dorada 2,55 kg",7730905130115,6 unid.,22%,U$S,5.50,33.00
+029,Tomate Perita Pelado Cosecha Dorada 400 g,7730905130108,24 unid.,22%,U$S,0.90,21.60
+031,"Tomate en Cubos Cosecha Dorada 2,55 kg",7730905130122,6 unid.,22%,U$S,5.50,33.00
+034,Tomate en Cubos Cosecha Dorada 400 g,7730905131556,24 unid.,22%,U$S,0.90,21.60
+,,,,,,,
+,"100,302 • Palmitos Cosecha Dorada / Campero",,,,,,
+,,,,,,,
+057,Palmitos Enteros Campero 400 g,7730905130191,24 unid.,22%,U$S,2.10,50.40
+154,Palmitos Enteros Campero 800 g,7730905130184,12 unid.,22%,U$S,4.05,48.60
+256,Palmitos en Rodajas Campero 400 g,7730905131488,24 unid.,22%,U$S,1.61,38.64
+255,Palmitos en Rodajas Campero 800 g,7730905131181,12 unid.,22%,U$S,3.09,37.08
+,,,,,,,
+150,Palmitos Enteros Cosecha Dorada 400 g,7730905130221,24 unid.,22%,U$S,2.13,51.12
+151,Palmitos Enteros Cosecha Dorada 800 g,7730905130214,12 unid.,22%,U$S,4.12,49.44
+253,Palmitos en Rodajas Cosecha Dorada 400 g,7730905132041,24 unid.,22%,U$S,1.65,39.60
+254,Palmitos en Rodajas Cosecha Dorada 800 g,7730905132034,12 unid.,22%,U$S,3.16,37.92
+,,,,,,,
+,"100,303 • Conserva de Pescados Golden Fish / Marinera / Marbella",,,,,,
+,,,,,,,
+2801,Anchoas en Aceite Marbella 90 g,7792750000937,24 unid.,22%,U$S,3.80,91.20
+2802,Anchoas en Aceite Marbella 1 kg,7792750001255,6 unid.,22%,U$S,27.00,162.00
+,,,,,,,
+360,Atún Desmenuzado en Aceite Golden Fish 170 g,7730905131266,48 unid.,22%,U$S,0.85,40.80
+359,Atún Desmenuzado al Natural Golden Fish 170 g,7730905131259,48 unid.,22%,U$S,0.81,38.88
+355,Atún Trozos en Aceite Golden Fish 170 g,7730905131051,48 unid.,22%,U$S,1.37,65.76
+356,Atún Trozos al Natural Golden Fish 170 g,7730905131068,48 unid.,22%,U$S,1.32,63.36
+3680,Atún Trozos en Aceite Pouch Golden Fish 500 g,7730905132256,16 unid.,22%,U$S,4.65,74.40
+354,Atún Trozos al Natural Pouch Golden Fish 500 g,7730905132461,16 unid.,22%,U$S,4.20,67.20
+003,Atún Trozos en Aceite Golden Fish 900 g,7730905131327,12 unid.,22%,U$S,7.20,86.40
+0031,Atún Trozos al Natural Golden Fish 900 g,7730905132140,12 unid.,22%,U$S,7.00,84.00
+3681,Atún Trozos en Aceite Pouch Golden Fish 1 kg,7730905132249,16 unid.,22%,U$S,8.65,138.40
+3650,"Atún Trozos en Aceite Golden Fish 1,8 kg",7730905131389,6 unid.,22%,U$S,13.00,78.00
+3651,"Atún Trozos al Natural Golden Fish 1,8 kg",7730905132164,6 unid.,22%,U$S,13.00,78.00
+363,Atún Lomos en Aceite Tripack Golden Fish 3x 80 g,7730905131679,20 unid.,22%,U$S,3.00,60.00
+364,Atún Lomos al Natural Tripack Golden Fish 3x 80 g,7730905131686,20 unid.,22%,U$S,2.90,58.00
+372,Atún Lomos en Aceite Golden Fish 170 g,7730905132126,48 unid.,22%,U$S,1.39,66.72
+373,Atún Lomos al Natural Golden Fish 170 g,7730905132119,48 unid.,22%,U$S,1.34,64.32
+369,Atún Lomos en Aceite Golden Fish 350 g,7730905131693,24 unid.,22%,U$S,3.43,82.32
+370,Atún Lomos al Natural Golden Fish 350 g,7730905131709,24 unid.,22%,U$S,3.30,79.20
+,,,,,,,
+0870,Grated de Sardinas Marinera 170 g,7730905131273,48 unid.,22%,U$S,0.68,32.64
+030,Grated de Sardinas Marinera 425 g,7730905130412,24 unid.,22%,U$S,1.36,32.64
+0321,Sardinas Enteras en Aceite Golden Fish 125 g,7730905131150,50 unid.,22%,U$S,0.74,37.00
+357,Sardinas Enteras en Aceite Oval GF 425 g,7730905131143,24 unid.,22%,U$S,1.90,45.60
+358,Sardinas Enteras al Natural Golden Fish 425 g,7730905131167,24 unid.,22%,U$S,1.75,42.00
+0331,Sardinas Enteras en Tomate Golden Fish 425 g,7730905131655,24 unid.,22%,U$S,1.75,42.00
+,,,,,,,
+,"100,304 • Conserva de Carnes Cosecha Dorada",,,,,,
+,,,,,,,
+124,Corned Beef Cosecha Dorada 340 g,7730905130504,24 unid.,22%,U$S,2.80,67.20
+1041,Paté de Carne Cosecha Dorada 100 g,7730905130535,24 unid.,22%,U$S,0.65,15.60
+1071,Paté de Jamón Cosecha Dorada 100 g,7730905130556,24 unid.,22%,U$S,0.65,15.60
+1031,Paté de Lengua Cosecha Dorada 100 g,7730905130528,24 unid.,22%,U$S,0.65,15.60
+1051,Paté de Pollo Cosecha Dorada 100 g,7730905130542,24 unid.,22%,U$S,0.65,15.60
+123,Salchicha Tipo Viena Cosecha Dorada 180 g,7730905130511,24 unid.,22%,U$S,1.24,29.76
+,,,,,,,
+,"100,400 • Aceitunas Cosecha Dorada",,,,,,
+,,,,,,,
+083,Aceitunas en Rodajas Cosecha Dorada 1 kg,,Unitario,22%,U$S,4.85,4.85
+1872,Aceitunas con Carozo Cosecha Dorada 1 kg,,Unitario,22%,U$S,4.05,4.05
+192,Aceitunas sin Carozo Cosecha Dorada 1 kg,,Unitario,22%,U$S,5.00,5.00
+063,Aceitunas Rotas Cosecha Dorada 1 kg,,Unitario,22%,U$S,2.90,2.90
+1601,Aceitunas Negras sin Carozo CD 1 kg,,Unitario,22%,U$S,6.80,6.80
+,,,,,,,
+0660,Aceitunas sin Carozo Doypack CD 200 g,7730905130924,24 unid.,22%,U$S,0.81,19.44
+0661,Aceitunas con Carozo Doypack CD 200 g,7730905130917,24 unid.,22%,U$S,0.62,14.76
+0662,Aceitunas en Rodajas Doypack CD 200 g,7730905133161,24 unid.,22%,U$S,0.74,17.76
+Cód.,Nombre,Cód. Barra,Desc.,IVA,Mon.,Unitario,Empaque
+,,,,Fecha de actualización:,,,7/1/2024
+,"100,401 • Aceites y Vinagres Cosecha Dorada",,,,,,
+,,,,,,,
+0505,Aceite de Oliva Extra Virgen 250 ml • Vidrio,7730905131785,12 unid.,10%,U$S,3.92,47.04
+0502,Aceite de Oliva Extra Virgen 500 ml • Vidrio,7730905131792,12 unid.,10%,U$S,6.80,81.60
+0503,Aceite de Oliva Virgen 3L • Bidón,7730973440932,4 unid ,10%,U$S,40.00,160.00
+0504,Aceite de Oliva Extra Virgen 5 L • Bidón,7730905131815,4 unid.,10%,U$S,54.30,217.18
+,,,,,,,
+0527,Vinagre de Alcohol Cosecha Dorada 750 ml,7730905132881,12 unid.,22%,U$S,0.45,5.40
+0525,"Vinagre de Alcohol Cosecha Dorada 4,9 L",7730905132898,2 unid.,22%,U$S,2.60,5.20
+0537,Vinagre de Manzana Cosecha Dorada 750 ml,7730905132904,12 unid.,22%,U$S,0.54,6.48
+0535,"Vinagre de Manzana Cosecha Dorada 4,9 L",7730905132911,2 unid.,22%,U$S,3.26,6.52
+,,,,,,,
+,"100,601 • Salsas y Aderezos",,,,,,
+,,,,,,,
+0421,Salsa de Soja 1 L,,12 unid.,22%,$,210.00,2520.00
+,,,,,,,
+,"100,500 • Artículos de Limpieza • Limpiamás+",,,,,,
+,,,,,,,
+431,Cepillo con Alza Limpiamás,7896230981386,12 unid.,22%,U$S,0.65,7.80
+408,Cepillo Lavajeans Limpiamás,7898650900442,12 unid.,22%,U$S,0.55,6.60
+4151,Cepillo de Baño Limpiamás,7896230981067,12 unid.,22%,U$S,1.60,19.20
+435,Cepillo de Uñas Limpiamás,7896230026032,50 unid.,22%,U$S,0.27,13.50
+,,,,,,,
+428,Escoba TopMax Limpiamás,7898650900343,12 unid.,22%,U$S,1.75,21.00
+440,Escoba Angular Limpiamás,7896230900354,12 unid.,22%,U$S,1.38,16.56
+401,Escoba Barrebien Limpiamás,7896230900336,12 unid.,22%,U$S,1.55,18.60
+402,Escoba Recta Perfecta Limpiamás,7898650900329,12 unid.,22%,U$S,1.29,15.48
+403,Escoba Recta Xterna Limpiamás,7896230900367,12 unid.,22%,U$S,1.50,18.00
+413,Escoba Superpelo Limpiamás,7898650901050,12 unid.,22%,U$S,1.80,21.60
+4161,Escobilla de Jardín Limpiamás,7898253663270,12 unid.,22%,U$S,1.70,20.40
+4071,Escobilla Sanitaria con Pote Limpiamás,,12 unid.,22%,U$S,1.30,15.60
+444,Escobillón Doble Acción Limpiamás,7898253663270,12 unid.,22%,U$S,1.56,18.71
+421,Escoba Fregón Limpiamás,7898650900565,12 unid.,22%,U$S,1.75,21.00
+4241,Escoba de Calle 30 cm Limpiamás,7896230900293,12 unid.,22%,U$S,4.30,51.60
+4181,Escoba de Calle 40 cm Limpiamás,7896230900196,12 unid.,22%,U$S,5.50,66.00
+,,,,,,,
+445,Lampazo Duplo 30 cm Limpiamás,7898650900411,12 unid.,22%,U$S,1.34,16.08
+446,Lampazo Duplo 40 cm Limpiamás,7898650900428,12 unid.,22%,U$S,1.59,19.10
+430,Limpia Vidrio 15 cm Limpiamás,,24 unid.,22%,U$S,0.86,20.64
+429,Mopa para Piso Cabo de Madera Limpiamás,,20 unid.,22%,U$S,2.40,48.00
+,,,,,,,
+409,Pala con Clip Limpiamás,,12 unid.,22$,U$S,0.45,5.40
+4261,Pala con Mango Limpiamás,7898949961857,12 unid.,22$,U$S,0.96,11.52
+,,,,,,,
+437,Balde de Colores 12 L Limpiamás,,24 unid.,22%,U$S,2.44,58.56
+427,Balde Escurridor 12 L Limpiamás,,24 unid.,22%,U$S,2.60,62.40
+4390,Papelera con Tapa 10 L Limpiamás,,48 unid.,22%,U$S,4.20,201.60
+,,,,,,,
+U4391,Contenedor de Residuos 100 L (verde/rojo/azul),,Unitario,22%,U$S,50.00,50.00
+U439,Contenedor de Residuos 120 L (verde/rojo/azul),,Unitario,22%,U$S,58.50,58.50
+U4392,Contenedor de Residuos 240 L (verde/rojo/azul),,Unitario,22%,U$S,95.00,95.00
+,,,,,,,
+,"100,500 • Artículos de Limpieza • Limpiamás+ (Continuación)",,,,,,
+,,,,,,,
+450,Palillos Plásticos x12 Unidades Limpiamás,,12 unid.,22%,U$S,1.24,14.87
+4361,Perchas Set 3 Unidades Limpiamás,,24 unid.,22%,U$S,0.82,19.74
+434,Plumero de Colores 60 cm Limpiamás,,60 unid.,22%,U$S,0.61,36.60
+438,Sopapas Limpiamás,,12 unid.,22%,U$S,2.00,24.00
+,,,,,,,
+5810,Bolsas de Residuos Limpiamás 50x58cm 10 unid.,7730905133130,36 Rollos,22%,U$S,0.32,11.52
+5825,"Bolsas de Residuos Limpiamás 50x58cm 25 Unid,",7730905133147,20 Rollos,22%,U$S,0.53,10.60
+7010,Bolsas de Residuos Limpiamás 70x100cm 10 Unid.,7730905133154,12 Rollos,22%,U$S,1.03,12.36
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+Cód.,Nombre,Cód. Barra,Desc.,IVA,Mon.,Unitario,Empaque
+,,,,Fecha de actualización:,,,7/1/2024
+,"100,501 • Artículos de Limpieza • Limppano",,,,,,
+,,,,,,,
+478,Deshumidificador Natural 230 g,,12 unid.,22%,U$S,1.70,20.40
+4771,Deshumidificador Limón 100 g,,12 unid.,22%,U$S,1.15,13.80
+4781,Deshumidificador Natural 100 g,,12 unid.,22%,U$S,1.15,13.80
+4791,Deshumidificador Lino 100 g,,12 unid.,22%,U$S,1.15,13.80
+480,Deshumidificador c/Percha Natural 200 g,,18 unid.,22%,U$S,2.15,38.70
+,,,,,,,
+451,Esponja Multiuso Individual,,60 unid.,22%,U$S,0.18,10.80
+452,Esponja Multiuso x3 unidades,,60 unid.,22%,U$S,0.52,31.20
+453,Esponja Salvauñas Redonda Individual,,60 unid.,22%,U$S,0.30,18.00
+454,Esponja Salvauñas Rectangular Individual,,60 unid.,22%,U$S,0.27,16.20
+474,Esponja Salvauñas Rectangular x3 unidades,,60 unid.,22%,U$S,0.79,47.40
+455,Esponja Antiadherente Individual,,60 unid.,22%,U$S,0.21,12.60
+,,,,,,,
+456,Esponja Rayum Individual,,60 unid.,22%,U$S,0.36,21.60
+457,Esponja de Acero Inoxidable,,24 unid.,22%,U$S,0.53,12.72
+458,Esponja de Cobre,,50 unid.,22%,U$S,0.70,35.00
+459,Esponja de Baño Porus Surtida,,24 unid.,22%,U$S,0.29,6.96
+460,Esponja de Baño Porus Fleur,,12 unid.,22%,U$S,1.10,13.20
+461,Esponja de Baño Porus Sensation,,24 unid.,22%,U$S,0.69,16.56
+462,Paño Furatto x5 unidades (Azul/Lavanda/Limón),,25 unid.,22%,U$S,0.70,17.50
+463,Toalex - Rollo de Toallas Rehusable,,12 unid.,22%,U$S,2.20,26.40
+464,Paño Multiuso Tango x2 unidades,,30 unid.,22%,U$S,0.84,25.20
+465,Guantes Forrados Tamaño P/M/G,,24 unid.,22%,U$S,1.50,36.00
+,,,,,,,
+466,Franela unitario,,24 unid.,22%,U$S,0.45,10.80
+470,Escoba Uso Externo Limppano,,12 unid.,22%,U$S,2.30,27.60
+471,Lampazo 30 cm Limppano,,12 unid.,22%,U$S,2.30,27.60
+472,Lampazo 40 cm Limppano,,12 unid.,22%,U$S,2.63,31.56
+,,,,,,,
+,Alimentos para Mascotas • NUEVO,,,,,,
+,,,,,,,
+,Alimentos para Perros,,,,,,
+,,,,,,,
+860,"Arroz de Perro Cango 1,7 kg",,12 unid.,10%,$,50.50,606.00
+,,,,,,,
+861,KAU High Premium - Todas las razas 15 kg,7899729800670,Unitario,22%,U$S,1.65,24.69
+862,Turbocão Premium - Razas pequeñas 15 kg,7899729800786,Unitario,22%,U$S,1.65,24.74
+863,Turbocão Premium - Cachorros 15 kg,7899729800731,Unitario,22%,U$S,1.77,26.55
+864,Turbocão Premium - Razas grandes 15 kg,7899729800816,Unitario,22%,U$S,1.60,23.94
+865,Cão Criador - Todas las razas 15 kg,7899729800397,Unitario,22%,U$S,1.14,17.12
+,,,,,,,
+8621,Turbocão Premium - Razas pequeñas 1 kg,7899729800236,10 unid.,22%,U$S,2.00,20.01
+8631,Turbocão Premium - Cachorros 1 kg,7899729800298,10 unid.,22%,U$S,2.11,21.14
+8641,Turbocão Premium - Razas grandes 1 kg,7899729800335,10 unid.,22%,U$S,1.92,19.19
+8657,Cão Criador - Todas las razas 7 kg,7899729800373,Unitario,22%,U$S,1.24,8.66
+,,,,,,,
+,Alimentos para Gatos,,,,,,
+,,,,,,,
+866,"Turbogato Premium Gato - Todas las razas 10,1 kg",7899729800830,Unitario,22%,U$S,1.87,18.85
+867,"Turbogato Premium Gato - Gatos Castrados 10,1 kg",7899729800724,Unitario,22%,U$S,1.80,18.20
+8682,Gato Criador - Todas las razas 25 kg,7899729800458,Unitario,22%,U$S,1.52,38.09
+,,,,,,,
+8661,Turbogato Premium Gato - Todas las razas 1 kg,7899729800038,10 unid.,22%,U$S,2.24,22.40
+8671,Turbogato Premium Gato - Gatos Castrados 1 kg,7899729800717,10 unid.,22%,U$S,2.17,21.70
+868,Gato Criador - Todas las razas 7 kg,7899729800441,Unitario,22%,U$S,1.61,11.27

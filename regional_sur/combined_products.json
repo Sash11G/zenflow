@@ -1,0 +1,652 @@
+{
+  "Frutas y Hortalizas": [
+    {
+      "Product": "Acelga",
+      "Category": "E",
+      "Unit": "DOC",
+      "Calibre": "GRANDE",
+      "Min Price": 280,
+      "Max Price": 300
+    },
+    {
+      "Product": "Ají Catalán Dulce",
+      "Category": "E",
+      "Unit": "KG",
+      "Calibre": "MEDIANO",
+      "Min Price": 90,
+      "Max Price": 100
+    },
+    {
+      "Product": "Ají Catalán Picante",
+      "Category": "E",
+      "Unit": "KG",
+      "Calibre": "MEDIANO",
+      "Min Price": 90,
+      "Max Price": 100
+    },
+    {
+      "Product": "Albahaca",
+      "Category": "E",
+      "Unit": "DOC",
+      "Calibre": "GRANDE",
+      "Min Price": 450,
+      "Max Price": 500
+    },
+    {
+      "Product": "Ananá Hawai",
+      "Category": "E",
+      "Unit": "KG",
+      "Calibre": "GRANDE",
+      "Min Price": 75,
+      "Max Price": 83
+    },
+    {
+      "Product": "Apio Hoja",
+      "Category": "E",
+      "Unit": "DOC",
+      "Calibre": "GRANDE",
+      "Min Price": 1000,
+      "Max Price": 1200
+    },
+    {
+      "Product": "Apio Planta",
+      "Category": "E",
+      "Unit": "DOC",
+      "Calibre": "GRANDE",
+      "Min Price": 1000,
+      "Max Price": 1200
+    },
+    {
+      "Product": "Banana Cavendish (Nanica)",
+      "Category": "E",
+      "Unit": "KG",
+      "Calibre": "GRANDE",
+      "Min Price": 45,
+      "Max Price": 50
+    },
+    {
+      "Product": "Berenjena",
+      "Category": "E",
+      "Unit": "KG",
+      "Calibre": "GRANDE",
+      "Min Price": 54,
+      "Max Price": 58
+    },
+    {
+      "Product": "Berro",
+      "Category": "E",
+      "Unit": "DOC",
+      "Calibre": "GRANDE",
+      "Min Price": 500,
+      "Max Price": 600
+    },
+    {
+      "Product": "Boniato Arapey/Cuarí",
+      "Category": "E",
+      "Unit": "KG",
+      "Calibre": "GRANDE",
+      "Min Price": 21,
+      "Max Price": 23
+    },
+    {
+      "Product": "Boniato Beauregard/Cuabé",
+      "Category": "E",
+      "Unit": "KG",
+      "Calibre": "GRANDE",
+      "Min Price": 25,
+      "Max Price": 27
+    },
+    {
+      "Product": "Brócoli",
+      "Category": "E",
+      "Unit": "DOC",
+      "Calibre": "GRANDE",
+      "Min Price": 700,
+      "Max Price": 800
+    },
+    {
+      "Product": "Calabacín",
+      "Category": "E",
+      "Unit": "KG",
+      "Calibre": "MEDIANO",
+      "Min Price": 15,
+      "Max Price": 18
+    },
+    {
+      "Product": "Calabacín",
+      "Category": "E",
+      "Unit": "KG",
+      "Calibre": "GRANDE",
+      "Min Price": 18,
+      "Max Price": 20
+    },
+    {
+      "Product": "Cebolla",
+      "Category": "E",
+      "Unit": "KG",
+      "Calibre": "GRANDE",
+      "Min Price": 50,
+      "Max Price": 52
+    },
+    {
+      "Product": "Chaucha Chata",
+      "Category": "E",
+      "Unit": "KG",
+      "Calibre": "MEDIANO",
+      "Min Price": 80,
+      "Max Price": 90
+    },
+    {
+      "Product": "Choclo Súper Dulce",
+      "Category": "E",
+      "Unit": "DOC",
+      "Calibre": "MEDIANO",
+      "Min Price": 500,
+      "Max Price": 600
+    },
+    {
+      "Product": "Coliflor",
+      "Category": "E",
+      "Unit": "DOC",
+      "Calibre": "GRANDE",
+      "Min Price": 700,
+      "Max Price": 800
+    },
+    {
+      "Product": "Espárrago",
+      "Category": "E",
+      "Unit": "DOC",
+      "Calibre": "MEDIANO",
+      "Min Price": 3600,
+      "Max Price": 3800
+    },
+    {
+      "Product": "Frutilla",
+      "Category": "E",
+      "Unit": "KG",
+      "Calibre": "GRANDE",
+      "Min Price": 200,
+      "Max Price": 225
+    },
+    {
+      "Product": "Lechuga Crespa",
+      "Category": "E",
+      "Unit": "DOC",
+      "Calibre": "GRANDE",
+      "Min Price": 250,
+      "Max Price": 300
+    },
+    {
+      "Product": "Lechuga Mantecosa",
+      "Category": "E",
+      "Unit": "DOC",
+      "Calibre": "GRANDE",
+      "Min Price": 240,
+      "Max Price": 250
+    },
+    {
+      "Product": "Morrón Amarillo",
+      "Category": "E",
+      "Unit": "KG",
+      "Calibre": "GRANDE",
+      "Min Price": 90,
+      "Max Price": 95
+    },
+    {
+      "Product": "Morrón Rojo",
+      "Category": "E",
+      "Unit": "KG",
+      "Calibre": "GRANDE",
+      "Min Price": 118,
+      "Max Price": 125
+    },
+    {
+      "Product": "Morrón Verde",
+      "Category": "E",
+      "Unit": "KG",
+      "Calibre": "GRANDE",
+      "Min Price": 55,
+      "Max Price": 57
+    },
+    {
+      "Product": "Nabo",
+      "Category": "E",
+      "Unit": "DOC",
+      "Calibre": "MEDIANO",
+      "Min Price": 800,
+      "Max Price": 900
+    },
+    {
+      "Product": "Nabo",
+      "Category": "E",
+      "Unit": "DOC",
+      "Calibre": "GRANDE",
+      "Min Price": 1000,
+      "Max Price": 1200
+    },
+    {
+      "Product": "Papa Blanca (lavada)",
+      "Category": "E",
+      "Unit": "KG",
+      "Calibre": "GRANDE",
+      "Min Price": 56,
+      "Max Price": 58
+    },
+    {
+      "Product": "Perejil",
+      "Category": "E",
+      "Unit": "DOC",
+      "Calibre": "GRANDE",
+      "Min Price": 700,
+      "Max Price": 800
+    },
+    {
+      "Product": "Repollo Blanco",
+      "Category": "E",
+      "Unit": "DOC",
+      "Calibre": "MEDIANO",
+      "Min Price": 500,
+      "Max Price": 550
+    },
+    {
+      "Product": "Repollo Blanco",
+      "Category": "E",
+      "Unit": "DOC",
+      "Calibre": "GRANDE",
+      "Min Price": 550,
+      "Max Price": 600
+    },
+    {
+      "Product": "Repollo Colorado",
+      "Category": "E",
+      "Unit": "DOC",
+      "Calibre": "MEDIANO",
+      "Min Price": 550,
+      "Max Price": 600
+    },
+    {
+      "Product": "Repollo Colorado",
+      "Category": "E",
+      "Unit": "DOC",
+      "Calibre": "CHICO",
+      "Min Price": 450,
+      "Max Price": 500
+    },
+    {
+      "Product": "Rúcula",
+      "Category": "E",
+      "Unit": "DOC",
+      "Calibre": "GRANDE",
+      "Min Price": 400,
+      "Max Price": 450
+    },
+    {
+      "Product": "Tomate Cherry",
+      "Category": "E",
+      "Unit": "KG",
+      "Calibre": "MEDIANO",
+      "Min Price": 80,
+      "Max Price": 90
+    },
+    {
+      "Product": "Tomate Cherry Perita",
+      "Category": "E",
+      "Unit": "KG",
+      "Calibre": "MEDIANO",
+      "Min Price": 80,
+      "Max Price": 90
+    },
+    {
+      "Product": "Tomate Oblongo (Perita)",
+      "Category": "E",
+      "Unit": "KG",
+      "Calibre": "GRANDE",
+      "Min Price": 70,
+      "Max Price": 80
+    },
+    {
+      "Product": "Tomate Redondo",
+      "Category": "E",
+      "Unit": "KG",
+      "Calibre": "GRANDE",
+      "Min Price": 65,
+      "Max Price": 70
+    },
+    {
+      "Product": "Uva Blanca",
+      "Category": "E",
+      "Unit": "KG",
+      "Calibre": "GRANDE",
+      "Min Price": 200,
+      "Max Price": 225
+    },
+    {
+      "Product": "Uva Rosada",
+      "Category": "E",
+      "Unit": "KG",
+      "Calibre": "GRANDE",
+      "Min Price": 200,
+      "Max Price": 225
+    },
+    {
+      "Product": "Uva Rosada",
+      "Category": "E",
+      "Unit": "KG",
+      "Calibre": "GRANDE",
+      "Min Price": 225,
+      "Max Price": 230
+    },
+    {
+      "Product": "Zapallo Kabutiá",
+      "Category": "E",
+      "Unit": "KG",
+      "Calibre": "GRANDE",
+      "Min Price": 18,
+      "Max Price": 20
+    },
+    {
+      "Product": "Zucchini",
+      "Category": "E",
+      "Unit": "KG",
+      "Calibre": "MEDIANO",
+      "Min Price": 105,
+      "Max Price": 115
+    }
+  ],
+  "Hierbas, Hongos y Rubros Menores": [
+    {
+      "Specie": "Acedera Roja",
+      "Variety": "",
+      "Unit": "Unidad",
+      "Min Price": 40,
+      "Max Price": 50
+    },
+    {
+      "Specie": "Ajo Chino",
+      "Variety": "",
+      "Unit": "Unidad",
+      "Min Price": 40,
+      "Max Price": 50
+    },
+    {
+      "Specie": "Amaranto",
+      "Variety": "",
+      "Unit": "Unidad",
+      "Min Price": 30,
+      "Max Price": 40
+    },
+    {
+      "Specie": "Brotes",
+      "Variety": "Alfalfa",
+      "Unit": "KG",
+      "Min Price": 470,
+      "Max Price": 480
+    },
+    {
+      "Specie": "Brotes",
+      "Variety": "Soja",
+      "Unit": "KG",
+      "Min Price": 400,
+      "Max Price": 420
+    },
+    {
+      "Specie": "Cilantro",
+      "Variety": "",
+      "Unit": "Unidad",
+      "Min Price": 50,
+      "Max Price": 60
+    },
+    {
+      "Specie": "Col Chino",
+      "Variety": "",
+      "Unit": "DOC",
+      "Min Price": 500,
+      "Max Price": 600
+    },
+    {
+      "Specie": "Cúrcuma",
+      "Variety": "",
+      "Unit": "KG",
+      "Min Price": 250,
+      "Max Price": 350
+    },
+    {
+      "Specie": "Eneldo",
+      "Variety": "",
+      "Unit": "Unidad",
+      "Min Price": 50,
+      "Max Price": 70
+    },
+    {
+      "Specie": "Escarola",
+      "Variety": "",
+      "Unit": "DOC",
+      "Min Price": 150,
+      "Max Price": 200
+    },
+    {
+      "Specie": "Estragón",
+      "Variety": "",
+      "Unit": "Unidad",
+      "Min Price": 50,
+      "Max Price": 70
+    },
+    {
+      "Specie": "Flores Comestibles",
+      "Variety": "",
+      "Unit": "Unidad",
+      "Min Price": 50,
+      "Max Price": 70
+    },
+    {
+      "Specie": "Frambuesa",
+      "Variety": "",
+      "Unit": "Unidad",
+      "Min Price": 120,
+      "Max Price": 130
+    },
+    {
+      "Specie": "Grelo",
+      "Variety": "",
+      "Unit": "DOC",
+      "Min Price": 500,
+      "Max Price": 600
+    },
+    {
+      "Specie": "Hinojo",
+      "Variety": "",
+      "Unit": "DOC",
+      "Min Price": 400,
+      "Max Price": 500
+    },
+    {
+      "Specie": "Hongos",
+      "Variety": "Champiñón",
+      "Unit": "KG",
+      "Min Price": 600,
+      "Max Price": 620
+    },
+    {
+      "Specie": "Hongos",
+      "Variety": "Pleurotus",
+      "Unit": "KG",
+      "Min Price": 600,
+      "Max Price": 620
+    },
+    {
+      "Specie": "Hongos",
+      "Variety": "Portobello",
+      "Unit": "KG",
+      "Min Price": 660,
+      "Max Price": 680
+    },
+    {
+      "Specie": "Hongos Silvestre",
+      "Variety": "Eucalyptus",
+      "Unit": "KG",
+      "Min Price": 100,
+      "Max Price": 120
+    },
+    {
+      "Specie": "Hongos Silvestre",
+      "Variety": "Pino",
+      "Unit": "KG",
+      "Min Price": 150,
+      "Max Price": 180
+    },
+    {
+      "Specie": "Huevos Codorniz",
+      "Variety": "",
+      "Unit": "DOC",
+      "Min Price": 65,
+      "Max Price": 70
+    },
+    {
+      "Specie": "Kale",
+      "Variety": "",
+      "Unit": "DOC",
+      "Min Price": 400,
+      "Max Price": 500
+    },
+    {
+      "Specie": "Kale",
+      "Variety": "",
+      "Unit": "Unidad",
+      "Min Price": 40,
+      "Max Price": 50
+    },
+    {
+      "Specie": "Laurel",
+      "Variety": "",
+      "Unit": "Unidad",
+      "Min Price": 40,
+      "Max Price": 45
+    },
+    {
+      "Specie": "Lemon Grass",
+      "Variety": "",
+      "Unit": "KG",
+      "Min Price": 900,
+      "Max Price": 1000
+    },
+    {
+      "Specie": "Maní",
+      "Variety": "",
+      "Unit": "KG",
+      "Min Price": 100,
+      "Max Price": 120
+    },
+    {
+      "Specie": "Maní Tostado",
+      "Variety": "",
+      "Unit": "KG",
+      "Min Price": 150,
+      "Max Price": 160
+    },
+    {
+      "Specie": "Menta",
+      "Variety": "",
+      "Unit": "Unidad",
+      "Min Price": 35,
+      "Max Price": 45
+    },
+    {
+      "Specie": "Mix de hojas verdes",
+      "Variety": "",
+      "Unit": "Unidad",
+      "Min Price": 80,
+      "Max Price": 100
+    },
+    {
+      "Specie": "Mizuna",
+      "Variety": "",
+      "Unit": "Unidad",
+      "Min Price": 35,
+      "Max Price": 45
+    },
+    {
+      "Specie": "Mostaza",
+      "Variety": "",
+      "Unit": "Unidad",
+      "Min Price": 40,
+      "Max Price": 50
+    },
+    {
+      "Specie": "Nabo",
+      "Variety": "Daikon",
+      "Unit": "KG",
+      "Min Price": 110,
+      "Max Price": 120
+    },
+    {
+      "Specie": "Nuez",
+      "Variety": "Pecán",
+      "Unit": "KG",
+      "Min Price": 200,
+      "Max Price": 250
+    },
+    {
+      "Specie": "Ñame",
+      "Variety": "",
+      "Unit": "KG",
+      "Min Price": 180,
+      "Max Price": 200
+    },
+    {
+      "Specie": "Orégano",
+      "Variety": "",
+      "Unit": "Unidad",
+      "Min Price": 40,
+      "Max Price": 50
+    },
+    {
+      "Specie": "Papa del aire",
+      "Variety": "",
+      "Unit": "KG",
+      "Min Price": 35,
+      "Max Price": 40
+    },
+    {
+      "Specie": "Perejil",
+      "Variety": "Crespo",
+      "Unit": "Unidad",
+      "Min Price": 60,
+      "Max Price": 70
+    },
+    {
+      "Specie": "Radicha",
+      "Variety": "",
+      "Unit": "DOC",
+      "Min Price": 300,
+      "Max Price": 350
+    },
+    {
+      "Specie": "Radicheta",
+      "Variety": "",
+      "Unit": "Unidad",
+      "Min Price": 40,
+      "Max Price": 50
+    },
+    {
+      "Specie": "Romero",
+      "Variety": "",
+      "Unit": "Unidad",
+      "Min Price": 40,
+      "Max Price": 50
+    },
+    {
+      "Specie": "Salvia",
+      "Variety": "",
+      "Unit": "Unidad",
+      "Min Price": 60,
+      "Max Price": 70
+    },
+    {
+      "Specie": "Tomillo",
+      "Variety": "",
+      "Unit": "Unidad",
+      "Min Price": 40,
+      "Max Price": 50
+    }
+  ]
+}

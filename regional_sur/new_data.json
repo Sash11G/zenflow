@@ -1,0 +1,5486 @@
+{
+  "Almacen": {
+    "Legumbres y Otros": [
+      {
+        "Cod": "1172",
+        "Nombre": "Alpiste 25 kg",
+        "Cód. Barra": "",
+        "Desc": "25 kg",
+        "IVA": "EXE",
+        "Moneda": "U$S",
+        "Unitario": "1.75",
+        "Empaque": "43.75"
+      },
+      {
+        "Cod": "B171",
+        "Nombre": "Alpiste 5 kg",
+        "Cód. Barra": "",
+        "Desc": "5 kg",
+        "IVA": "EXE",
+        "Moneda": "U$S",
+        "Unitario": "2.01",
+        "Empaque": "10.05"
+      },
+      {
+        "Cod": "0022",
+        "Nombre": "Arvejas Secas 25 kg",
+        "Cód. Barra": "",
+        "Desc": "25 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.23",
+        "Empaque": "30.76"
+      },
+      {
+        "Cod": "K002",
+        "Nombre": "Arvejas Secas 1 kg",
+        "Cód. Barra": "",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.42",
+        "Empaque": "17.04"
+      },
+      {
+        "Cod": "1190",
+        "Nombre": "Avena Laminada 25 kg",
+        "Cód. Barra": "",
+        "Desc": "25 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.40",
+        "Empaque": "35.00"
+      },
+      {
+        "Cod": "B1190",
+        "Nombre": "\"Avena Laminada 2",
+        "Cód. Barra": "5 kg\"",
+        "Desc": "",
+        "IVA": "Unitario",
+        "Moneda": "22%",
+        "Unitario": "U$S",
+        "Empaque": "1.61"
+      },
+      {
+        "Cod": "K1190",
+        "Nombre": "Avena Laminada 1 kg",
+        "Cód. Barra": "",
+        "Desc": "10 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.68",
+        "Empaque": "16.80"
+      },
+      {
+        "Cod": "1191",
+        "Nombre": "Avena Arrollada 25 kg",
+        "Cód. Barra": "",
+        "Desc": "25 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.40",
+        "Empaque": "35.00"
+      },
+      {
+        "Cod": "B1191",
+        "Nombre": "\"Avena Arrollada 2",
+        "Cód. Barra": "5 kg\"",
+        "Desc": "",
+        "IVA": "Unitario",
+        "Moneda": "22%",
+        "Unitario": "U$S",
+        "Empaque": "1.61"
+      },
+      {
+        "Cod": "K1191",
+        "Nombre": "Avena Arrollada 1 kg",
+        "Cód. Barra": "",
+        "Desc": "10 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.68",
+        "Empaque": "16.80"
+      },
+      {
+        "Cod": "1192",
+        "Nombre": "Harina de Avena Integral 25 kg",
+        "Cód. Barra": "",
+        "Desc": "25 kg",
+        "IVA": "10%",
+        "Moneda": "U$S",
+        "Unitario": "1.45",
+        "Empaque": "36.26"
+      },
+      {
+        "Cod": "K1192",
+        "Nombre": "Harina de Avena Integral 1 kg",
+        "Cód. Barra": "",
+        "Desc": "Unitario",
+        "IVA": "10%",
+        "Moneda": "U$S",
+        "Unitario": "1.74",
+        "Empaque": "1.74"
+      },
+      {
+        "Cod": "136",
+        "Nombre": "Fariña de Mandioca 25 kg",
+        "Cód. Barra": "",
+        "Desc": "25 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "2.30",
+        "Empaque": "57.50"
+      },
+      {
+        "Cod": "B136",
+        "Nombre": "Fariña de Mandioca 5 kg",
+        "Cód. Barra": "",
+        "Desc": "5 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "2.65",
+        "Empaque": "13.25"
+      },
+      {
+        "Cod": "1366",
+        "Nombre": "Fécula de Mandioca 25 kg",
+        "Cód. Barra": "",
+        "Desc": "25 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.40",
+        "Empaque": "35.00"
+      },
+      {
+        "Cod": "B1366",
+        "Nombre": "Fécula de Mandioca 5 kg",
+        "Cód. Barra": "",
+        "Desc": "5 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.61",
+        "Empaque": "8.05"
+      },
+      {
+        "Cod": "K1366",
+        "Nombre": "Fécula de Mandioca 1 kg",
+        "Cód. Barra": "",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.68",
+        "Empaque": "20.16"
+      },
+      {
+        "Cod": "077",
+        "Nombre": "Fécula de Maíz Amisol 25 kg",
+        "Cód. Barra": "",
+        "Desc": "25 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "0.92",
+        "Empaque": "23.06"
+      },
+      {
+        "Cod": "K077",
+        "Nombre": "Fécula de Maíz Amisol 1 kg",
+        "Cód. Barra": "",
+        "Desc": "25 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.30",
+        "Empaque": "32.50"
+      },
+      {
+        "Cod": "282",
+        "Nombre": "Garbanzos 8mm 25 kg",
+        "Cód. Barra": "",
+        "Desc": "25 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.82",
+        "Empaque": "45.50"
+      },
+      {
+        "Cod": "B281",
+        "Nombre": "Garbanzos 8mm 5 kg",
+        "Cód. Barra": "",
+        "Desc": "5 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "2.10",
+        "Empaque": "10.50"
+      },
+      {
+        "Cod": "K281",
+        "Nombre": "Garbanzos 8mm 1 kg",
+        "Cód. Barra": "7730905132102",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "2.18",
+        "Empaque": "26.16"
+      },
+      {
+        "Cod": "173",
+        "Nombre": "Harina de Maíz 25 kg",
+        "Cód. Barra": "",
+        "Desc": "25 kg",
+        "IVA": "10%",
+        "Moneda": "$",
+        "Unitario": "35.41",
+        "Empaque": "885.15"
+      },
+      {
+        "Cod": "B114",
+        "Nombre": "Harina de Maíz 5 kg",
+        "Cód. Barra": "",
+        "Desc": "5 kg",
+        "IVA": "10%",
+        "Moneda": "$",
+        "Unitario": "37.60",
+        "Empaque": "188.00"
+      },
+      {
+        "Cod": "0040",
+        "Nombre": "Lentejas Argentinas 25 kg",
+        "Cód. Barra": "",
+        "Desc": "25 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "2.15",
+        "Empaque": "53.75"
+      },
+      {
+        "Cod": "288",
+        "Nombre": "Lentejón Canadiense Laird N°2 25 kg",
+        "Cód. Barra": "",
+        "Desc": "25 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "2.86",
+        "Empaque": "71.50"
+      },
+      {
+        "Cod": "B0055",
+        "Nombre": "Lentejón Canadiense Laird N°2 5 kg",
+        "Cód. Barra": "",
+        "Desc": "5 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "3.28",
+        "Empaque": "16.40"
+      },
+      {
+        "Cod": "K288",
+        "Nombre": "Lentejón Canadiense Laird N°2 1 kg",
+        "Cód. Barra": "7730905132263",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "3.43",
+        "Empaque": "41.16"
+      },
+      {
+        "Cod": "089",
+        "Nombre": "Maíz Pisingallo 25 kg",
+        "Cód. Barra": "",
+        "Desc": "25 kg",
+        "IVA": "EXE",
+        "Moneda": "U$S",
+        "Unitario": "0.00",
+        "Empaque": "0.00"
+      },
+      {
+        "Cod": "0895",
+        "Nombre": "Maíz Pisingallo 20 kg",
+        "Cód. Barra": "",
+        "Desc": "20 kg",
+        "IVA": "EXE",
+        "Moneda": "U$S",
+        "Unitario": "1.10",
+        "Empaque": "22.00"
+      },
+      {
+        "Cod": "B089",
+        "Nombre": "Maíz Pisingallo 5 kg",
+        "Cód. Barra": "",
+        "Desc": "5 kg",
+        "IVA": "EXE",
+        "Moneda": "U$S",
+        "Unitario": "1.26",
+        "Empaque": "6.30"
+      },
+      {
+        "Cod": "112",
+        "Nombre": "Maní con Cáscara 10 kg",
+        "Cód. Barra": "",
+        "Desc": "10 kg",
+        "IVA": "EXE",
+        "Moneda": "$",
+        "Unitario": "120.00",
+        "Empaque": "1200.00"
+      },
+      {
+        "Cod": "0785",
+        "Nombre": "Maní en Grana 25 kg",
+        "Cód. Barra": "",
+        "Desc": "25 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "3.00",
+        "Empaque": "75.00"
+      },
+      {
+        "Cod": "178",
+        "Nombre": "Maní Runner 25 kg",
+        "Cód. Barra": "",
+        "Desc": "25 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "3.00",
+        "Empaque": "75.00"
+      },
+      {
+        "Cod": "B078",
+        "Nombre": "Maní Runner 5 kg",
+        "Cód. Barra": "",
+        "Desc": "5 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "3.45",
+        "Empaque": "17.25"
+      },
+      {
+        "Cod": "0781",
+        "Nombre": "Maní Tostado Salado 25 kg",
+        "Cód. Barra": "",
+        "Desc": "25 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "3.43",
+        "Empaque": "85.73"
+      },
+      {
+        "Cod": "0783",
+        "Nombre": "Maní Tostado sin Sal 25 kg",
+        "Cód. Barra": "",
+        "Desc": "25 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "3.43",
+        "Empaque": "85.73"
+      },
+      {
+        "Cod": "116",
+        "Nombre": "Mazamorra 25 kg",
+        "Cód. Barra": "",
+        "Desc": "25 kg",
+        "IVA": "22%",
+        "Moneda": "$",
+        "Unitario": "63.90",
+        "Empaque": "1597.50"
+      },
+      {
+        "Cod": "B116",
+        "Nombre": "Mazamorra 5 kg",
+        "Cód. Barra": "",
+        "Desc": "5 kg",
+        "IVA": "22%",
+        "Moneda": "$",
+        "Unitario": "71.00",
+        "Empaque": "355.00"
+      },
+      {
+        "Cod": "B117",
+        "Nombre": "Mazamorra Blanca 5 kg",
+        "Cód. Barra": "",
+        "Desc": "5 kg",
+        "IVA": "22%",
+        "Moneda": "$",
+        "Unitario": "149.50",
+        "Empaque": "747.50"
+      },
+      {
+        "Cod": "1919",
+        "Nombre": "Poroto Alubia 25 kg",
+        "Cód. Barra": "",
+        "Desc": "25 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "2.07",
+        "Empaque": "51.75"
+      },
+      {
+        "Cod": "B1919",
+        "Nombre": "Poroto Alubia 5 kg",
+        "Cód. Barra": "",
+        "Desc": "5 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "2.38",
+        "Empaque": "11.90"
+      },
+      {
+        "Cod": "K1919",
+        "Nombre": "Poroto Alubia 1 kg",
+        "Cód. Barra": "",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "2.48",
+        "Empaque": "29.76"
+      },
+      {
+        "Cod": "148",
+        "Nombre": "Poroto de Soja 25 kg",
+        "Cód. Barra": "",
+        "Desc": "25 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.20",
+        "Empaque": "30.00"
+      },
+      {
+        "Cod": "K148",
+        "Nombre": "Poroto de Soja 1 kg",
+        "Cód. Barra": "",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.44",
+        "Empaque": "17.28"
+      },
+      {
+        "Cod": "110",
+        "Nombre": "Poroto Frutilla 25 kg",
+        "Cód. Barra": "",
+        "Desc": "25 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "2.40",
+        "Empaque": "60.00"
+      },
+      {
+        "Cod": "B098",
+        "Nombre": "Poroto Frutilla 5 kg",
+        "Cód. Barra": "",
+        "Desc": "5 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "2.88",
+        "Empaque": "14.40"
+      },
+      {
+        "Cod": "K098",
+        "Nombre": "Poroto Frutilla 1 kg",
+        "Cód. Barra": "",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "3.00",
+        "Empaque": "36.00"
+      },
+      {
+        "Cod": "191",
+        "Nombre": "Poroto Manteca 25 kg",
+        "Cód. Barra": "",
+        "Desc": "25 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "3.05",
+        "Empaque": "76.25"
+      },
+      {
+        "Cod": "B191",
+        "Nombre": "Poroto Manteca 5 kg",
+        "Cód. Barra": "",
+        "Desc": "5 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "3.50",
+        "Empaque": "17.50"
+      },
+      {
+        "Cod": "K191",
+        "Nombre": "Poroto Manteca 1 kg",
+        "Cód. Barra": "7730905132133",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "3.66",
+        "Empaque": "43.92"
+      },
+      {
+        "Cod": "149",
+        "Nombre": "Poroto Negro 25 kg",
+        "Cód. Barra": "",
+        "Desc": "25 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.89",
+        "Empaque": "47.25"
+      },
+      {
+        "Cod": "B149",
+        "Nombre": "Poroto Negro 5 kg",
+        "Cód. Barra": "",
+        "Desc": "5 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "2.17",
+        "Empaque": "10.85"
+      },
+      {
+        "Cod": "K149",
+        "Nombre": "Poroto Negro 1 kg",
+        "Cód. Barra": "7730905132270",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "2.27",
+        "Empaque": "27.24"
+      },
+      {
+        "Cod": "182",
+        "Nombre": "Puré de Papas Blanco 20 kg (Suc. Paso de la Arena)",
+        "Cód. Barra": "",
+        "Desc": "20 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "4.50",
+        "Empaque": "90.00"
+      },
+      {
+        "Cod": "183",
+        "Nombre": "Puré de Papas Blanco 17 kg (Suc. Villa Española)",
+        "Cód. Barra": "",
+        "Desc": "17 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "4.50",
+        "Empaque": "76.50"
+      },
+      {
+        "Cod": "B180",
+        "Nombre": "Puré de Papas Blanco 2 kg",
+        "Cód. Barra": "7730905132010",
+        "Desc": "2 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "5.52",
+        "Empaque": "11.04"
+      },
+      {
+        "Cod": "K180",
+        "Nombre": "Puré de Papas Blanco 1 kg",
+        "Cód. Barra": "7730905131969",
+        "Desc": "1 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "5.76",
+        "Empaque": "5.76"
+      },
+      {
+        "Cod": "1110",
+        "Nombre": "Arroz Blanco Japonés Grano Corto Mirokumai 5 kg",
+        "Cód. Barra": "7730900890014",
+        "Desc": "5 kg",
+        "IVA": "10%",
+        "Moneda": "$",
+        "Unitario": "103.2864",
+        "Empaque": "516.43"
+      },
+      {
+        "Cod": "1111",
+        "Nombre": "Arroz Blanco Japonés Grano Corto Mirokumai 1 kg",
+        "Cód. Barra": "",
+        "Desc": "1 kg",
+        "IVA": "10%",
+        "Moneda": "$",
+        "Unitario": "104.94",
+        "Empaque": "104.94"
+      },
+      {
+        "Cod": "1112",
+        "Nombre": "Arroz Integral Japonés Grano Corto Mirokumai 1 kg",
+        "Cód. Barra": "7730900890038",
+        "Desc": "1 kg",
+        "IVA": "10%",
+        "Moneda": "$",
+        "Unitario": "104.94",
+        "Empaque": "104.94"
+      }
+    ],
+    "Semillas": [
+      {
+        "Cod": "2864",
+        "Nombre": "Girasol con Cáscara 20 kg",
+        "Cód. Barra": "",
+        "Desc": "20 kg",
+        "IVA": "EXE",
+        "Moneda": "U$S",
+        "Unitario": "1.51",
+        "Empaque": "30.20"
+      },
+      {
+        "Cod": "B2864",
+        "Nombre": "Girasol con Cáscara 5 kg",
+        "Cód. Barra": "",
+        "Desc": "5 kg",
+        "IVA": "EXE",
+        "Moneda": "U$S",
+        "Unitario": "1.74",
+        "Empaque": "8.69"
+      },
+      {
+        "Cod": "K2864",
+        "Nombre": "Girasol con Cáscara 1 kg",
+        "Cód. Barra": "",
+        "Desc": "12 unid.",
+        "IVA": "EXE",
+        "Moneda": "U$S",
+        "Unitario": "1.81",
+        "Empaque": "21.74"
+      },
+      {
+        "Cod": "2860",
+        "Nombre": "\"Girasol Confitero 22",
+        "Cód. Barra": "68 kg\"",
+        "Desc": "",
+        "IVA": "\"22",
+        "Moneda": "68 kg\"",
+        "Unitario": "22%",
+        "Empaque": "U$S"
+      },
+      {
+        "Cod": "B286",
+        "Nombre": "Girasol Confitero 5 kg",
+        "Cód. Barra": "",
+        "Desc": "5 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "2.90",
+        "Empaque": "14.52"
+      },
+      {
+        "Cod": "K2860",
+        "Nombre": "Girasol Confitero 1 kg",
+        "Cód. Barra": "7730905132454",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "3.02",
+        "Empaque": "36.24"
+      },
+      {
+        "Cod": "K2861",
+        "Nombre": "Girasol Tostado 1 kg",
+        "Cód. Barra": "7739753120903",
+        "Desc": "1 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "5.30",
+        "Empaque": "5.30"
+      },
+      {
+        "Cod": "K2862",
+        "Nombre": "Girasol Tostado con Sal 1 kg",
+        "Cód. Barra": "7739753120910",
+        "Desc": "1 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "5.30",
+        "Empaque": "5.30"
+      },
+      {
+        "Cod": "K2863",
+        "Nombre": "Girasol Tostado con Soja 1 kg",
+        "Cód. Barra": "7739753120934",
+        "Desc": "1 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "5.30",
+        "Empaque": "5.30"
+      },
+      {
+        "Cod": "314",
+        "Nombre": "Semilla de Zapallo 25 kg",
+        "Cód. Barra": "",
+        "Desc": "25 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "7.93",
+        "Empaque": "198.25"
+      },
+      {
+        "Cod": "B314",
+        "Nombre": "Semilla de Zapallo 5 kg",
+        "Cód. Barra": "",
+        "Desc": "5 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "8.33",
+        "Empaque": "41.65"
+      },
+      {
+        "Cod": "K314",
+        "Nombre": "Semilla de Zapallo 1 kg",
+        "Cód. Barra": "7730905132355",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "8.72",
+        "Empaque": "104.64"
+      },
+      {
+        "Cod": "K3140",
+        "Nombre": "Semilla de Zapallo Tostadas1 kg",
+        "Cód. Barra": "",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "11.40",
+        "Empaque": "136.80"
+      },
+      {
+        "Cod": "K3141",
+        "Nombre": "Semilla de Zapallo Tostadas con Sal 1 kg",
+        "Cód. Barra": "",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "11.40",
+        "Empaque": "136.80"
+      },
+      {
+        "Cod": "287",
+        "Nombre": "Lino Marrón 25 kg",
+        "Cód. Barra": "",
+        "Desc": "25 kg",
+        "IVA": "EXE",
+        "Moneda": "U$S",
+        "Unitario": "1.95",
+        "Empaque": "48.75"
+      },
+      {
+        "Cod": "B287",
+        "Nombre": "Lino Marrón 5 kg",
+        "Cód. Barra": "",
+        "Desc": "5 kg",
+        "IVA": "EXE",
+        "Moneda": "U$S",
+        "Unitario": "2.25",
+        "Empaque": "11.25"
+      },
+      {
+        "Cod": "K287",
+        "Nombre": "Lino Marrón 1 kg",
+        "Cód. Barra": "7730905132379",
+        "Desc": "12 unid.",
+        "IVA": "EXE",
+        "Moneda": "U$S",
+        "Unitario": "2.34",
+        "Empaque": "28.08"
+      },
+      {
+        "Cod": "313",
+        "Nombre": "Semilla de Chía 25 kg",
+        "Cód. Barra": "",
+        "Desc": "25 kg",
+        "IVA": "EXE",
+        "Moneda": "U$S",
+        "Unitario": "4.50",
+        "Empaque": "112.50"
+      },
+      {
+        "Cod": "K313",
+        "Nombre": "Semilla de Chía 1 kg",
+        "Cód. Barra": "7730905131976",
+        "Desc": "12 unid.",
+        "IVA": "EXE",
+        "Moneda": "U$S",
+        "Unitario": "5.40",
+        "Empaque": "64.80"
+      },
+      {
+        "Cod": "312",
+        "Nombre": "Semilla de Quinoa Blanca 25 kg",
+        "Cód. Barra": "",
+        "Desc": "25 kg",
+        "IVA": "EXE",
+        "Moneda": "U$S",
+        "Unitario": "3.90",
+        "Empaque": "97.50"
+      },
+      {
+        "Cod": "K312",
+        "Nombre": "Semilla de Quinoa Blanca 1 kg",
+        "Cód. Barra": "",
+        "Desc": "12 unid.",
+        "IVA": "EXE",
+        "Moneda": "U$S",
+        "Unitario": "4.68",
+        "Empaque": "56.16"
+      },
+      {
+        "Cod": "3121",
+        "Nombre": "Semilla de Quinoa Roja 25 kg",
+        "Cód. Barra": "",
+        "Desc": "25 kg",
+        "IVA": "EXE",
+        "Moneda": "U$S",
+        "Unitario": "4.10",
+        "Empaque": "102.50"
+      },
+      {
+        "Cod": "K3121",
+        "Nombre": "Semilla de Quinoa Roja 1 kg",
+        "Cód. Barra": "",
+        "Desc": "12 unid.",
+        "IVA": "EXE",
+        "Moneda": "U$S",
+        "Unitario": "4.92",
+        "Empaque": "59.04"
+      },
+      {
+        "Cod": "3122",
+        "Nombre": "Semilla de Quinoa Negra 25 kg",
+        "Cód. Barra": "",
+        "Desc": "25 kg",
+        "IVA": "EXE",
+        "Moneda": "U$S",
+        "Unitario": "4.15",
+        "Empaque": "103.75"
+      },
+      {
+        "Cod": "K3122",
+        "Nombre": "Semilla de Quinoa Negra 1 kg",
+        "Cód. Barra": "",
+        "Desc": "12 unid.",
+        "IVA": "EXE",
+        "Moneda": "U$S",
+        "Unitario": "5.00",
+        "Empaque": "60.00"
+      },
+      {
+        "Cod": "310",
+        "Nombre": "Semilla de Quinoa Dorada 25 kg",
+        "Cód. Barra": "",
+        "Desc": "25 kg",
+        "IVA": "EXE",
+        "Moneda": "U$S",
+        "Unitario": "2.21",
+        "Empaque": "55.25"
+      },
+      {
+        "Cod": "K310",
+        "Nombre": "Semilla de Quinoa Dorada 1 kg",
+        "Cód. Barra": "",
+        "Desc": "12 unid.",
+        "IVA": "EXE",
+        "Moneda": "U$S",
+        "Unitario": "2.40",
+        "Empaque": "28.80"
+      },
+      {
+        "Cod": "3130",
+        "Nombre": "Amaranto 25 kg",
+        "Cód. Barra": "",
+        "Desc": "25 kg",
+        "IVA": "EXE",
+        "Moneda": "U$S",
+        "Unitario": "3.05",
+        "Empaque": "76.25"
+      },
+      {
+        "Cod": "K3130",
+        "Nombre": "Amaranto 1 kg",
+        "Cód. Barra": "",
+        "Desc": "12 unid.",
+        "IVA": "EXE",
+        "Moneda": "U$S",
+        "Unitario": "3.66",
+        "Empaque": "43.92"
+      },
+      {
+        "Cod": "299",
+        "Nombre": "Sésamo Blanco 25 kg",
+        "Cód. Barra": "",
+        "Desc": "25 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "4.40",
+        "Empaque": "110.00"
+      },
+      {
+        "Cod": "B299",
+        "Nombre": "Sésamo Blanco 5 kg",
+        "Cód. Barra": "",
+        "Desc": "5 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "5.06",
+        "Empaque": "25.30"
+      },
+      {
+        "Cod": "K299",
+        "Nombre": "Sésamo Blanco 1 kg",
+        "Cód. Barra": "7730905132409",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "5.31",
+        "Empaque": "63.72"
+      },
+      {
+        "Cod": "298",
+        "Nombre": "Sésamo Natural 25 kg",
+        "Cód. Barra": "",
+        "Desc": "25 kg",
+        "IVA": "EXE",
+        "Moneda": "U$S",
+        "Unitario": "3.05",
+        "Empaque": "76.25"
+      },
+      {
+        "Cod": "B298",
+        "Nombre": "Sésamo Natural 5 kg",
+        "Cód. Barra": "",
+        "Desc": "5 kg",
+        "IVA": "EXE",
+        "Moneda": "U$S",
+        "Unitario": "3.51",
+        "Empaque": "17.55"
+      },
+      {
+        "Cod": "K298",
+        "Nombre": "Sésamo Natural 1 kg",
+        "Cód. Barra": "7730905132416",
+        "Desc": "12 unid.",
+        "IVA": "EXE",
+        "Moneda": "U$S",
+        "Unitario": "3.66",
+        "Empaque": "43.92"
+      },
+      {
+        "Cod": "300",
+        "Nombre": "Sésamo Negro 25 kg",
+        "Cód. Barra": "",
+        "Desc": "25 kg",
+        "IVA": "EXE",
+        "Moneda": "U$S",
+        "Unitario": "4.20",
+        "Empaque": "105.00"
+      },
+      {
+        "Cod": "B300",
+        "Nombre": "Sésamo Negro 5 kg",
+        "Cód. Barra": "",
+        "Desc": "5 kg",
+        "IVA": "EXE",
+        "Moneda": "U$S",
+        "Unitario": "4.83",
+        "Empaque": "24.15"
+      },
+      {
+        "Cod": "K300",
+        "Nombre": "Sésamo Negro 1 kg",
+        "Cód. Barra": "7730905132447",
+        "Desc": "12 unid.",
+        "IVA": "EXE",
+        "Moneda": "U$S",
+        "Unitario": "5.10",
+        "Empaque": "61.20"
+      },
+      {
+        "Cod": "302",
+        "Nombre": "Tahini 453g (Pásta de Sésamo)",
+        "Cód. Barra": "851168001039",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "6.59",
+        "Empaque": "79.08"
+      }
+    ],
+    "Especias": [
+      {
+        "Cod": "0371",
+        "Nombre": "Espinaca en Polvo 20 kg",
+        "Cód. Barra": "",
+        "Desc": "20 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "9.64",
+        "Empaque": "192.80"
+      },
+      {
+        "Cod": "K0371",
+        "Nombre": "Espinaca en Polvo 1 kg",
+        "Cód. Barra": "",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "11.57",
+        "Empaque": "138.84"
+      },
+      {
+        "Cod": "043",
+        "Nombre": "Hongos Secos 20 kg",
+        "Cód. Barra": "",
+        "Desc": "15 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "12.50",
+        "Empaque": "250.00"
+      },
+      {
+        "Cod": "C043",
+        "Nombre": "Hongos Secos 500 g",
+        "Cód. Barra": "",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "7.20",
+        "Empaque": "86.40"
+      },
+      {
+        "Cod": "K0380",
+        "Nombre": "Semilla de Mostaza 1 kg",
+        "Cód. Barra": "",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "6.85",
+        "Empaque": "82.20"
+      },
+      {
+        "Cod": "K0381",
+        "Nombre": "Mostaza en Polvo 1 kg",
+        "Cód. Barra": "",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "10.25",
+        "Empaque": "123.00"
+      },
+      {
+        "Cod": "306",
+        "Nombre": "Nuez Moscada Entera ABCD 25 kg",
+        "Cód. Barra": "",
+        "Desc": "25 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "27.67",
+        "Empaque": "691.75"
+      },
+      {
+        "Cod": "B306",
+        "Nombre": "Nuez Moscada Entera ABCD 5 kg",
+        "Cód. Barra": "",
+        "Desc": "5 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "31.82",
+        "Empaque": "159.10"
+      },
+      {
+        "Cod": "K306",
+        "Nombre": "Nuez Moscada Entera ABCD 1 kg",
+        "Cód. Barra": "",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "33.20",
+        "Empaque": "398.40"
+      },
+      {
+        "Cod": "B305",
+        "Nombre": "Nuez Moscada Molida 5 kg",
+        "Cód. Barra": "",
+        "Desc": "5 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "22.00",
+        "Empaque": "110.00"
+      },
+      {
+        "Cod": "K305",
+        "Nombre": "Nuez Moscada Molida 1 kg",
+        "Cód. Barra": "",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "24.20",
+        "Empaque": "290.40"
+      },
+      {
+        "Cod": "304",
+        "Nombre": "Nuez Moscada Rota BWP 25 kg",
+        "Cód. Barra": "",
+        "Desc": "25 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "0.00",
+        "Empaque": "0.00"
+      },
+      {
+        "Cod": "130",
+        "Nombre": "\"Orégano 1° Calidad 12",
+        "Cód. Barra": "5 kg\"",
+        "Desc": "",
+        "IVA": "\"12",
+        "Moneda": "5 kg\"",
+        "Unitario": "EXE",
+        "Empaque": "U$S"
+      },
+      {
+        "Cod": "K130",
+        "Nombre": "Orégano 1° Calidad 1 kg",
+        "Cód. Barra": "",
+        "Desc": "12 unid.",
+        "IVA": "EXE",
+        "Moneda": "U$S",
+        "Unitario": "4.25",
+        "Empaque": "51.00"
+      },
+      {
+        "Cod": "3150",
+        "Nombre": "Perejil 20 kg",
+        "Cód. Barra": "",
+        "Desc": "20 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "6.20",
+        "Empaque": "124.00"
+      },
+      {
+        "Cod": "3151",
+        "Nombre": "Perejil 9 kg",
+        "Cód. Barra": "",
+        "Desc": "9 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "0.00",
+        "Empaque": "0.00"
+      },
+      {
+        "Cod": "096",
+        "Nombre": "Pimentón Choice 25 kg",
+        "Cód. Barra": "",
+        "Desc": "25 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "6.80",
+        "Empaque": "170.00"
+      },
+      {
+        "Cod": "097",
+        "Nombre": "Pimentón Delicia 25 kg",
+        "Cód. Barra": "",
+        "Desc": "25 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "5.43",
+        "Empaque": "135.75"
+      },
+      {
+        "Cod": "B097",
+        "Nombre": "Pimentón Delicia 5 kg",
+        "Cód. Barra": "",
+        "Desc": "5 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "6.24",
+        "Empaque": "31.20"
+      },
+      {
+        "Cod": "K097",
+        "Nombre": "Pimentón Delicia 1 kg",
+        "Cód. Barra": "",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "6.52",
+        "Empaque": "78.24"
+      },
+      {
+        "Cod": "100",
+        "Nombre": "Pimienta Blanca en Grano 25 kg",
+        "Cód. Barra": "",
+        "Desc": "25 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "12.60",
+        "Empaque": "315.00"
+      },
+      {
+        "Cod": "B100",
+        "Nombre": "Pimienta Blanca en Grano 5 kg",
+        "Cód. Barra": "",
+        "Desc": "5 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "14.50",
+        "Empaque": "72.50"
+      },
+      {
+        "Cod": "C100",
+        "Nombre": "Pimienta Blanca en Grano 500 g",
+        "Cód. Barra": "",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "7.60",
+        "Empaque": "91.20"
+      },
+      {
+        "Cod": "B134",
+        "Nombre": "Pimienta Blanca Molida 5 kg",
+        "Cód. Barra": "",
+        "Desc": "5 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "15.80",
+        "Empaque": "79.00"
+      },
+      {
+        "Cod": "C134",
+        "Nombre": "Pimienta Blanca Molida 500 g",
+        "Cód. Barra": "",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "8.30",
+        "Empaque": "99.60"
+      },
+      {
+        "Cod": "1011",
+        "Nombre": "Pimienta Negra en Grano 25 kg",
+        "Cód. Barra": "",
+        "Desc": "25 kg",
+        "IVA": "EXE",
+        "Moneda": "U$S",
+        "Unitario": "7.15",
+        "Empaque": "178.75"
+      },
+      {
+        "Cod": "B101",
+        "Nombre": "Pimienta Negra en Grano 5 kg",
+        "Cód. Barra": "",
+        "Desc": "5 kg",
+        "IVA": "EXE",
+        "Moneda": "U$S",
+        "Unitario": "8.20",
+        "Empaque": "41.00"
+      },
+      {
+        "Cod": "C101",
+        "Nombre": "Pimienta Negra en Grano 500 g",
+        "Cód. Barra": "",
+        "Desc": "12 unid.",
+        "IVA": "EXE",
+        "Moneda": "U$S",
+        "Unitario": "4.30",
+        "Empaque": "51.60"
+      },
+      {
+        "Cod": "B135",
+        "Nombre": "Pimienta Negra Molida 5 kg",
+        "Cód. Barra": "",
+        "Desc": "5 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "9.00",
+        "Empaque": "45.00"
+      },
+      {
+        "Cod": "C135",
+        "Nombre": "Pimienta Negra Molida 500 g",
+        "Cód. Barra": "",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "4.72",
+        "Empaque": "56.64"
+      },
+      {
+        "Cod": "230",
+        "Nombre": "Miel Cosecha Dorada 1 kg",
+        "Cód. Barra": "7730905132171",
+        "Desc": "Unitario",
+        "IVA": "EXE",
+        "Moneda": "$",
+        "Unitario": "262.00",
+        "Empaque": "262.00"
+      },
+      {
+        "Cod": "231",
+        "Nombre": "Miel Cosecha Dorada 500 g",
+        "Cód. Barra": "7730905132188",
+        "Desc": "Unitario",
+        "IVA": "EXE",
+        "Moneda": "$",
+        "Unitario": "147.00",
+        "Empaque": "147.00"
+      },
+      {
+        "Cod": "232",
+        "Nombre": "Miel Cosecha Dorada 250 g",
+        "Cód. Barra": "7730905132195",
+        "Desc": "Unitario",
+        "IVA": "EXE",
+        "Moneda": "$",
+        "Unitario": "108.00",
+        "Empaque": "108.00"
+      },
+      {
+        "Cod": "233",
+        "Nombre": "Miel Pura de Abejas 5 kg",
+        "Cód. Barra": "",
+        "Desc": "Unitario",
+        "IVA": "EXE",
+        "Moneda": "$",
+        "Unitario": "1050.00",
+        "Empaque": "1050.00"
+      }
+    ],
+    "Repostería": [
+      {
+        "Cod": "7510",
+        "Nombre": "Gelatina Sabor Frutilla 1 kg",
+        "Cód. Barra": "",
+        "Desc": "1 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "4.96",
+        "Empaque": "4.96"
+      },
+      {
+        "Cod": "7511",
+        "Nombre": "Gelatina Sabor Naranja 1 lg",
+        "Cód. Barra": "",
+        "Desc": "1 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "4.96",
+        "Empaque": "4.96"
+      },
+      {
+        "Cod": "7610",
+        "Nombre": "Flan Sabor Vainilla 1 kg",
+        "Cód. Barra": "",
+        "Desc": "1 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "4.33",
+        "Empaque": "4.33"
+      },
+      {
+        "Cod": "7710",
+        "Nombre": "Postre Sabor Chocolate 1 kg",
+        "Cód. Barra": "",
+        "Desc": "1 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "3.70",
+        "Empaque": "3.70"
+      },
+      {
+        "Cod": "7711",
+        "Nombre": "Postre Sabor Vainilla 1 kg",
+        "Cód. Barra": "",
+        "Desc": "1 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "3.48",
+        "Empaque": "3.48"
+      }
+    ],
+    "Fruta Seca – Desecadas": [
+      {
+        "Cod": "1019",
+        "Nombre": "\"Arándanos Deshidratados Rojos 11",
+        "Cód. Barra": "34 kg\"",
+        "Desc": "",
+        "IVA": "\"11",
+        "Moneda": "34 kg\"",
+        "Unitario": "22%",
+        "Empaque": "U$S"
+      },
+      {
+        "Cod": "K1019",
+        "Nombre": "Arándanos Deshidratados Rojos 1 kg",
+        "Cód. Barra": "",
+        "Desc": "Unitario",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "9.60",
+        "Empaque": "9.60"
+      },
+      {
+        "Cod": "203",
+        "Nombre": "Avellanas Peladas Crudas 10 kg",
+        "Cód. Barra": "",
+        "Desc": "10 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "17.00",
+        "Empaque": "170.00"
+      },
+      {
+        "Cod": "K203",
+        "Nombre": "Avellanas Peladas Crudas 1 kg",
+        "Cód. Barra": "",
+        "Desc": "Unitario",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "18.90",
+        "Empaque": "18.90"
+      },
+      {
+        "Cod": "204",
+        "Nombre": "Avellanas Peladas Tostadas 10 kg",
+        "Cód. Barra": "",
+        "Desc": "10 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "17.00",
+        "Empaque": "170.00"
+      },
+      {
+        "Cod": "K204",
+        "Nombre": "Avellanas Peladas Tostadas 1 kg",
+        "Cód. Barra": "",
+        "Desc": "Unitario",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "18.90",
+        "Empaque": "18.90"
+      },
+      {
+        "Cod": "1015",
+        "Nombre": "Bayas de Goji 20 kg",
+        "Cód. Barra": "",
+        "Desc": "20 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "13.80",
+        "Empaque": "276.00"
+      },
+      {
+        "Cod": "K1015",
+        "Nombre": "Bayas de Goji 1 kg",
+        "Cód. Barra": "7730905132362",
+        "Desc": "Unitario",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "15.20",
+        "Empaque": "15.20"
+      },
+      {
+        "Cod": "K223",
+        "Nombre": "Castañas de Cajú Enteras Naturales W3 1 kg",
+        "Cód. Barra": "",
+        "Desc": "Unitario",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "15.29",
+        "Empaque": "15.29"
+      },
+      {
+        "Cod": "K224",
+        "Nombre": "Castañas de Cajú Enteras Tostadas c/Sal 1 kg",
+        "Cód. Barra": "",
+        "Desc": "Unitario",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "16.40",
+        "Empaque": "16.40"
+      },
+      {
+        "Cod": "K225",
+        "Nombre": "Castañas de Cajú Enteras Tostadas 1 kg",
+        "Cód. Barra": "",
+        "Desc": "Unitario",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "16.40",
+        "Empaque": "16.40"
+      },
+      {
+        "Cod": "K222",
+        "Nombre": "Castañas de Cajú Tostadas en Trozos 1 kg",
+        "Cód. Barra": "",
+        "Desc": "Unitario",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "11.95",
+        "Empaque": "11.95"
+      },
+      {
+        "Cod": "K230",
+        "Nombre": "Castañas de Cajú Tostadas con Miel 1 kg",
+        "Cód. Barra": "773953120941",
+        "Desc": "Unitario",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "20.11",
+        "Empaque": "20.11"
+      },
+      {
+        "Cod": "2202",
+        "Nombre": "Pistachos Pelados Crudos 12 kg",
+        "Cód. Barra": "",
+        "Desc": "12 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "33.50",
+        "Empaque": "402.00"
+      },
+      {
+        "Cod": "K2202",
+        "Nombre": "Pistachos Pelados Crudos 1 kg",
+        "Cód. Barra": "",
+        "Desc": "Unitario",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "40.00",
+        "Empaque": "40.00"
+      },
+      {
+        "Cod": "2201",
+        "Nombre": "Pistachos Tostados con Cáscara 10 kg",
+        "Cód. Barra": "",
+        "Desc": "10 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "20.00",
+        "Empaque": "200.00"
+      },
+      {
+        "Cod": "K2201",
+        "Nombre": "Pistachos Tostados con Cáscara 1 kg",
+        "Cód. Barra": "",
+        "Desc": "Unitario",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "21.00",
+        "Empaque": "21.00"
+      },
+      {
+        "Cod": "2200",
+        "Nombre": "Pistachos Tostados Salados con Cáscara 10 kg",
+        "Cód. Barra": "",
+        "Desc": "10 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "20.00",
+        "Empaque": "200.00"
+      },
+      {
+        "Cod": "K2200",
+        "Nombre": "Pistachos Tostados Salados con Cáscara 1 kg",
+        "Cód. Barra": "",
+        "Desc": "Unitario",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "21.00",
+        "Empaque": "21.00"
+      },
+      {
+        "Cod": "198",
+        "Nombre": "Ciruela sin Carozo 60/70 10 kg",
+        "Cód. Barra": "",
+        "Desc": "10 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "7.30",
+        "Empaque": "73.00"
+      },
+      {
+        "Cod": "K198",
+        "Nombre": "Ciruela sin Carozo 60/70 1 kg",
+        "Cód. Barra": "",
+        "Desc": "Unitario",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "8.80",
+        "Empaque": "8.80"
+      },
+      {
+        "Cod": "199",
+        "Nombre": "Ciruela con Carozo 10 kg",
+        "Cód. Barra": "",
+        "Desc": "10 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "0.00",
+        "Empaque": "0.00"
+      },
+      {
+        "Cod": "K199",
+        "Nombre": "Ciruela con Carozo 1 kg",
+        "Cód. Barra": "",
+        "Desc": "Unitario",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "0.00",
+        "Empaque": "0.00"
+      },
+      {
+        "Cod": "0410",
+        "Nombre": "Coco Rallado Fino 25 kg",
+        "Cód. Barra": "",
+        "Desc": "25 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "3.00",
+        "Empaque": "75.00"
+      },
+      {
+        "Cod": "B069",
+        "Nombre": "Coco Rallado Fino 5 kg",
+        "Cód. Barra": "",
+        "Desc": "5 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "3.45",
+        "Empaque": "17.25"
+      },
+      {
+        "Cod": "K069",
+        "Nombre": "Coco Rallado Fino 1 kg",
+        "Cód. Barra": "",
+        "Desc": "Unitario",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "3.60",
+        "Empaque": "3.60"
+      },
+      {
+        "Cod": "0411",
+        "Nombre": "\"Coco Chips 11",
+        "Cód. Barra": "34 kg\"",
+        "Desc": "",
+        "IVA": "\"11",
+        "Moneda": "34 kg\"",
+        "Unitario": "22%",
+        "Empaque": "U$S"
+      },
+      {
+        "Cod": "B0411",
+        "Nombre": "Coco Chips 5 kg",
+        "Cód. Barra": "",
+        "Desc": "5 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "4.60",
+        "Empaque": "23.01"
+      },
+      {
+        "Cod": "K0411",
+        "Nombre": "Coco Chips 1 kg",
+        "Cód. Barra": "",
+        "Desc": "Unitario",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "4.81",
+        "Empaque": "4.81"
+      },
+      {
+        "Cod": "218",
+        "Nombre": "Fruta Picada “Sicola”",
+        "Cód. Barra": "7896798190596",
+        "Desc": "10 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "2.85",
+        "Empaque": "28.50"
+      },
+      {
+        "Cod": "1020",
+        "Nombre": "\"Frutilla Deshidratada 12",
+        "Cód. Barra": "5 kg\"",
+        "Desc": "",
+        "IVA": "\"12",
+        "Moneda": "5 kg\"",
+        "Unitario": "22%",
+        "Empaque": "U$S"
+      },
+      {
+        "Cod": "019",
+        "Nombre": "Almendras Peladas Enteras 10 kg",
+        "Cód. Barra": "",
+        "Desc": "10 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "10.20",
+        "Empaque": "102.00"
+      },
+      {
+        "Cod": "K019",
+        "Nombre": "Almendras Peladas Enteras 1 kg",
+        "Cód. Barra": "7730905132287",
+        "Desc": "Unitario",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "12.24",
+        "Empaque": "12.24"
+      },
+      {
+        "Cod": "K0180",
+        "Nombre": "Almendras Peladas Tostadas 1 kg",
+        "Cód. Barra": "7739753120859",
+        "Desc": "Unitario",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "14.01",
+        "Empaque": "14.01"
+      },
+      {
+        "Cod": "K0181",
+        "Nombre": "Almendras Peladas Tostadas con Sal 1 kg",
+        "Cód. Barra": "7739753120866",
+        "Desc": "Unitario",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "14.01",
+        "Empaque": "14.01"
+      },
+      {
+        "Cod": "K0182",
+        "Nombre": "Almendras Peladas Tostadas con Soja 1 kg",
+        "Cód. Barra": "7739753120880",
+        "Desc": "Unitario",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "14.01",
+        "Empaque": "14.01"
+      },
+      {
+        "Cod": "K0183",
+        "Nombre": "Almendras Peladas Tostadas con Miel 1 kg",
+        "Cód. Barra": "7739753120873",
+        "Desc": "Unitario",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "16.90",
+        "Empaque": "16.90"
+      },
+      {
+        "Cod": "207",
+        "Nombre": "Nuez Pelada Cuartos 10 kg",
+        "Cód. Barra": "",
+        "Desc": "10 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "8.50",
+        "Empaque": "85.00"
+      },
+      {
+        "Cod": "K207",
+        "Nombre": "Nuez Pelada Cuartos 1 kg",
+        "Cód. Barra": "",
+        "Desc": "Unitario",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "10.50",
+        "Empaque": "10.50"
+      },
+      {
+        "Cod": "206",
+        "Nombre": "Nuez Pelada Mariposa 10 kg",
+        "Cód. Barra": "",
+        "Desc": "10 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "12.00",
+        "Empaque": "120.00"
+      },
+      {
+        "Cod": "K206",
+        "Nombre": "Nuez Pelada Mariposa 1 kg",
+        "Cód. Barra": "",
+        "Desc": "Unitario",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "14.40",
+        "Empaque": "14.40"
+      },
+      {
+        "Cod": "202",
+        "Nombre": "Nuez con Cáscara 25 kg",
+        "Cód. Barra": "",
+        "Desc": "25 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "5.60",
+        "Empaque": "140.00"
+      },
+      {
+        "Cod": "B202",
+        "Nombre": "Nuez con Cáscara 5 kg",
+        "Cód. Barra": "",
+        "Desc": "5 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "6.40",
+        "Empaque": "32.00"
+      },
+      {
+        "Cod": "1210",
+        "Nombre": "Pasas de Uva Rubias 10 kg",
+        "Cód. Barra": "",
+        "Desc": "10 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "7.45",
+        "Empaque": "74.50"
+      },
+      {
+        "Cod": "K1210",
+        "Nombre": "Pasas de Uva Rubias 1 kg",
+        "Cód. Barra": "",
+        "Desc": "Unitario",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "8.94",
+        "Empaque": "8.94"
+      },
+      {
+        "Cod": "1010",
+        "Nombre": "Pasas de Uva Morena Argentina 10 kg",
+        "Cód. Barra": "",
+        "Desc": "10 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "3.50",
+        "Empaque": "35.00"
+      },
+      {
+        "Cod": "K110",
+        "Nombre": "Pasas de Uva Morena 1 kg",
+        "Cód. Barra": "7730905132430",
+        "Desc": "Unitario",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "4.16",
+        "Empaque": "4.16"
+      },
+      {
+        "Cod": "1310",
+        "Nombre": "Pasas de Uva Chilena 10 kg",
+        "Cód. Barra": "",
+        "Desc": "10 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "3.30",
+        "Empaque": "33.00"
+      },
+      {
+        "Cod": "1311",
+        "Nombre": "Pasas de Uva Chilena Jumbo 10 kg",
+        "Cód. Barra": "",
+        "Desc": "10 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "3.65",
+        "Empaque": "36.50"
+      }
+    ],
+    "Azúcar – Infusiones": [
+      {
+        "Cod": "B046",
+        "Nombre": "Azúcar Impalpable 5 kg",
+        "Cód. Barra": "",
+        "Desc": "5 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.89",
+        "Empaque": "9.46"
+      },
+      {
+        "Cod": "K177",
+        "Nombre": "Cacao en Polvo Natural 1 kg",
+        "Cód. Barra": "",
+        "Desc": "Unitario",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "8.65",
+        "Empaque": "8.65"
+      },
+      {
+        "Cod": "045",
+        "Nombre": "\"Cocoa Cosecha Dorada 2",
+        "Cód. Barra": "5 kg\"",
+        "Desc": "7730905130658",
+        "IVA": "Unitario",
+        "Moneda": "22%",
+        "Unitario": "U$S",
+        "Empaque": "4.16"
+      },
+      {
+        "Cod": "044",
+        "Nombre": "Cocoa Cosecha Dorada 500 g",
+        "Cód. Barra": "7730905130641",
+        "Desc": "10 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "2.40",
+        "Empaque": "24.00"
+      },
+      {
+        "Cod": "051",
+        "Nombre": "Cocoa Cosecha Dorada 200 g",
+        "Cód. Barra": "7730905130634",
+        "Desc": "20 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.05",
+        "Empaque": "21.00"
+      },
+      {
+        "Cod": "058",
+        "Nombre": "Té Ceylan Standard 1001 23 kg",
+        "Cód. Barra": "",
+        "Desc": "23 kg",
+        "IVA": "10%",
+        "Moneda": "U$S",
+        "Unitario": "11.31",
+        "Empaque": "260.22"
+      },
+      {
+        "Cod": "B221",
+        "Nombre": "Té Ceylan Standard 1001 5 kg",
+        "Cód. Barra": "",
+        "Desc": "5 kg",
+        "IVA": "10%",
+        "Moneda": "U$S",
+        "Unitario": "15.64",
+        "Empaque": "78.20"
+      },
+      {
+        "Cod": "K058",
+        "Nombre": "Té Ceylan Standard 1001 1 kg",
+        "Cód. Barra": "",
+        "Desc": "Unitario",
+        "IVA": "10%",
+        "Moneda": "U$S",
+        "Unitario": "16.32",
+        "Empaque": "16.32"
+      },
+      {
+        "Cod": "059",
+        "Nombre": "Té Ceylan Verde 14 kg",
+        "Cód. Barra": "",
+        "Desc": "14 kg",
+        "IVA": "10%",
+        "Moneda": "U$S",
+        "Unitario": "12.08",
+        "Empaque": "169.15"
+      },
+      {
+        "Cod": "B059",
+        "Nombre": "Té Ceylan Verde 5 kg",
+        "Cód. Barra": "",
+        "Desc": "5 kg",
+        "IVA": "10%",
+        "Moneda": "U$S",
+        "Unitario": "14.38",
+        "Empaque": "71.90"
+      },
+      {
+        "Cod": "K059",
+        "Nombre": "Té Ceylan Verde 1 kg",
+        "Cód. Barra": "",
+        "Desc": "1 kg",
+        "IVA": "10%",
+        "Moneda": "U$S",
+        "Unitario": "15.00",
+        "Empaque": "15.00"
+      },
+      {
+        "Cod": "060",
+        "Nombre": "Yerba Campero 1 kg",
+        "Cód. Barra": "7730905130993",
+        "Desc": "20 unid.",
+        "IVA": "10%",
+        "Moneda": "U$S",
+        "Unitario": "2.68",
+        "Empaque": "53.60"
+      },
+      {
+        "Cod": "061",
+        "Nombre": "Yerba Campero 500 g",
+        "Cód. Barra": "7730905131006",
+        "Desc": "20 unid.",
+        "IVA": "10%",
+        "Moneda": "U$S",
+        "Unitario": "1.38",
+        "Empaque": "27.60"
+      }
+    ],
+    "Cereales": [
+      {
+        "Cod": "317",
+        "Nombre": "\"Copos de Maíz Integral 4 unid. de 2",
+        "Cód. Barra": "5 kg\"",
+        "Desc": "7797599000223",
+        "IVA": "10 kg",
+        "Moneda": "22%",
+        "Unitario": "U$S",
+        "Empaque": "4.60"
+      },
+      {
+        "Cod": "3180",
+        "Nombre": "\"Copos de Maíz Natural 4 unid. de 2",
+        "Cód. Barra": "5 kg\"",
+        "Desc": "7797599000209",
+        "IVA": "10 kg",
+        "Moneda": "22%",
+        "Unitario": "U$S",
+        "Empaque": "3.37"
+      },
+      {
+        "Cod": "3181",
+        "Nombre": "Copos de Maíz Natural 11 unid. de 1 kg",
+        "Cód. Barra": "7797599231894",
+        "Desc": "11 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "3.51",
+        "Empaque": "38.65"
+      },
+      {
+        "Cod": "3182",
+        "Nombre": "Copos de Maíz Natural Nutri 32 unid. de 150 g",
+        "Cód. Barra": "7797599232075",
+        "Desc": "32 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "0.72",
+        "Empaque": "23.04"
+      },
+      {
+        "Cod": "3190",
+        "Nombre": "\"Copos de Maíz Azucarados 4 unid. de 2",
+        "Cód. Barra": "5 kg\"",
+        "Desc": "7797599000216",
+        "IVA": "10 kg",
+        "Moneda": "22%",
+        "Unitario": "U$S",
+        "Empaque": "3.37"
+      },
+      {
+        "Cod": "3191",
+        "Nombre": "Copos de Maíz Azucarados 11 unid. de 1 kg",
+        "Cód. Barra": "7797599231900",
+        "Desc": "11 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "3.51",
+        "Empaque": "38.65"
+      },
+      {
+        "Cod": "3192",
+        "Nombre": "Copos de Maíz Azucarados 32 unid. de 200 g",
+        "Cód. Barra": "7797599232068",
+        "Desc": "32 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "0.85",
+        "Empaque": "27.20"
+      },
+      {
+        "Cod": "3200",
+        "Nombre": "\"Granola Nutrifood 5 unid. de 1",
+        "Cód. Barra": "5 kg\"",
+        "Desc": "7797599000032",
+        "IVA": "\"7",
+        "Moneda": "5 kg\"",
+        "Unitario": "22%",
+        "Empaque": "U$S"
+      },
+      {
+        "Cod": "3202",
+        "Nombre": "Granola Nutrifood 20 unid. de 320 g",
+        "Cód. Barra": "7797599000520",
+        "Desc": "20 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "2.11",
+        "Empaque": "42.20"
+      },
+      {
+        "Cod": "K7000",
+        "Nombre": "Granola Tradicional con Azúcar Rubio 900g",
+        "Cód. Barra": "7739753120392",
+        "Desc": "Unitario",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "6.15",
+        "Empaque": "6.15"
+      },
+      {
+        "Cod": "K7001",
+        "Nombre": "Granola Tradicional con Stevia 900g",
+        "Cód. Barra": "7739753120590",
+        "Desc": "Unitario",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "6.15",
+        "Empaque": "6.15"
+      },
+      {
+        "Cod": "K7010",
+        "Nombre": "Granola Frutos Secos con Azúcar Rubio 900g",
+        "Cód. Barra": "7739753120477",
+        "Desc": "Unitario",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "7.20",
+        "Empaque": "7.20"
+      },
+      {
+        "Cod": "K7011",
+        "Nombre": "Granola Frutos Secos con Stevia Rubio 900g",
+        "Cód. Barra": "7739753120675",
+        "Desc": "Unitario",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "7.20",
+        "Empaque": "7.20"
+      },
+      {
+        "Cod": "321",
+        "Nombre": "\"Copitas de Maíz de Chocolate 4 unid. de 2",
+        "Cód. Barra": "5 kg\"",
+        "Desc": "7797599000261",
+        "IVA": "10 kg",
+        "Moneda": "22%",
+        "Unitario": "U$S",
+        "Empaque": "4.35"
+      },
+      {
+        "Cod": "3220",
+        "Nombre": "\"Esferas de Chocolate 4 unid. de 2",
+        "Cód. Barra": "5 kg\"",
+        "Desc": "7797599000278",
+        "IVA": "10 kg",
+        "Moneda": "22%",
+        "Unitario": "U$S",
+        "Empaque": "3.88"
+      },
+      {
+        "Cod": "3221",
+        "Nombre": "Esferas de Chocolate 10 unid. de 1 kg",
+        "Cód. Barra": "7797599231917",
+        "Desc": "10 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "4.10",
+        "Empaque": "41.00"
+      },
+      {
+        "Cod": "3222",
+        "Nombre": "Esferas de Chocolate 32 unid. de 200 g",
+        "Cód. Barra": "7797599232051",
+        "Desc": "32 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "0.93",
+        "Empaque": "29.76"
+      },
+      {
+        "Cod": "3230",
+        "Nombre": "\"Aritos Frutados 4 unid. de 2",
+        "Cód. Barra": "5 kg\"",
+        "Desc": "7797599000292",
+        "IVA": "10 kg",
+        "Moneda": "22%",
+        "Unitario": "U$S",
+        "Empaque": "3.70"
+      },
+      {
+        "Cod": "3231",
+        "Nombre": "Aritos Frutados 10 unid. de 1 kg",
+        "Cód. Barra": "7797599231887",
+        "Desc": "10 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "3.90",
+        "Empaque": "39.00"
+      },
+      {
+        "Cod": "3232",
+        "Nombre": "Aritos Frutados 32 unid. de 160 g",
+        "Cód. Barra": "7797599232044",
+        "Desc": "32 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "0.80",
+        "Empaque": "25.60"
+      },
+      {
+        "Cod": "3240",
+        "Nombre": "\"Anillos con Avena y Miel 4 unid. de 2",
+        "Cód. Barra": "5 kg\"",
+        "Desc": "7797599321689",
+        "IVA": "10 kg",
+        "Moneda": "22%",
+        "Unitario": "U$S",
+        "Empaque": "3.70"
+      },
+      {
+        "Cod": "3250",
+        "Nombre": "\"Almohaditas de Chocolate 4 unid. de 2",
+        "Cód. Barra": "5 kg\"",
+        "Desc": "7797599231641",
+        "IVA": "10 kg",
+        "Moneda": "22%",
+        "Unitario": "U$S",
+        "Empaque": "5.15"
+      },
+      {
+        "Cod": "3260",
+        "Nombre": "\"Almohaditas de Frutilla 4 unid. de 2",
+        "Cód. Barra": "5 kg\"",
+        "Desc": "7797599231658",
+        "IVA": "10 kg",
+        "Moneda": "22%",
+        "Unitario": "U$S",
+        "Empaque": "5.15"
+      },
+      {
+        "Cod": "3270",
+        "Nombre": "\"Almohaditas de Limón 4 unid. de 2",
+        "Cód. Barra": "5 kg\"",
+        "Desc": "7797599231634",
+        "IVA": "10 kg",
+        "Moneda": "22%",
+        "Unitario": "U$S",
+        "Empaque": "5.15"
+      }
+    ],
+    "Snacks y Galletas": [
+      {
+        "Cod": "K781",
+        "Nombre": "Maní Tostado Salado Cosecha Dorada 1kg",
+        "Cód. Barra": "7790905131822",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "4.10",
+        "Empaque": "49.20"
+      },
+      {
+        "Cod": "K783",
+        "Nombre": "Maní Tostado sin Sal Cosecha Dorada 1kg",
+        "Cód. Barra": "7790905131839",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "4.10",
+        "Empaque": "49.20"
+      },
+      {
+        "Cod": "1320",
+        "Nombre": "Papas Bastones Sabor Original Ringo 90 g",
+        "Cód. Barra": "6917554959873",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.34",
+        "Empaque": "16.08"
+      },
+      {
+        "Cod": "1321",
+        "Nombre": "Papas Bastones Sabor Crema y Cebolla Ringo 90 g",
+        "Cód. Barra": "6917554626566",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.34",
+        "Empaque": "16.08"
+      },
+      {
+        "Cod": "1322",
+        "Nombre": "Papas Bastones Sabor Barbacoa Ringo 90 g",
+        "Cód. Barra": "6917554959859",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.34",
+        "Empaque": "16.08"
+      },
+      {
+        "Cod": "1323",
+        "Nombre": "Papas Bastones Sabor Queso Ringo 90 g",
+        "Cód. Barra": "6917554959880",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.34",
+        "Empaque": "16.08"
+      },
+      {
+        "Cod": "1324",
+        "Nombre": "Papas Sabor Original Ringo 120 g",
+        "Cód. Barra": "6917554108899",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.54",
+        "Empaque": "18.48"
+      },
+      {
+        "Cod": "1325",
+        "Nombre": "Papas Sabor Crema y Cebolla Ringo 120 g",
+        "Cód. Barra": "6917554108905",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.54",
+        "Empaque": "18.48"
+      },
+      {
+        "Cod": "1327",
+        "Nombre": "Papas Sabor Barbacoa Ringo 120 g",
+        "Cód. Barra": "6917554119437",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.54",
+        "Empaque": "18.48"
+      },
+      {
+        "Cod": "3900",
+        "Nombre": "Galleta Agua y Sal x3 • 350 g Estrela",
+        "Cód. Barra": "7896264670843",
+        "Desc": "24 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "0.88",
+        "Empaque": "21.12"
+      },
+      {
+        "Cod": "3901",
+        "Nombre": "Galleta Cream Cracker x3 • 350 g Estrela",
+        "Cód. Barra": "7896264670577",
+        "Desc": "24 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "0.88",
+        "Empaque": "21.12"
+      },
+      {
+        "Cod": "3910",
+        "Nombre": "Galleta María Tradicional x3 • 350 g Estrela",
+        "Cód. Barra": "7896264670836",
+        "Desc": "24 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "0.88",
+        "Empaque": "21.12"
+      },
+      {
+        "Cod": "3911",
+        "Nombre": "Galleta Maizena Tradicional x3 • 350 g Estrela",
+        "Cód. Barra": "7896264670959",
+        "Desc": "24 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "0.94",
+        "Empaque": "22.56"
+      },
+      {
+        "Cod": "3913",
+        "Nombre": "Galleta Rellena Sabor Frutilla 120 g Estrela",
+        "Cód. Barra": "7896264670171",
+        "Desc": "30 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "0.39",
+        "Empaque": "11.70"
+      },
+      {
+        "Cod": "3914",
+        "Nombre": "Galleta Rellena Sabor Chocolate 120 g Estrela",
+        "Cód. Barra": "7896264670164",
+        "Desc": "30 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "0.39",
+        "Empaque": "11.70"
+      },
+      {
+        "Cod": "3926",
+        "Nombre": "Waffle de Chocolate 100 g Estrela",
+        "Cód. Barra": "7896264670133",
+        "Desc": "40 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "0.35",
+        "Empaque": "14.00"
+      },
+      {
+        "Cod": "3927",
+        "Nombre": "Waffle de Frutilla 100 g Estrela",
+        "Cód. Barra": "7896264670140",
+        "Desc": "40 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "0.35",
+        "Empaque": "14.00"
+      },
+      {
+        "Cod": "3925",
+        "Nombre": "Waffle de Limón 100 g Estrela",
+        "Cód. Barra": "7896264670157",
+        "Desc": "40 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "0.35",
+        "Empaque": "14.00"
+      }
+    ],
+    "Fraccionados Cosecha Dorada": [
+      {
+        "Cod": "E189",
+        "Nombre": "Adobo Cosecha Dorada 25 g",
+        "Cód. Barra": "7730905131228",
+        "Desc": "30 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "0.34",
+        "Empaque": "10.20"
+      },
+      {
+        "Cod": "E245",
+        "Nombre": "Ajo y Perejil Cosecha Dorada 25 g",
+        "Cód. Barra": "7730905131204",
+        "Desc": "30 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "0.34",
+        "Empaque": "10.20"
+      },
+      {
+        "Cod": "E130",
+        "Nombre": "Orégano Cosecha Dorada 15 g",
+        "Cód. Barra": "7730905131198",
+        "Desc": "30 unid.",
+        "IVA": "EXE",
+        "Moneda": "U$S",
+        "Unitario": "0.23",
+        "Empaque": "6.90"
+      },
+      {
+        "Cod": "E097",
+        "Nombre": "Pimentón Cosecha Dorada 25 g",
+        "Cód. Barra": "7730905131211",
+        "Desc": "30 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "0.29",
+        "Empaque": "8.70"
+      },
+      {
+        "Cod": "E144",
+        "Nombre": "Ajo Granulado Cosecha Dorada 30 g",
+        "Cód. Barra": "7730905133109",
+        "Desc": "30 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "0.34",
+        "Empaque": "10.20"
+      },
+      {
+        "Cod": "E259",
+        "Nombre": "Ají Molido Cosecha Dorada 20 g",
+        "Cód. Barra": "7730905133093",
+        "Desc": "30 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "0.34",
+        "Empaque": "10.20"
+      },
+      {
+        "Cod": "E100",
+        "Nombre": "Pimienta Blanca en Grano Cosecha Dorada 30 g",
+        "Cód. Barra": "7730905133116",
+        "Desc": "30 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "0.45",
+        "Empaque": "13.50"
+      },
+      {
+        "Cod": "E101",
+        "Nombre": "Pimienta Negra en Grano Cosecha Dorada 30 g",
+        "Cód. Barra": "7730905133123",
+        "Desc": "30 unid.",
+        "IVA": "EXE",
+        "Moneda": "U$S",
+        "Unitario": "0.42",
+        "Empaque": "12.60"
+      },
+      {
+        "Cod": "D144",
+        "Nombre": "Ajo Granulado Cosecha Dorada 250 g",
+        "Cód. Barra": "7730905132690",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.66",
+        "Empaque": "19.92"
+      },
+      {
+        "Cod": "D189",
+        "Nombre": "Adobo Cosecha Dorada 250 g",
+        "Cód. Barra": "7730905132065",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "2.10",
+        "Empaque": "25.20"
+      },
+      {
+        "Cod": "D245",
+        "Nombre": "Ajo y Perejil Cosecha Dorada 250 g",
+        "Cód. Barra": "7730905132072",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "2.00",
+        "Empaque": "24.00"
+      },
+      {
+        "Cod": "D130",
+        "Nombre": "Orégano Cosecha Dorada 250 g",
+        "Cód. Barra": "7730905132089",
+        "Desc": "12 unid.",
+        "IVA": "EXE",
+        "Moneda": "U$S",
+        "Unitario": "1.95",
+        "Empaque": "23.40"
+      },
+      {
+        "Cod": "D097",
+        "Nombre": "Pimentón Cosecha Dorada 250 g",
+        "Cód. Barra": "7730905132096",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.66",
+        "Empaque": "19.92"
+      },
+      {
+        "Cod": "E046",
+        "Nombre": "Azúcar Impalpable Cosecha Dorada 200 g",
+        "Cód. Barra": "7730905130672",
+        "Desc": "30 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "0.00",
+        "Empaque": "0.00"
+      },
+      {
+        "Cod": "E076",
+        "Nombre": "Fécula de Maíz Cosecha Dorada 200 g",
+        "Cód. Barra": "7730905130689",
+        "Desc": "30 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "0.39",
+        "Empaque": "11.58"
+      },
+      {
+        "Cod": "E182",
+        "Nombre": "Puré de Papas Cosecha Dorada 125 g",
+        "Cód. Barra": "7730905131365",
+        "Desc": "30 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "0.95",
+        "Empaque": "28.50"
+      },
+      {
+        "Cod": "D019",
+        "Nombre": "Almendras Peladas Doypack CD 100 g",
+        "Cód. Barra": "7730905132706",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.45",
+        "Empaque": "17.41"
+      },
+      {
+        "Cod": "D207",
+        "Nombre": "Nueces Peladas DoyPack CD 80 g",
+        "Cód. Barra": "7730905132713",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.40",
+        "Empaque": "16.81"
+      },
+      {
+        "Cod": "D224",
+        "Nombre": "Castañas de Cajú Tostadas c/Sal DoyPack 100 g",
+        "Cód. Barra": "7730905132836",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.87",
+        "Empaque": "22.45"
+      },
+      {
+        "Cod": "D225",
+        "Nombre": "Castañas de Cajú Tostadas s/Sal DoyPack 100 g",
+        "Cód. Barra": "7730905132720",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.87",
+        "Empaque": "22.45"
+      },
+      {
+        "Cod": "D781",
+        "Nombre": "Maní Tostado Salado con Sal DoyPack CD 100 g",
+        "Cód. Barra": "7730905132737",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "0.60",
+        "Empaque": "7.20"
+      },
+      {
+        "Cod": "D783",
+        "Nombre": "Maní Tostado Salado sin Sal DoyPack CD 100 g",
+        "Cód. Barra": "7730905132744",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "0.60",
+        "Empaque": "7.20"
+      },
+      {
+        "Cod": "D1010",
+        "Nombre": "Pasas de Uva DoyPack CD 100 g",
+        "Cód. Barra": "7730905132751",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "0.50",
+        "Empaque": "6.00"
+      },
+      {
+        "Cod": "D198",
+        "Nombre": "Ciruelas sin Carozo DoyPack CD 100 g",
+        "Cód. Barra": "7730905132768",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.19",
+        "Empaque": "14.27"
+      },
+      {
+        "Cod": "D001",
+        "Nombre": "Mix Castañas/Almendras/Maní DoyPack CD 100 g",
+        "Cód. Barra": "7730905132775",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.28",
+        "Empaque": "15.36"
+      },
+      {
+        "Cod": "D002",
+        "Nombre": "Mix Nueces/Almendras/Pasas DoyPack CD 100 g",
+        "Cód. Barra": "7730905132782",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.15",
+        "Empaque": "13.81"
+      },
+      {
+        "Cod": "D784",
+        "Nombre": "Garrapiñada DoyPack CD 100 g",
+        "Cód. Barra": "7730905132799",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "0.60",
+        "Empaque": "7.20"
+      },
+      {
+        "Cod": "D601",
+        "Nombre": "Maní con Chocolate DoyPack CD 100 g",
+        "Cód. Barra": "7730905132867",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "0.97",
+        "Empaque": "11.64"
+      },
+      {
+        "Cod": "D602",
+        "Nombre": "Lentejas de Chocolate DoyPack CD 100 g",
+        "Cód. Barra": "7730905132843",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.09",
+        "Empaque": "13.08"
+      },
+      {
+        "Cod": "D313",
+        "Nombre": "Semilla de Chía DoyPack CD 100 g",
+        "Cód. Barra": "7730905132805",
+        "Desc": "12 unid.",
+        "IVA": "EXE",
+        "Moneda": "U$S",
+        "Unitario": "0.78",
+        "Empaque": "9.35"
+      },
+      {
+        "Cod": "D312",
+        "Nombre": "Quinoa Blanca DoyPack CD 100 g",
+        "Cód. Barra": "7730905132812",
+        "Desc": "12 unid.",
+        "IVA": "EXE",
+        "Moneda": "U$S",
+        "Unitario": "0.52",
+        "Empaque": "6.19"
+      },
+      {
+        "Cod": "D286",
+        "Nombre": "Girasol Confitero DoyPack CD 100 g",
+        "Cód. Barra": "7730905132829",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "0.48",
+        "Empaque": "5.76"
+      },
+      {
+        "Cod": "D288",
+        "Nombre": "Lentejón DoyPack CD 400 g",
+        "Cód. Barra": "7730905130900",
+        "Desc": "18 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.82",
+        "Empaque": "32.76"
+      },
+      {
+        "Cod": "D191",
+        "Nombre": "Poroto Manteca DoyPack CD 500 g",
+        "Cód. Barra": "7730905130870",
+        "Desc": "18 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.90",
+        "Empaque": "34.20"
+      },
+      {
+        "Cod": "D149",
+        "Nombre": "Poroto Negro DoyPack CD 500 g",
+        "Cód. Barra": "7730905131136",
+        "Desc": "18 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.25",
+        "Empaque": "22.51"
+      },
+      {
+        "Cod": "D110",
+        "Nombre": "Poroto Frutilla DoyPack CD 500 g",
+        "Cód. Barra": "7730905131129",
+        "Desc": "18 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.65",
+        "Empaque": "29.70"
+      },
+      {
+        "Cod": "D282",
+        "Nombre": "Garbanzos DoyPack CD 400 g",
+        "Cód. Barra": "7730905130887",
+        "Desc": "18 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.16",
+        "Empaque": "20.88"
+      },
+      {
+        "Cod": "D089",
+        "Nombre": "Maíz Pisingallo DoyPack CD 500 g",
+        "Cód. Barra": "7730905130733",
+        "Desc": "18 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "0.94",
+        "Empaque": "16.92"
+      },
+      {
+        "Cod": "D1190",
+        "Nombre": "Avena Laminada DoyPack CD 250 g",
+        "Cód. Barra": "7730905132850",
+        "Desc": "18 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "0.71",
+        "Empaque": "12.79"
+      },
+      {
+        "Cod": "D041",
+        "Nombre": "Coco Rallado DoyPack CD 200 g",
+        "Cód. Barra": "7730905130702",
+        "Desc": "18 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.40",
+        "Empaque": "25.22"
+      },
+      {
+        "Cod": "580",
+        "Nombre": "Té Ceylan 6x100 Saquitos de 2 g CD",
+        "Cód. Barra": "7730905132232",
+        "Desc": "6 unid.",
+        "IVA": "10%",
+        "Moneda": "U$S",
+        "Unitario": "7.50",
+        "Empaque": "45.00"
+      },
+      {
+        "Cod": "585",
+        "Nombre": "Té Ceylan 12x50 Saquitos de 2 g CD",
+        "Cód. Barra": "7730905132225",
+        "Desc": "12 unid.",
+        "IVA": "10%",
+        "Moneda": "U$S",
+        "Unitario": "2.34",
+        "Empaque": "28.05"
+      },
+      {
+        "Cod": "582",
+        "Nombre": "Té Ceylan 24x25 Saquitos de 2 g CD",
+        "Cód. Barra": "7730905132218",
+        "Desc": "24 unid.",
+        "IVA": "10%",
+        "Moneda": "U$S",
+        "Unitario": "1.40",
+        "Empaque": "33.66"
+      },
+      {
+        "Cod": "581",
+        "Nombre": "Té Ceylan 48x10 Saquitos de 2 g CD",
+        "Cód. Barra": "7730905132201",
+        "Desc": "48 unid.",
+        "IVA": "10%",
+        "Moneda": "U$S",
+        "Unitario": "0.82",
+        "Empaque": "39.35"
+      },
+      {
+        "Cod": "588",
+        "Nombre": "Té Ceylan Verde 12x50 Saquitos de 2 g CD",
+        "Cód. Barra": "7730905132317",
+        "Desc": "12 unid.",
+        "IVA": "10%",
+        "Moneda": "U$S",
+        "Unitario": "2.52",
+        "Empaque": "30.28"
+      },
+      {
+        "Cod": "587",
+        "Nombre": "Té Ceylan Verde 24x25 Saquitos de 2 g CD",
+        "Cód. Barra": "7730905132300",
+        "Desc": "24 unid.",
+        "IVA": "10%",
+        "Moneda": "U$S",
+        "Unitario": "1.51",
+        "Empaque": "36.24"
+      },
+      {
+        "Cod": "586",
+        "Nombre": "Té Ceylan Verde 48x10 Saquitos de 2 g CD",
+        "Cód. Barra": "7730905132294",
+        "Desc": "48 unid.",
+        "IVA": "10%",
+        "Moneda": "U$S",
+        "Unitario": "0.90",
+        "Empaque": "43.00"
+      },
+      {
+        "Cod": "591",
+        "Nombre": "Té Ceylan con Limón 12x50 Saquitos de 2 g CD",
+        "Cód. Barra": "7730905132348",
+        "Desc": "12 unid.",
+        "IVA": "10%",
+        "Moneda": "U$S",
+        "Unitario": "2.87",
+        "Empaque": "34.49"
+      },
+      {
+        "Cod": "590",
+        "Nombre": "Té Ceylan con Limón 24x25 Saquitos de 2 g CD",
+        "Cód. Barra": "7730905132331",
+        "Desc": "24 unid.",
+        "IVA": "10%",
+        "Moneda": "U$S",
+        "Unitario": "1.63",
+        "Empaque": "39.02"
+      },
+      {
+        "Cod": "589",
+        "Nombre": "Té Ceylan con Limón 48x10 Saquitos de 2 g CD",
+        "Cód. Barra": "7730905132331",
+        "Desc": "48 unid.",
+        "IVA": "10%",
+        "Moneda": "U$S",
+        "Unitario": "0.97",
+        "Empaque": "46.55"
+      },
+      {
+        "Cod": "E115",
+        "Nombre": "Gofio Pajarito 1 kg",
+        "Cód. Barra": "7730914720017",
+        "Desc": "10 unid.",
+        "IVA": "22%",
+        "Moneda": "$",
+        "Unitario": "132.00",
+        "Empaque": "1320.00"
+      },
+      {
+        "Cod": "E1151",
+        "Nombre": "Gofio Pajarito 500 g",
+        "Cód. Barra": "7730914720031",
+        "Desc": "20 unid.",
+        "IVA": "22%",
+        "Moneda": "$",
+        "Unitario": "78.00",
+        "Empaque": "1560.00"
+      },
+      {
+        "Cod": "E1152",
+        "Nombre": "Gofio Pajarito 250 g",
+        "Cód. Barra": "7730914720079",
+        "Desc": "24 unid.",
+        "IVA": "22%",
+        "Moneda": "$",
+        "Unitario": "44.20",
+        "Empaque": "1060.80"
+      },
+      {
+        "Cod": "807",
+        "Nombre": "Caracoles 500 g Bonavita",
+        "Cód. Barra": "7798031150391",
+        "Desc": "15 unid.",
+        "IVA": "10%",
+        "Moneda": "U$S",
+        "Unitario": "0.75",
+        "Empaque": "11.25"
+      },
+      {
+        "Cod": "802",
+        "Nombre": "Coditos 500 g Bonavita",
+        "Cód. Barra": "7798031150872",
+        "Desc": "15 unid.",
+        "IVA": "10%",
+        "Moneda": "U$S",
+        "Unitario": "0.75",
+        "Empaque": "11.25"
+      },
+      {
+        "Cod": "806",
+        "Nombre": "Mostachol Rayado 500 g Bonavita",
+        "Cód. Barra": "7798031150384",
+        "Desc": "15 unid.",
+        "IVA": "10%",
+        "Moneda": "U$S",
+        "Unitario": "0.75",
+        "Empaque": "11.25"
+      },
+      {
+        "Cod": "803",
+        "Nombre": "Moños 500 g Bonavita",
+        "Cód. Barra": "7798031150117",
+        "Desc": "15 unid.",
+        "IVA": "10%",
+        "Moneda": "U$S",
+        "Unitario": "0.75",
+        "Empaque": "11.25"
+      },
+      {
+        "Cod": "801",
+        "Nombre": "Rigatti 500 g Bonavita",
+        "Cód. Barra": "7798031150094",
+        "Desc": "15 unid.",
+        "IVA": "10%",
+        "Moneda": "U$S",
+        "Unitario": "0.75",
+        "Empaque": "11.25"
+      },
+      {
+        "Cod": "804",
+        "Nombre": "Spaghetti 500 g Bonavita",
+        "Cód. Barra": "7798031150049",
+        "Desc": "20 unid.",
+        "IVA": "10%",
+        "Moneda": "U$S",
+        "Unitario": "0.75",
+        "Empaque": "15.00"
+      },
+      {
+        "Cod": "805",
+        "Nombre": "Tallarines 500 g Bonavita",
+        "Cód. Barra": "7798031150063",
+        "Desc": "20 unid.",
+        "IVA": "10%",
+        "Moneda": "U$S",
+        "Unitario": "0.75",
+        "Empaque": "15.00"
+      },
+      {
+        "Cod": "800",
+        "Nombre": "Tirabuzón 500 g Bonavita",
+        "Cód. Barra": "7798031150070",
+        "Desc": "15 unid.",
+        "IVA": "10%",
+        "Moneda": "U$S",
+        "Unitario": "0.75",
+        "Empaque": "11.25"
+      },
+      {
+        "Cod": "820",
+        "Nombre": "Tirabuzón 400 g Sol Pampeano",
+        "Cód. Barra": "7798031155495",
+        "Desc": "15 unid.",
+        "IVA": "10%",
+        "Moneda": "U$S",
+        "Unitario": "0.52",
+        "Empaque": "7.82"
+      },
+      {
+        "Cod": "824",
+        "Nombre": "Spaghetti 400 g Sol Pampeano",
+        "Cód. Barra": "7798031155471",
+        "Desc": "20 unid.",
+        "IVA": "10%",
+        "Moneda": "U$S",
+        "Unitario": "0.52",
+        "Empaque": "10.42"
+      },
+      {
+        "Cod": "826",
+        "Nombre": "Mostachol 400 g Sol Pampeano",
+        "Cód. Barra": "7798031155518",
+        "Desc": "15 unid.",
+        "IVA": "10%",
+        "Moneda": "U$S",
+        "Unitario": "0.52",
+        "Empaque": "7.82"
+      },
+      {
+        "Cod": "8100",
+        "Nombre": "Fusilli de Maíz Amarillo 250 g",
+        "Cód. Barra": "7730905132997",
+        "Desc": "12 unid.",
+        "IVA": "10%",
+        "Moneda": "U$S",
+        "Unitario": "1.60",
+        "Empaque": "19.20"
+      },
+      {
+        "Cod": "8101",
+        "Nombre": "Spaghetti de Maíz Amarillo 250 g",
+        "Cód. Barra": "7730905132980",
+        "Desc": "12 unid.",
+        "IVA": "10%",
+        "Moneda": "U$S",
+        "Unitario": "1.80",
+        "Empaque": "21.60"
+      },
+      {
+        "Cod": "8120",
+        "Nombre": "Mini Fusilli de Arroz Integral 250 g",
+        "Cód. Barra": "7730905133017",
+        "Desc": "12 unid.",
+        "IVA": "10%",
+        "Moneda": "U$S",
+        "Unitario": "1.70",
+        "Empaque": "20.40"
+      },
+      {
+        "Cod": "8121",
+        "Nombre": "Spaghetti de Arroz Integral 250 g",
+        "Cód. Barra": "7730905133000",
+        "Desc": "12 unid.",
+        "IVA": "10%",
+        "Moneda": "U$S",
+        "Unitario": "1.90",
+        "Empaque": "22.80"
+      },
+      {
+        "Cod": "8130",
+        "Nombre": "Fusilli de Quinoa Real 250 g",
+        "Cód. Barra": "7730905133031",
+        "Desc": "12 unid.",
+        "IVA": "10%",
+        "Moneda": "U$S",
+        "Unitario": "2.10",
+        "Empaque": "25.20"
+      },
+      {
+        "Cod": "8131",
+        "Nombre": "Spaghetti de Quinoa Real 250 g",
+        "Cód. Barra": "7930905133024",
+        "Desc": "12 unid.",
+        "IVA": "10%",
+        "Moneda": "U$S",
+        "Unitario": "2.30",
+        "Empaque": "27.60"
+      },
+      {
+        "Cod": "8140",
+        "Nombre": "Fusilli de Chía 250 g",
+        "Cód. Barra": "7730905133055",
+        "Desc": "12 unid.",
+        "IVA": "10%",
+        "Moneda": "U$S",
+        "Unitario": "2.10",
+        "Empaque": "25.20"
+      },
+      {
+        "Cod": "8141",
+        "Nombre": "Spaghetti de Chía 250 g",
+        "Cód. Barra": "7730905133048",
+        "Desc": "12 unid.",
+        "IVA": "10%",
+        "Moneda": "U$S",
+        "Unitario": "2.30",
+        "Empaque": "27.60"
+      },
+      {
+        "Cod": "8150",
+        "Nombre": "Coditos de Lentejas 250 g",
+        "Cód. Barra": "7730905133062",
+        "Desc": "12 unid.",
+        "IVA": "10%",
+        "Moneda": "U$S",
+        "Unitario": "3.10",
+        "Empaque": "37.20"
+      },
+      {
+        "Cod": "8160",
+        "Nombre": "Sedanini de Arvejas 250 g",
+        "Cód. Barra": "7730905133079",
+        "Desc": "12 unid.",
+        "IVA": "10%",
+        "Moneda": "U$S",
+        "Unitario": "2.90",
+        "Empaque": "34.80"
+      },
+      {
+        "Cod": "380",
+        "Nombre": "Ajíes Catalanes 350 g Cosecha Dorada",
+        "Cód. Barra": "7730905131891",
+        "Desc": "6 unid.",
+        "IVA": "22%",
+        "Moneda": "$",
+        "Unitario": "100.00",
+        "Empaque": "600.00"
+      },
+      {
+        "Cod": "381",
+        "Nombre": "Ajíes Catalanes 580 g Cosecha Dorada",
+        "Cód. Barra": "7730905131945",
+        "Desc": "6 unid.",
+        "IVA": "22%",
+        "Moneda": "$",
+        "Unitario": "150.00",
+        "Empaque": "900.00"
+      },
+      {
+        "Cod": "382",
+        "Nombre": "Pickles 350 g Cosecha Dorada",
+        "Cód. Barra": "7730905131884",
+        "Desc": "6 unid.",
+        "IVA": "22%",
+        "Moneda": "$",
+        "Unitario": "100.00",
+        "Empaque": "600.00"
+      },
+      {
+        "Cod": "383",
+        "Nombre": "Pickles 660 g Cosecha Dorada",
+        "Cód. Barra": "7730905131938",
+        "Desc": "6 unid.",
+        "IVA": "22%",
+        "Moneda": "$",
+        "Unitario": "150.00",
+        "Empaque": "900.00"
+      },
+      {
+        "Cod": "384",
+        "Nombre": "Morrones en Vinagre 350 g Cosecha Dorada",
+        "Cód. Barra": "7730905131877",
+        "Desc": "6 unid.",
+        "IVA": "22%",
+        "Moneda": "$",
+        "Unitario": "115.00",
+        "Empaque": "690.00"
+      },
+      {
+        "Cod": "385",
+        "Nombre": "Morrones en Vinagre 660 g Cosecha Dorada",
+        "Cód. Barra": "7730905131921",
+        "Desc": "6 unid.",
+        "IVA": "22%",
+        "Moneda": "$",
+        "Unitario": "170.00",
+        "Empaque": "1020.00"
+      },
+      {
+        "Cod": "386",
+        "Nombre": "Hongos en Escabeche 350 g Cosecha Dorada",
+        "Cód. Barra": "7730905131860",
+        "Desc": "6 unid.",
+        "IVA": "22%",
+        "Moneda": "$",
+        "Unitario": "115.00",
+        "Empaque": "690.00"
+      },
+      {
+        "Cod": "387",
+        "Nombre": "Hongos en Escabeche 660 g Cosecha Dorada",
+        "Cód. Barra": "7730905131914",
+        "Desc": "6 unid.",
+        "IVA": "22%",
+        "Moneda": "$",
+        "Unitario": "170.00",
+        "Empaque": "1020.00"
+      },
+      {
+        "Cod": "388",
+        "Nombre": "Hongos en Vinagre 350 g Cosecha Dorada",
+        "Cód. Barra": "7730905131853",
+        "Desc": "6 unid.",
+        "IVA": "22%",
+        "Moneda": "$",
+        "Unitario": "115.00",
+        "Empaque": "690.00"
+      },
+      {
+        "Cod": "389",
+        "Nombre": "Hongos en Vinagre 660 g Cosecha Dorada",
+        "Cód. Barra": "7730905131907",
+        "Desc": "6 unid.",
+        "IVA": "22%",
+        "Moneda": "$",
+        "Unitario": "170.00",
+        "Empaque": "1020.00"
+      },
+      {
+        "Cod": "7913",
+        "Nombre": "Cerveza Samba Lata 350 ml",
+        "Cód. Barra": "7898295301130",
+        "Desc": "12 Latas",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "0.68",
+        "Empaque": "8.16"
+      },
+      {
+        "Cod": "7914",
+        "Nombre": "Cerveza Samba Lata 473 ml",
+        "Cód. Barra": "7898295300201",
+        "Desc": "12 Latas",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "0.85",
+        "Empaque": "10.20"
+      },
+      {
+        "Cod": "7916",
+        "Nombre": "Cerveza Samba Botella 600 ml",
+        "Cód. Barra": "7898295300614",
+        "Desc": "6 Bot.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.35",
+        "Empaque": "8.10"
+      },
+      {
+        "Cod": "7924",
+        "Nombre": "Cerveza Burguesa Lata 473 ml",
+        "Cód. Barra": "7898295301505",
+        "Desc": "12 Latas",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "0.97",
+        "Empaque": "11.64"
+      },
+      {
+        "Cod": "7934",
+        "Nombre": "Cerveza Moinho Real Lata 473 ml",
+        "Cód. Barra": "7898295303530",
+        "Desc": "12 Latas",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.00",
+        "Empaque": "12.00"
+      },
+      {
+        "Cod": "7936",
+        "Nombre": "Cerveza Moinho Real Botella 600 ml",
+        "Cód. Barra": "7898295303264",
+        "Desc": "6 Bot.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.47",
+        "Empaque": "8.82"
+      },
+      {
+        "Cod": "7941",
+        "Nombre": "Cerveza Smith 44 Botella 330 ml",
+        "Cód. Barra": "7898295303769",
+        "Desc": "24 Bot.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "0.96",
+        "Empaque": "23.04"
+      },
+      {
+        "Cod": "7944",
+        "Nombre": "Cerveza Smith 44 Lata 473 ml",
+        "Cód. Barra": "7898295305152",
+        "Desc": "6 Latas",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.18",
+        "Empaque": "7.08"
+      },
+      {
+        "Cod": "7946",
+        "Nombre": "Cerveza Smith 44 Botella x 600 ml",
+        "Cód. Barra": "7898295305169",
+        "Desc": "6 Bot.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.64",
+        "Empaque": "9.84"
+      },
+      {
+        "Cod": "7964",
+        "Nombre": "Cerveza Negra Conti Malzbier Lata 473 ml",
+        "Cód. Barra": "7898295301574",
+        "Desc": "12 Latas",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.00",
+        "Empaque": "12.00"
+      }
+    ],
+    "Conserva de Frutas": [
+      {
+        "Cod": "3020",
+        "Nombre": "Durazno en Almíbar Cosecha Dorada 3 kg",
+        "Cód. Barra": "7730905130290",
+        "Desc": "6 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "0.00",
+        "Empaque": "0.00"
+      },
+      {
+        "Cod": "0020",
+        "Nombre": "Durazno en Almíbar Cosecha Dorada 820 g",
+        "Cód. Barra": "7730905130306",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.80",
+        "Empaque": "21.60"
+      },
+      {
+        "Cod": "297",
+        "Nombre": "Durazno en Almíbar sin Azúcar CD 800 g",
+        "Cód. Barra": "7730905131662",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "2.25",
+        "Empaque": "27.00"
+      },
+      {
+        "Cod": "296",
+        "Nombre": "Durazno en Almíbar Campero 800 g",
+        "Cód. Barra": "7730905130313",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.75",
+        "Empaque": "21.00"
+      },
+      {
+        "Cod": "3012",
+        "Nombre": "Ananá en Almíbar Cosecha Dorada 3 kg",
+        "Cód. Barra": "7730905130382",
+        "Desc": "6 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "7.05",
+        "Empaque": "42.30"
+      },
+      {
+        "Cod": "290",
+        "Nombre": "Ananá en Almíbar Cosecha Dorada 820 g",
+        "Cód. Barra": "7730905130375",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "2.08",
+        "Empaque": "25.00"
+      },
+      {
+        "Cod": "289",
+        "Nombre": "Ananá en Almíbar sin Azúcar CD 820 g",
+        "Cód. Barra": "7730905131778",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "2.25",
+        "Empaque": "27.00"
+      },
+      {
+        "Cod": "291",
+        "Nombre": "Ananá en Almíbar Campero 850 g",
+        "Cód. Barra": "7730905130368",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "2.04",
+        "Empaque": "24.50"
+      },
+      {
+        "Cod": "277",
+        "Nombre": "Coctail de Frutas Cosecha Dorada 820 g",
+        "Cód. Barra": "7730905130320",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "2.90",
+        "Empaque": "34.81"
+      },
+      {
+        "Cod": "273",
+        "Nombre": "Coctail de Frutas sin Azúcar CD 800 g",
+        "Cód. Barra": "7730905131495",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "2.90",
+        "Empaque": "34.81"
+      },
+      {
+        "Cod": "278",
+        "Nombre": "Peras en Almíbar Cosecha Dorada 820 g",
+        "Cód. Barra": "7730905130337",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "2.35",
+        "Empaque": "28.20"
+      },
+      {
+        "Cod": "284",
+        "Nombre": "Peras en Almíbar sin Azúcar CD 800 g",
+        "Cód. Barra": "7730905131402",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "2.35",
+        "Empaque": "28.20"
+      },
+      {
+        "Cod": "1941",
+        "Nombre": "Higos en Almíbar Cosecha Dorada 790 g",
+        "Cód. Barra": "7730905130344",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "2.76",
+        "Empaque": "33.12"
+      },
+      {
+        "Cod": "126",
+        "Nombre": "Zapallo en Almíbar Cosecha Dorada 830 g",
+        "Cód. Barra": "7730905130351",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "2.68",
+        "Empaque": "32.16"
+      },
+      {
+        "Cod": "295",
+        "Nombre": "Arándanos en Almíbar Cosecha Dorada 520 g",
+        "Cód. Barra": "7730905132645",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "2.40",
+        "Empaque": "28.80"
+      },
+      {
+        "Cod": "275",
+        "Nombre": "Frutillas en Almíbar Cosecha Dorada 850 g",
+        "Cód. Barra": "7730905131372",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "3.46",
+        "Empaque": "41.52"
+      },
+      {
+        "Cod": "294",
+        "Nombre": "Frutillas en Almíbar Cosecha Dorada 520 g",
+        "Cód. Barra": "7730905131648",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "2.40",
+        "Empaque": "28.80"
+      },
+      {
+        "Cod": "262",
+        "Nombre": "Cerezas Rojas al Marrasquino Frasco 190 g",
+        "Cód. Barra": "7730905131280",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "2.90",
+        "Empaque": "34.80"
+      },
+      {
+        "Cod": "U261",
+        "Nombre": "\"Cerezas Rojas al Marrasquino 3",
+        "Cód. Barra": "1 kg\"",
+        "Desc": "7730905130405",
+        "IVA": "Unitario",
+        "Moneda": "22%",
+        "Unitario": "U$S",
+        "Empaque": "17.13"
+      },
+      {
+        "Cod": "U268",
+        "Nombre": "\"Cerezas Verdes al Marrasquino 3",
+        "Cód. Barra": "1 kg\"",
+        "Desc": "7730905131105",
+        "IVA": "Unitario",
+        "Moneda": "22%",
+        "Unitario": "U$S",
+        "Empaque": "17.13"
+      },
+      {
+        "Cod": "263",
+        "Nombre": "Cerezas Confitadas 8 kg",
+        "Cód. Barra": "7730905131112",
+        "Desc": "8 kg",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "10.00",
+        "Empaque": "80.00"
+      }
+    ],
+    "Conservas de Vegetales": [
+      {
+        "Cod": "2096",
+        "Nombre": "Salsa de Tomate Señor Tomate 1 kg",
+        "Cód. Barra": "7730905133215",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "0.78",
+        "Empaque": "9.36"
+      },
+      {
+        "Cod": "2093",
+        "Nombre": "Salsa Pizzera 3 kg",
+        "Cód. Barra": "7730493091652",
+        "Desc": "Unitario",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "3.84",
+        "Empaque": "3.84"
+      },
+      {
+        "Cod": "027",
+        "Nombre": "\"Tomate Perita Pelado Cosecha Dorada 2",
+        "Cód. Barra": "55 kg\"",
+        "Desc": "7730905130115",
+        "IVA": "6 unid.",
+        "Moneda": "22%",
+        "Unitario": "U$S",
+        "Empaque": "5.50"
+      },
+      {
+        "Cod": "029",
+        "Nombre": "Tomate Perita Pelado Cosecha Dorada 400 g",
+        "Cód. Barra": "7730905130108",
+        "Desc": "24 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "0.90",
+        "Empaque": "21.60"
+      },
+      {
+        "Cod": "031",
+        "Nombre": "\"Tomate en Cubos Cosecha Dorada 2",
+        "Cód. Barra": "55 kg\"",
+        "Desc": "7730905130122",
+        "IVA": "6 unid.",
+        "Moneda": "22%",
+        "Unitario": "U$S",
+        "Empaque": "5.50"
+      },
+      {
+        "Cod": "034",
+        "Nombre": "Tomate en Cubos Cosecha Dorada 400 g",
+        "Cód. Barra": "7730905131556",
+        "Desc": "24 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "0.90",
+        "Empaque": "21.60"
+      }
+    ],
+    "Conserva de Pescados": [
+      {
+        "Cod": "2801",
+        "Nombre": "Anchoas en Aceite Marbella 90 g",
+        "Cód. Barra": "7792750000937",
+        "Desc": "24 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "3.80",
+        "Empaque": "91.20"
+      },
+      {
+        "Cod": "2802",
+        "Nombre": "Anchoas en Aceite Marbella 1 kg",
+        "Cód. Barra": "7792750001255",
+        "Desc": "6 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "27.00",
+        "Empaque": "162.00"
+      },
+      {
+        "Cod": "360",
+        "Nombre": "Atún Desmenuzado en Aceite Golden Fish 170 g",
+        "Cód. Barra": "7730905131266",
+        "Desc": "48 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "0.85",
+        "Empaque": "40.80"
+      },
+      {
+        "Cod": "359",
+        "Nombre": "Atún Desmenuzado al Natural Golden Fish 170 g",
+        "Cód. Barra": "7730905131259",
+        "Desc": "48 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "0.81",
+        "Empaque": "38.88"
+      },
+      {
+        "Cod": "355",
+        "Nombre": "Atún Trozos en Aceite Golden Fish 170 g",
+        "Cód. Barra": "7730905131051",
+        "Desc": "48 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.37",
+        "Empaque": "65.76"
+      },
+      {
+        "Cod": "356",
+        "Nombre": "Atún Trozos al Natural Golden Fish 170 g",
+        "Cód. Barra": "7730905131068",
+        "Desc": "48 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.32",
+        "Empaque": "63.36"
+      },
+      {
+        "Cod": "3680",
+        "Nombre": "Atún Trozos en Aceite Pouch Golden Fish 500 g",
+        "Cód. Barra": "7730905132256",
+        "Desc": "16 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "4.65",
+        "Empaque": "74.40"
+      },
+      {
+        "Cod": "354",
+        "Nombre": "Atún Trozos al Natural Pouch Golden Fish 500 g",
+        "Cód. Barra": "7730905132461",
+        "Desc": "16 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "4.20",
+        "Empaque": "67.20"
+      },
+      {
+        "Cod": "003",
+        "Nombre": "Atún Trozos en Aceite Golden Fish 900 g",
+        "Cód. Barra": "7730905131327",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "7.20",
+        "Empaque": "86.40"
+      },
+      {
+        "Cod": "0031",
+        "Nombre": "Atún Trozos al Natural Golden Fish 900 g",
+        "Cód. Barra": "7730905132140",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "7.00",
+        "Empaque": "84.00"
+      },
+      {
+        "Cod": "3681",
+        "Nombre": "Atún Trozos en Aceite Pouch Golden Fish 1 kg",
+        "Cód. Barra": "7730905132249",
+        "Desc": "16 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "8.65",
+        "Empaque": "138.40"
+      },
+      {
+        "Cod": "3650",
+        "Nombre": "\"Atún Trozos en Aceite Golden Fish 1",
+        "Cód. Barra": "8 kg\"",
+        "Desc": "7730905131389",
+        "IVA": "6 unid.",
+        "Moneda": "22%",
+        "Unitario": "U$S",
+        "Empaque": "13.00"
+      },
+      {
+        "Cod": "3651",
+        "Nombre": "\"Atún Trozos al Natural Golden Fish 1",
+        "Cód. Barra": "8 kg\"",
+        "Desc": "7730905132164",
+        "IVA": "6 unid.",
+        "Moneda": "22%",
+        "Unitario": "U$S",
+        "Empaque": "13.00"
+      },
+      {
+        "Cod": "363",
+        "Nombre": "Atún Lomos en Aceite Tripack Golden Fish 3x 80 g",
+        "Cód. Barra": "7730905131679",
+        "Desc": "20 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "3.00",
+        "Empaque": "60.00"
+      },
+      {
+        "Cod": "364",
+        "Nombre": "Atún Lomos al Natural Tripack Golden Fish 3x 80 g",
+        "Cód. Barra": "7730905131686",
+        "Desc": "20 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "2.90",
+        "Empaque": "58.00"
+      },
+      {
+        "Cod": "372",
+        "Nombre": "Atún Lomos en Aceite Golden Fish 170 g",
+        "Cód. Barra": "7730905132126",
+        "Desc": "48 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.39",
+        "Empaque": "66.72"
+      },
+      {
+        "Cod": "373",
+        "Nombre": "Atún Lomos al Natural Golden Fish 170 g",
+        "Cód. Barra": "7730905132119",
+        "Desc": "48 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.34",
+        "Empaque": "64.32"
+      },
+      {
+        "Cod": "369",
+        "Nombre": "Atún Lomos en Aceite Golden Fish 350 g",
+        "Cód. Barra": "7730905131693",
+        "Desc": "24 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "3.43",
+        "Empaque": "82.32"
+      },
+      {
+        "Cod": "370",
+        "Nombre": "Atún Lomos al Natural Golden Fish 350 g",
+        "Cód. Barra": "7730905131709",
+        "Desc": "24 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "3.30",
+        "Empaque": "79.20"
+      },
+      {
+        "Cod": "0870",
+        "Nombre": "Grated de Sardinas Marinera 170 g",
+        "Cód. Barra": "7730905131273",
+        "Desc": "48 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "0.68",
+        "Empaque": "32.64"
+      },
+      {
+        "Cod": "030",
+        "Nombre": "Grated de Sardinas Marinera 425 g",
+        "Cód. Barra": "7730905130412",
+        "Desc": "24 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.36",
+        "Empaque": "32.64"
+      },
+      {
+        "Cod": "0321",
+        "Nombre": "Sardinas Enteras en Aceite Golden Fish 125 g",
+        "Cód. Barra": "7730905131150",
+        "Desc": "50 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "0.74",
+        "Empaque": "37.00"
+      },
+      {
+        "Cod": "357",
+        "Nombre": "Sardinas Enteras en Aceite Oval GF 425 g",
+        "Cód. Barra": "7730905131143",
+        "Desc": "24 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.90",
+        "Empaque": "45.60"
+      },
+      {
+        "Cod": "358",
+        "Nombre": "Sardinas Enteras al Natural Golden Fish 425 g",
+        "Cód. Barra": "7730905131167",
+        "Desc": "24 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.75",
+        "Empaque": "42.00"
+      },
+      {
+        "Cod": "0331",
+        "Nombre": "Sardinas Enteras en Tomate Golden Fish 425 g",
+        "Cód. Barra": "7730905131655",
+        "Desc": "24 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.75",
+        "Empaque": "42.00"
+      }
+    ],
+    "Conserva de Carnes": [
+      {
+        "Cod": "124",
+        "Nombre": "Corned Beef Cosecha Dorada 340 g",
+        "Cód. Barra": "7730905130504",
+        "Desc": "24 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "2.80",
+        "Empaque": "67.20"
+      },
+      {
+        "Cod": "1041",
+        "Nombre": "Paté de Carne Cosecha Dorada 100 g",
+        "Cód. Barra": "7730905130535",
+        "Desc": "24 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "0.65",
+        "Empaque": "15.60"
+      },
+      {
+        "Cod": "1071",
+        "Nombre": "Paté de Jamón Cosecha Dorada 100 g",
+        "Cód. Barra": "7730905130556",
+        "Desc": "24 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "0.65",
+        "Empaque": "15.60"
+      },
+      {
+        "Cod": "1031",
+        "Nombre": "Paté de Lengua Cosecha Dorada 100 g",
+        "Cód. Barra": "7730905130528",
+        "Desc": "24 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "0.65",
+        "Empaque": "15.60"
+      },
+      {
+        "Cod": "1051",
+        "Nombre": "Paté de Pollo Cosecha Dorada 100 g",
+        "Cód. Barra": "7730905130542",
+        "Desc": "24 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "0.65",
+        "Empaque": "15.60"
+      },
+      {
+        "Cod": "123",
+        "Nombre": "Salchicha Tipo Viena Cosecha Dorada 180 g",
+        "Cód. Barra": "7730905130511",
+        "Desc": "24 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.24",
+        "Empaque": "29.76"
+      }
+    ],
+    "Aceites y Vinagres": [
+      {
+        "Cod": "0505",
+        "Nombre": "Aceite de Oliva Extra Virgen 250 ml • Vidrio",
+        "Cód. Barra": "7730905131785",
+        "Desc": "12 unid.",
+        "IVA": "10%",
+        "Moneda": "U$S",
+        "Unitario": "3.92",
+        "Empaque": "47.04"
+      },
+      {
+        "Cod": "0502",
+        "Nombre": "Aceite de Oliva Extra Virgen 500 ml • Vidrio",
+        "Cód. Barra": "7730905131792",
+        "Desc": "12 unid.",
+        "IVA": "10%",
+        "Moneda": "U$S",
+        "Unitario": "6.80",
+        "Empaque": "81.60"
+      },
+      {
+        "Cod": "0503",
+        "Nombre": "Aceite de Oliva Virgen 3L • Bidón",
+        "Cód. Barra": "7730973440932",
+        "Desc": "4 unid",
+        "IVA": "10%",
+        "Moneda": "U$S",
+        "Unitario": "40.00",
+        "Empaque": "160.00"
+      },
+      {
+        "Cod": "0504",
+        "Nombre": "Aceite de Oliva Extra Virgen 5 L • Bidón",
+        "Cód. Barra": "7730905131815",
+        "Desc": "4 unid.",
+        "IVA": "10%",
+        "Moneda": "U$S",
+        "Unitario": "54.30",
+        "Empaque": "217.18"
+      },
+      {
+        "Cod": "0527",
+        "Nombre": "Vinagre de Alcohol Cosecha Dorada 750 ml",
+        "Cód. Barra": "7730905132881",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "0.45",
+        "Empaque": "5.40"
+      },
+      {
+        "Cod": "0525",
+        "Nombre": "\"Vinagre de Alcohol Cosecha Dorada 4",
+        "Cód. Barra": "9 L\"",
+        "Desc": "7730905132898",
+        "IVA": "2 unid.",
+        "Moneda": "22%",
+        "Unitario": "U$S",
+        "Empaque": "2.60"
+      },
+      {
+        "Cod": "0537",
+        "Nombre": "Vinagre de Manzana Cosecha Dorada 750 ml",
+        "Cód. Barra": "7730905132904",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "0.54",
+        "Empaque": "6.48"
+      },
+      {
+        "Cod": "0535",
+        "Nombre": "\"Vinagre de Manzana Cosecha Dorada 4",
+        "Cód. Barra": "9 L\"",
+        "Desc": "7730905132911",
+        "IVA": "2 unid.",
+        "Moneda": "22%",
+        "Unitario": "U$S",
+        "Empaque": "3.26"
+      }
+    ],
+    "Salsas y Aderezos": [
+      {
+        "Cod": "0421",
+        "Nombre": "Salsa de Soja 1 L",
+        "Cód. Barra": "",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "$",
+        "Unitario": "210.00",
+        "Empaque": "2520.00"
+      },
+      {
+        "Cod": "431",
+        "Nombre": "Cepillo con Alza Limpiamás",
+        "Cód. Barra": "7896230981386",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "0.65",
+        "Empaque": "7.80"
+      },
+      {
+        "Cod": "408",
+        "Nombre": "Cepillo Lavajeans Limpiamás",
+        "Cód. Barra": "7898650900442",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "0.55",
+        "Empaque": "6.60"
+      },
+      {
+        "Cod": "4151",
+        "Nombre": "Cepillo de Baño Limpiamás",
+        "Cód. Barra": "7896230981067",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.60",
+        "Empaque": "19.20"
+      },
+      {
+        "Cod": "435",
+        "Nombre": "Cepillo de Uñas Limpiamás",
+        "Cód. Barra": "7896230026032",
+        "Desc": "50 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "0.27",
+        "Empaque": "13.50"
+      },
+      {
+        "Cod": "428",
+        "Nombre": "Escoba TopMax Limpiamás",
+        "Cód. Barra": "7898650900343",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.75",
+        "Empaque": "21.00"
+      },
+      {
+        "Cod": "440",
+        "Nombre": "Escoba Angular Limpiamás",
+        "Cód. Barra": "7896230900354",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.38",
+        "Empaque": "16.56"
+      },
+      {
+        "Cod": "401",
+        "Nombre": "Escoba Barrebien Limpiamás",
+        "Cód. Barra": "7896230900336",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.55",
+        "Empaque": "18.60"
+      },
+      {
+        "Cod": "402",
+        "Nombre": "Escoba Recta Perfecta Limpiamás",
+        "Cód. Barra": "7898650900329",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.29",
+        "Empaque": "15.48"
+      },
+      {
+        "Cod": "403",
+        "Nombre": "Escoba Recta Xterna Limpiamás",
+        "Cód. Barra": "7896230900367",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.50",
+        "Empaque": "18.00"
+      },
+      {
+        "Cod": "413",
+        "Nombre": "Escoba Superpelo Limpiamás",
+        "Cód. Barra": "7898650901050",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.80",
+        "Empaque": "21.60"
+      },
+      {
+        "Cod": "4161",
+        "Nombre": "Escobilla de Jardín Limpiamás",
+        "Cód. Barra": "7898253663270",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.70",
+        "Empaque": "20.40"
+      },
+      {
+        "Cod": "4071",
+        "Nombre": "Escobilla Sanitaria con Pote Limpiamás",
+        "Cód. Barra": "",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.30",
+        "Empaque": "15.60"
+      },
+      {
+        "Cod": "444",
+        "Nombre": "Escobillón Doble Acción Limpiamás",
+        "Cód. Barra": "7898253663270",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.56",
+        "Empaque": "18.71"
+      },
+      {
+        "Cod": "421",
+        "Nombre": "Escoba Fregón Limpiamás",
+        "Cód. Barra": "7898650900565",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.75",
+        "Empaque": "21.00"
+      },
+      {
+        "Cod": "4241",
+        "Nombre": "Escoba de Calle 30 cm Limpiamás",
+        "Cód. Barra": "7896230900293",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "4.30",
+        "Empaque": "51.60"
+      },
+      {
+        "Cod": "4181",
+        "Nombre": "Escoba de Calle 40 cm Limpiamás",
+        "Cód. Barra": "7896230900196",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "5.50",
+        "Empaque": "66.00"
+      },
+      {
+        "Cod": "445",
+        "Nombre": "Lampazo Duplo 30 cm Limpiamás",
+        "Cód. Barra": "7898650900411",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.34",
+        "Empaque": "16.08"
+      },
+      {
+        "Cod": "446",
+        "Nombre": "Lampazo Duplo 40 cm Limpiamás",
+        "Cód. Barra": "7898650900428",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.59",
+        "Empaque": "19.10"
+      },
+      {
+        "Cod": "430",
+        "Nombre": "Limpia Vidrio 15 cm Limpiamás",
+        "Cód. Barra": "",
+        "Desc": "24 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "0.86",
+        "Empaque": "20.64"
+      },
+      {
+        "Cod": "429",
+        "Nombre": "Mopa para Piso Cabo de Madera Limpiamás",
+        "Cód. Barra": "",
+        "Desc": "20 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "2.40",
+        "Empaque": "48.00"
+      },
+      {
+        "Cod": "409",
+        "Nombre": "Pala con Clip Limpiamás",
+        "Cód. Barra": "",
+        "Desc": "12 unid.",
+        "IVA": "22$",
+        "Moneda": "U$S",
+        "Unitario": "0.45",
+        "Empaque": "5.40"
+      },
+      {
+        "Cod": "4261",
+        "Nombre": "Pala con Mango Limpiamás",
+        "Cód. Barra": "7898949961857",
+        "Desc": "12 unid.",
+        "IVA": "22$",
+        "Moneda": "U$S",
+        "Unitario": "0.96",
+        "Empaque": "11.52"
+      },
+      {
+        "Cod": "437",
+        "Nombre": "Balde de Colores 12 L Limpiamás",
+        "Cód. Barra": "",
+        "Desc": "24 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "2.44",
+        "Empaque": "58.56"
+      },
+      {
+        "Cod": "427",
+        "Nombre": "Balde Escurridor 12 L Limpiamás",
+        "Cód. Barra": "",
+        "Desc": "24 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "2.60",
+        "Empaque": "62.40"
+      },
+      {
+        "Cod": "4390",
+        "Nombre": "Papelera con Tapa 10 L Limpiamás",
+        "Cód. Barra": "",
+        "Desc": "48 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "4.20",
+        "Empaque": "201.60"
+      },
+      {
+        "Cod": "U4391",
+        "Nombre": "Contenedor de Residuos 100 L (verde/rojo/azul)",
+        "Cód. Barra": "",
+        "Desc": "Unitario",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "50.00",
+        "Empaque": "50.00"
+      },
+      {
+        "Cod": "U439",
+        "Nombre": "Contenedor de Residuos 120 L (verde/rojo/azul)",
+        "Cód. Barra": "",
+        "Desc": "Unitario",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "58.50",
+        "Empaque": "58.50"
+      },
+      {
+        "Cod": "U4392",
+        "Nombre": "Contenedor de Residuos 240 L (verde/rojo/azul)",
+        "Cód. Barra": "",
+        "Desc": "Unitario",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "95.00",
+        "Empaque": "95.00"
+      },
+      {
+        "Cod": "450",
+        "Nombre": "Palillos Plásticos x12 Unidades Limpiamás",
+        "Cód. Barra": "",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.24",
+        "Empaque": "14.87"
+      },
+      {
+        "Cod": "4361",
+        "Nombre": "Perchas Set 3 Unidades Limpiamás",
+        "Cód. Barra": "",
+        "Desc": "24 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "0.82",
+        "Empaque": "19.74"
+      },
+      {
+        "Cod": "434",
+        "Nombre": "Plumero de Colores 60 cm Limpiamás",
+        "Cód. Barra": "",
+        "Desc": "60 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "0.61",
+        "Empaque": "36.60"
+      },
+      {
+        "Cod": "438",
+        "Nombre": "Sopapas Limpiamás",
+        "Cód. Barra": "",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "2.00",
+        "Empaque": "24.00"
+      },
+      {
+        "Cod": "5810",
+        "Nombre": "Bolsas de Residuos Limpiamás 50x58cm 10 unid.",
+        "Cód. Barra": "7730905133130",
+        "Desc": "36 Rollos",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "0.32",
+        "Empaque": "11.52"
+      },
+      {
+        "Cod": "5825",
+        "Nombre": "\"Bolsas de Residuos Limpiamás 50x58cm 25 Unid",
+        "Cód. Barra": "\"",
+        "Desc": "7730905133147",
+        "IVA": "20 Rollos",
+        "Moneda": "22%",
+        "Unitario": "U$S",
+        "Empaque": "0.53"
+      },
+      {
+        "Cod": "7010",
+        "Nombre": "Bolsas de Residuos Limpiamás 70x100cm 10 Unid.",
+        "Cód. Barra": "7730905133154",
+        "Desc": "12 Rollos",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.03",
+        "Empaque": "12.36"
+      },
+      {
+        "Cod": "478",
+        "Nombre": "Deshumidificador Natural 230 g",
+        "Cód. Barra": "",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.70",
+        "Empaque": "20.40"
+      },
+      {
+        "Cod": "4771",
+        "Nombre": "Deshumidificador Limón 100 g",
+        "Cód. Barra": "",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.15",
+        "Empaque": "13.80"
+      },
+      {
+        "Cod": "4781",
+        "Nombre": "Deshumidificador Natural 100 g",
+        "Cód. Barra": "",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.15",
+        "Empaque": "13.80"
+      },
+      {
+        "Cod": "4791",
+        "Nombre": "Deshumidificador Lino 100 g",
+        "Cód. Barra": "",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.15",
+        "Empaque": "13.80"
+      },
+      {
+        "Cod": "480",
+        "Nombre": "Deshumidificador c/Percha Natural 200 g",
+        "Cód. Barra": "",
+        "Desc": "18 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "2.15",
+        "Empaque": "38.70"
+      },
+      {
+        "Cod": "451",
+        "Nombre": "Esponja Multiuso Individual",
+        "Cód. Barra": "",
+        "Desc": "60 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "0.18",
+        "Empaque": "10.80"
+      },
+      {
+        "Cod": "452",
+        "Nombre": "Esponja Multiuso x3 unidades",
+        "Cód. Barra": "",
+        "Desc": "60 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "0.52",
+        "Empaque": "31.20"
+      },
+      {
+        "Cod": "453",
+        "Nombre": "Esponja Salvauñas Redonda Individual",
+        "Cód. Barra": "",
+        "Desc": "60 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "0.30",
+        "Empaque": "18.00"
+      },
+      {
+        "Cod": "454",
+        "Nombre": "Esponja Salvauñas Rectangular Individual",
+        "Cód. Barra": "",
+        "Desc": "60 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "0.27",
+        "Empaque": "16.20"
+      },
+      {
+        "Cod": "474",
+        "Nombre": "Esponja Salvauñas Rectangular x3 unidades",
+        "Cód. Barra": "",
+        "Desc": "60 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "0.79",
+        "Empaque": "47.40"
+      },
+      {
+        "Cod": "455",
+        "Nombre": "Esponja Antiadherente Individual",
+        "Cód. Barra": "",
+        "Desc": "60 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "0.21",
+        "Empaque": "12.60"
+      },
+      {
+        "Cod": "456",
+        "Nombre": "Esponja Rayum Individual",
+        "Cód. Barra": "",
+        "Desc": "60 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "0.36",
+        "Empaque": "21.60"
+      },
+      {
+        "Cod": "457",
+        "Nombre": "Esponja de Acero Inoxidable",
+        "Cód. Barra": "",
+        "Desc": "24 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "0.53",
+        "Empaque": "12.72"
+      },
+      {
+        "Cod": "458",
+        "Nombre": "Esponja de Cobre",
+        "Cód. Barra": "",
+        "Desc": "50 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "0.70",
+        "Empaque": "35.00"
+      },
+      {
+        "Cod": "459",
+        "Nombre": "Esponja de Baño Porus Surtida",
+        "Cód. Barra": "",
+        "Desc": "24 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "0.29",
+        "Empaque": "6.96"
+      },
+      {
+        "Cod": "460",
+        "Nombre": "Esponja de Baño Porus Fleur",
+        "Cód. Barra": "",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.10",
+        "Empaque": "13.20"
+      },
+      {
+        "Cod": "461",
+        "Nombre": "Esponja de Baño Porus Sensation",
+        "Cód. Barra": "",
+        "Desc": "24 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "0.69",
+        "Empaque": "16.56"
+      },
+      {
+        "Cod": "462",
+        "Nombre": "Paño Furatto x5 unidades (Azul/Lavanda/Limón)",
+        "Cód. Barra": "",
+        "Desc": "25 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "0.70",
+        "Empaque": "17.50"
+      },
+      {
+        "Cod": "463",
+        "Nombre": "Toalex - Rollo de Toallas Rehusable",
+        "Cód. Barra": "",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "2.20",
+        "Empaque": "26.40"
+      },
+      {
+        "Cod": "464",
+        "Nombre": "Paño Multiuso Tango x2 unidades",
+        "Cód. Barra": "",
+        "Desc": "30 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "0.84",
+        "Empaque": "25.20"
+      },
+      {
+        "Cod": "465",
+        "Nombre": "Guantes Forrados Tamaño P/M/G",
+        "Cód. Barra": "",
+        "Desc": "24 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.50",
+        "Empaque": "36.00"
+      },
+      {
+        "Cod": "466",
+        "Nombre": "Franela unitario",
+        "Cód. Barra": "",
+        "Desc": "24 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "0.45",
+        "Empaque": "10.80"
+      },
+      {
+        "Cod": "470",
+        "Nombre": "Escoba Uso Externo Limppano",
+        "Cód. Barra": "",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "2.30",
+        "Empaque": "27.60"
+      },
+      {
+        "Cod": "471",
+        "Nombre": "Lampazo 30 cm Limppano",
+        "Cód. Barra": "",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "2.30",
+        "Empaque": "27.60"
+      },
+      {
+        "Cod": "472",
+        "Nombre": "Lampazo 40 cm Limppano",
+        "Cód. Barra": "",
+        "Desc": "12 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "2.63",
+        "Empaque": "31.56"
+      }
+    ],
+    "Alimentos para Mascotas": [
+      {
+        "Cod": "860",
+        "Nombre": "\"Arroz de Perro Cango 1",
+        "Cód. Barra": "7 kg\"",
+        "Desc": "",
+        "IVA": "12 unid.",
+        "Moneda": "10%",
+        "Unitario": "$",
+        "Empaque": "50.50"
+      },
+      {
+        "Cod": "861",
+        "Nombre": "KAU High Premium - Todas las razas 15 kg",
+        "Cód. Barra": "7899729800670",
+        "Desc": "Unitario",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.65",
+        "Empaque": "24.69"
+      },
+      {
+        "Cod": "862",
+        "Nombre": "Turbocão Premium - Razas pequeñas 15 kg",
+        "Cód. Barra": "7899729800786",
+        "Desc": "Unitario",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.65",
+        "Empaque": "24.74"
+      },
+      {
+        "Cod": "863",
+        "Nombre": "Turbocão Premium - Cachorros 15 kg",
+        "Cód. Barra": "7899729800731",
+        "Desc": "Unitario",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.77",
+        "Empaque": "26.55"
+      },
+      {
+        "Cod": "864",
+        "Nombre": "Turbocão Premium - Razas grandes 15 kg",
+        "Cód. Barra": "7899729800816",
+        "Desc": "Unitario",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.60",
+        "Empaque": "23.94"
+      },
+      {
+        "Cod": "865",
+        "Nombre": "Cão Criador - Todas las razas 15 kg",
+        "Cód. Barra": "7899729800397",
+        "Desc": "Unitario",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.14",
+        "Empaque": "17.12"
+      },
+      {
+        "Cod": "8621",
+        "Nombre": "Turbocão Premium - Razas pequeñas 1 kg",
+        "Cód. Barra": "7899729800236",
+        "Desc": "10 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "2.00",
+        "Empaque": "20.01"
+      },
+      {
+        "Cod": "8631",
+        "Nombre": "Turbocão Premium - Cachorros 1 kg",
+        "Cód. Barra": "7899729800298",
+        "Desc": "10 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "2.11",
+        "Empaque": "21.14"
+      },
+      {
+        "Cod": "8641",
+        "Nombre": "Turbocão Premium - Razas grandes 1 kg",
+        "Cód. Barra": "7899729800335",
+        "Desc": "10 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.92",
+        "Empaque": "19.19"
+      },
+      {
+        "Cod": "8657",
+        "Nombre": "Cão Criador - Todas las razas 7 kg",
+        "Cód. Barra": "7899729800373",
+        "Desc": "Unitario",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.24",
+        "Empaque": "8.66"
+      },
+      {
+        "Cod": "866",
+        "Nombre": "\"Turbogato Premium Gato - Todas las razas 10",
+        "Cód. Barra": "1 kg\"",
+        "Desc": "7899729800830",
+        "IVA": "Unitario",
+        "Moneda": "22%",
+        "Unitario": "U$S",
+        "Empaque": "1.87"
+      },
+      {
+        "Cod": "867",
+        "Nombre": "\"Turbogato Premium Gato - Gatos Castrados 10",
+        "Cód. Barra": "1 kg\"",
+        "Desc": "7899729800724",
+        "IVA": "Unitario",
+        "Moneda": "22%",
+        "Unitario": "U$S",
+        "Empaque": "1.80"
+      },
+      {
+        "Cod": "8682",
+        "Nombre": "Gato Criador - Todas las razas 25 kg",
+        "Cód. Barra": "7899729800458",
+        "Desc": "Unitario",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.52",
+        "Empaque": "38.09"
+      },
+      {
+        "Cod": "8661",
+        "Nombre": "Turbogato Premium Gato - Todas las razas 1 kg",
+        "Cód. Barra": "7899729800038",
+        "Desc": "10 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "2.24",
+        "Empaque": "22.40"
+      },
+      {
+        "Cod": "8671",
+        "Nombre": "Turbogato Premium Gato - Gatos Castrados 1 kg",
+        "Cód. Barra": "7899729800717",
+        "Desc": "10 unid.",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "2.17",
+        "Empaque": "21.70"
+      },
+      {
+        "Cod": "868",
+        "Nombre": "Gato Criador - Todas las razas 7 kg",
+        "Cód. Barra": "7899729800441",
+        "Desc": "Unitario",
+        "IVA": "22%",
+        "Moneda": "U$S",
+        "Unitario": "1.61",
+        "Empaque": "11.27"
+      }
+    ]
+  },
+  "Frutas y Hortalizas": [
+    {
+      "Product": "Acelga",
+      "Category": "E",
+      "Unit": "DOC",
+      "Calibre": "GRANDE",
+      "Min Price": 280,
+      "Max Price": 300
+    },
+    {
+      "Product": "Ají Catalán Dulce",
+      "Category": "E",
+      "Unit": "KG",
+      "Calibre": "MEDIANO",
+      "Min Price": 90,
+      "Max Price": 100
+    },
+    {
+      "Product": "Ají Catalán Picante",
+      "Category": "E",
+      "Unit": "KG",
+      "Calibre": "MEDIANO",
+      "Min Price": 90,
+      "Max Price": 100
+    },
+    {
+      "Product": "Albahaca",
+      "Category": "E",
+      "Unit": "DOC",
+      "Calibre": "GRANDE",
+      "Min Price": 450,
+      "Max Price": 500
+    },
+    {
+      "Product": "Ananá Hawai",
+      "Category": "E",
+      "Unit": "KG",
+      "Calibre": "GRANDE",
+      "Min Price": 75,
+      "Max Price": 83
+    },
+    {
+      "Product": "Apio Hoja",
+      "Category": "E",
+      "Unit": "DOC",
+      "Calibre": "GRANDE",
+      "Min Price": 1000,
+      "Max Price": 1200
+    },
+    {
+      "Product": "Apio Planta",
+      "Category": "E",
+      "Unit": "DOC",
+      "Calibre": "GRANDE",
+      "Min Price": 1000,
+      "Max Price": 1200
+    },
+    {
+      "Product": "Banana Cavendish (Nanica)",
+      "Category": "E",
+      "Unit": "KG",
+      "Calibre": "GRANDE",
+      "Min Price": 45,
+      "Max Price": 50
+    },
+    {
+      "Product": "Berenjena",
+      "Category": "E",
+      "Unit": "KG",
+      "Calibre": "GRANDE",
+      "Min Price": 54,
+      "Max Price": 58
+    },
+    {
+      "Product": "Berro",
+      "Category": "E",
+      "Unit": "DOC",
+      "Calibre": "GRANDE",
+      "Min Price": 500,
+      "Max Price": 600
+    },
+    {
+      "Product": "Boniato Arapey/Cuarí",
+      "Category": "E",
+      "Unit": "KG",
+      "Calibre": "GRANDE",
+      "Min Price": 21,
+      "Max Price": 23
+    },
+    {
+      "Product": "Boniato Beauregard/Cuabé",
+      "Category": "E",
+      "Unit": "KG",
+      "Calibre": "GRANDE",
+      "Min Price": 25,
+      "Max Price": 27
+    },
+    {
+      "Product": "Brócoli",
+      "Category": "E",
+      "Unit": "DOC",
+      "Calibre": "GRANDE",
+      "Min Price": 700,
+      "Max Price": 800
+    },
+    {
+      "Product": "Calabacín",
+      "Category": "E",
+      "Unit": "KG",
+      "Calibre": "MEDIANO",
+      "Min Price": 15,
+      "Max Price": 18
+    },
+    {
+      "Product": "Calabacín",
+      "Category": "E",
+      "Unit": "KG",
+      "Calibre": "GRANDE",
+      "Min Price": 18,
+      "Max Price": 20
+    },
+    {
+      "Product": "Cebolla",
+      "Category": "E",
+      "Unit": "KG",
+      "Calibre": "GRANDE",
+      "Min Price": 50,
+      "Max Price": 52
+    },
+    {
+      "Product": "Chaucha Chata",
+      "Category": "E",
+      "Unit": "KG",
+      "Calibre": "MEDIANO",
+      "Min Price": 80,
+      "Max Price": 90
+    },
+    {
+      "Product": "Choclo Súper Dulce",
+      "Category": "E",
+      "Unit": "DOC",
+      "Calibre": "MEDIANO",
+      "Min Price": 500,
+      "Max Price": 600
+    },
+    {
+      "Product": "Coliflor",
+      "Category": "E",
+      "Unit": "DOC",
+      "Calibre": "GRANDE",
+      "Min Price": 700,
+      "Max Price": 800
+    },
+    {
+      "Product": "Espárrago",
+      "Category": "E",
+      "Unit": "DOC",
+      "Calibre": "MEDIANO",
+      "Min Price": 3600,
+      "Max Price": 3800
+    },
+    {
+      "Product": "Frutilla",
+      "Category": "E",
+      "Unit": "KG",
+      "Calibre": "GRANDE",
+      "Min Price": 200,
+      "Max Price": 225
+    },
+    {
+      "Product": "Lechuga Crespa",
+      "Category": "E",
+      "Unit": "DOC",
+      "Calibre": "GRANDE",
+      "Min Price": 250,
+      "Max Price": 300
+    },
+    {
+      "Product": "Lechuga Mantecosa",
+      "Category": "E",
+      "Unit": "DOC",
+      "Calibre": "GRANDE",
+      "Min Price": 240,
+      "Max Price": 250
+    },
+    {
+      "Product": "Morrón Amarillo",
+      "Category": "E",
+      "Unit": "KG",
+      "Calibre": "GRANDE",
+      "Min Price": 90,
+      "Max Price": 95
+    },
+    {
+      "Product": "Morrón Rojo",
+      "Category": "E",
+      "Unit": "KG",
+      "Calibre": "GRANDE",
+      "Min Price": 118,
+      "Max Price": 125
+    },
+    {
+      "Product": "Morrón Verde",
+      "Category": "E",
+      "Unit": "KG",
+      "Calibre": "GRANDE",
+      "Min Price": 55,
+      "Max Price": 57
+    },
+    {
+      "Product": "Nabo",
+      "Category": "E",
+      "Unit": "DOC",
+      "Calibre": "MEDIANO",
+      "Min Price": 800,
+      "Max Price": 900
+    },
+    {
+      "Product": "Nabo",
+      "Category": "E",
+      "Unit": "DOC",
+      "Calibre": "GRANDE",
+      "Min Price": 1000,
+      "Max Price": 1200
+    },
+    {
+      "Product": "Papa Blanca (lavada)",
+      "Category": "E",
+      "Unit": "KG",
+      "Calibre": "GRANDE",
+      "Min Price": 56,
+      "Max Price": 58
+    },
+    {
+      "Product": "Perejil",
+      "Category": "E",
+      "Unit": "DOC",
+      "Calibre": "GRANDE",
+      "Min Price": 700,
+      "Max Price": 800
+    },
+    {
+      "Product": "Repollo Blanco",
+      "Category": "E",
+      "Unit": "DOC",
+      "Calibre": "MEDIANO",
+      "Min Price": 500,
+      "Max Price": 550
+    },
+    {
+      "Product": "Repollo Blanco",
+      "Category": "E",
+      "Unit": "DOC",
+      "Calibre": "GRANDE",
+      "Min Price": 550,
+      "Max Price": 600
+    },
+    {
+      "Product": "Repollo Colorado",
+      "Category": "E",
+      "Unit": "DOC",
+      "Calibre": "MEDIANO",
+      "Min Price": 550,
+      "Max Price": 600
+    },
+    {
+      "Product": "Repollo Colorado",
+      "Category": "E",
+      "Unit": "DOC",
+      "Calibre": "CHICO",
+      "Min Price": 450,
+      "Max Price": 500
+    },
+    {
+      "Product": "Rúcula",
+      "Category": "E",
+      "Unit": "DOC",
+      "Calibre": "GRANDE",
+      "Min Price": 400,
+      "Max Price": 450
+    },
+    {
+      "Product": "Tomate Cherry",
+      "Category": "E",
+      "Unit": "KG",
+      "Calibre": "MEDIANO",
+      "Min Price": 80,
+      "Max Price": 90
+    },
+    {
+      "Product": "Tomate Cherry Perita",
+      "Category": "E",
+      "Unit": "KG",
+      "Calibre": "MEDIANO",
+      "Min Price": 80,
+      "Max Price": 90
+    },
+    {
+      "Product": "Tomate Oblongo (Perita)",
+      "Category": "E",
+      "Unit": "KG",
+      "Calibre": "GRANDE",
+      "Min Price": 70,
+      "Max Price": 80
+    },
+    {
+      "Product": "Tomate Redondo",
+      "Category": "E",
+      "Unit": "KG",
+      "Calibre": "GRANDE",
+      "Min Price": 65,
+      "Max Price": 70
+    },
+    {
+      "Product": "Uva Blanca",
+      "Category": "E",
+      "Unit": "KG",
+      "Calibre": "GRANDE",
+      "Min Price": 200,
+      "Max Price": 225
+    },
+    {
+      "Product": "Uva Rosada",
+      "Category": "E",
+      "Unit": "KG",
+      "Calibre": "GRANDE",
+      "Min Price": 200,
+      "Max Price": 225
+    },
+    {
+      "Product": "Uva Rosada",
+      "Category": "E",
+      "Unit": "KG",
+      "Calibre": "GRANDE",
+      "Min Price": 225,
+      "Max Price": 230
+    },
+    {
+      "Product": "Zapallo Kabutiá",
+      "Category": "E",
+      "Unit": "KG",
+      "Calibre": "GRANDE",
+      "Min Price": 18,
+      "Max Price": 20
+    },
+    {
+      "Product": "Zucchini",
+      "Category": "E",
+      "Unit": "KG",
+      "Calibre": "MEDIANO",
+      "Min Price": 105,
+      "Max Price": 115
+    }
+  ],
+  "Hierbas, Hongos y Rubros Menores": [
+    {
+      "Specie": "Acedera Roja",
+      "Variety": "",
+      "Unit": "Unidad",
+      "Min Price": 40,
+      "Max Price": 50
+    },
+    {
+      "Specie": "Ajo Chino",
+      "Variety": "",
+      "Unit": "Unidad",
+      "Min Price": 40,
+      "Max Price": 50
+    },
+    {
+      "Specie": "Amaranto",
+      "Variety": "",
+      "Unit": "Unidad",
+      "Min Price": 30,
+      "Max Price": 40
+    },
+    {
+      "Specie": "Brotes",
+      "Variety": "Alfalfa",
+      "Unit": "KG",
+      "Min Price": 470,
+      "Max Price": 480
+    },
+    {
+      "Specie": "Brotes",
+      "Variety": "Soja",
+      "Unit": "KG",
+      "Min Price": 400,
+      "Max Price": 420
+    },
+    {
+      "Specie": "Cilantro",
+      "Variety": "",
+      "Unit": "Unidad",
+      "Min Price": 50,
+      "Max Price": 60
+    },
+    {
+      "Specie": "Col Chino",
+      "Variety": "",
+      "Unit": "DOC",
+      "Min Price": 500,
+      "Max Price": 600
+    },
+    {
+      "Specie": "Cúrcuma",
+      "Variety": "",
+      "Unit": "KG",
+      "Min Price": 250,
+      "Max Price": 350
+    },
+    {
+      "Specie": "Eneldo",
+      "Variety": "",
+      "Unit": "Unidad",
+      "Min Price": 50,
+      "Max Price": 70
+    },
+    {
+      "Specie": "Escarola",
+      "Variety": "",
+      "Unit": "DOC",
+      "Min Price": 150,
+      "Max Price": 200
+    },
+    {
+      "Specie": "Estragón",
+      "Variety": "",
+      "Unit": "Unidad",
+      "Min Price": 50,
+      "Max Price": 70
+    },
+    {
+      "Specie": "Flores Comestibles",
+      "Variety": "",
+      "Unit": "Unidad",
+      "Min Price": 50,
+      "Max Price": 70
+    },
+    {
+      "Specie": "Frambuesa",
+      "Variety": "",
+      "Unit": "Unidad",
+      "Min Price": 120,
+      "Max Price": 130
+    },
+    {
+      "Specie": "Grelo",
+      "Variety": "",
+      "Unit": "DOC",
+      "Min Price": 500,
+      "Max Price": 600
+    },
+    {
+      "Specie": "Hinojo",
+      "Variety": "",
+      "Unit": "DOC",
+      "Min Price": 400,
+      "Max Price": 500
+    },
+    {
+      "Specie": "Hongos",
+      "Variety": "Champiñón",
+      "Unit": "KG",
+      "Min Price": 600,
+      "Max Price": 620
+    },
+    {
+      "Specie": "Hongos",
+      "Variety": "Pleurotus",
+      "Unit": "KG",
+      "Min Price": 600,
+      "Max Price": 620
+    },
+    {
+      "Specie": "Hongos",
+      "Variety": "Portobello",
+      "Unit": "KG",
+      "Min Price": 660,
+      "Max Price": 680
+    },
+    {
+      "Specie": "Hongos Silvestre",
+      "Variety": "Eucalyptus",
+      "Unit": "KG",
+      "Min Price": 100,
+      "Max Price": 120
+    },
+    {
+      "Specie": "Hongos Silvestre",
+      "Variety": "Pino",
+      "Unit": "KG",
+      "Min Price": 150,
+      "Max Price": 180
+    },
+    {
+      "Specie": "Huevos Codorniz",
+      "Variety": "",
+      "Unit": "DOC",
+      "Min Price": 65,
+      "Max Price": 70
+    },
+    {
+      "Specie": "Kale",
+      "Variety": "",
+      "Unit": "DOC",
+      "Min Price": 400,
+      "Max Price": 500
+    },
+    {
+      "Specie": "Kale",
+      "Variety": "",
+      "Unit": "Unidad",
+      "Min Price": 40,
+      "Max Price": 50
+    },
+    {
+      "Specie": "Laurel",
+      "Variety": "",
+      "Unit": "Unidad",
+      "Min Price": 40,
+      "Max Price": 45
+    },
+    {
+      "Specie": "Lemon Grass",
+      "Variety": "",
+      "Unit": "KG",
+      "Min Price": 900,
+      "Max Price": 1000
+    },
+    {
+      "Specie": "Maní",
+      "Variety": "",
+      "Unit": "KG",
+      "Min Price": 100,
+      "Max Price": 120
+    },
+    {
+      "Specie": "Maní Tostado",
+      "Variety": "",
+      "Unit": "KG",
+      "Min Price": 150,
+      "Max Price": 160
+    },
+    {
+      "Specie": "Menta",
+      "Variety": "",
+      "Unit": "Unidad",
+      "Min Price": 35,
+      "Max Price": 45
+    },
+    {
+      "Specie": "Mix de hojas verdes",
+      "Variety": "",
+      "Unit": "Unidad",
+      "Min Price": 80,
+      "Max Price": 100
+    },
+    {
+      "Specie": "Mizuna",
+      "Variety": "",
+      "Unit": "Unidad",
+      "Min Price": 35,
+      "Max Price": 45
+    },
+    {
+      "Specie": "Mostaza",
+      "Variety": "",
+      "Unit": "Unidad",
+      "Min Price": 40,
+      "Max Price": 50
+    },
+    {
+      "Specie": "Nabo",
+      "Variety": "Daikon",
+      "Unit": "KG",
+      "Min Price": 110,
+      "Max Price": 120
+    },
+    {
+      "Specie": "Nuez",
+      "Variety": "Pecán",
+      "Unit": "KG",
+      "Min Price": 200,
+      "Max Price": 250
+    },
+    {
+      "Specie": "Ñame",
+      "Variety": "",
+      "Unit": "KG",
+      "Min Price": 180,
+      "Max Price": 200
+    },
+    {
+      "Specie": "Orégano",
+      "Variety": "",
+      "Unit": "Unidad",
+      "Min Price": 40,
+      "Max Price": 50
+    },
+    {
+      "Specie": "Papa del aire",
+      "Variety": "",
+      "Unit": "KG",
+      "Min Price": 35,
+      "Max Price": 40
+    },
+    {
+      "Specie": "Perejil",
+      "Variety": "Crespo",
+      "Unit": "Unidad",
+      "Min Price": 60,
+      "Max Price": 70
+    },
+    {
+      "Specie": "Radicha",
+      "Variety": "",
+      "Unit": "DOC",
+      "Min Price": 300,
+      "Max Price": 350
+    },
+    {
+      "Specie": "Radicheta",
+      "Variety": "",
+      "Unit": "Unidad",
+      "Min Price": 40,
+      "Max Price": 50
+    },
+    {
+      "Specie": "Romero",
+      "Variety": "",
+      "Unit": "Unidad",
+      "Min Price": 40,
+      "Max Price": 50
+    },
+    {
+      "Specie": "Salvia",
+      "Variety": "",
+      "Unit": "Unidad",
+      "Min Price": 60,
+      "Max Price": 70
+    },
+    {
+      "Specie": "Tomillo",
+      "Variety": "",
+      "Unit": "Unidad",
+      "Min Price": 40,
+      "Max Price": 50
+    }
+  ]
+}

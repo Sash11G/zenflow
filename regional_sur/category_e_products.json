@@ -1,0 +1,367 @@
+{
+  "Type 1 - Hortalizas": [
+    {
+      "name": "Ace Lga",
+      "country": "UY",
+      "min_price": 280.0,
+      "max_price": 300.0
+    },
+    {
+      "name": "Ají Cat Alán Dulce",
+      "country": "UY",
+      "min_price": 90.0,
+      "max_price": 100.0
+    },
+    {
+      "name": "Ají Cat Alán Picant E",
+      "country": "UY",
+      "min_price": 90.0,
+      "max_price": 100.0
+    },
+    {
+      "name": "Ananá Hawai",
+      "country": "EC",
+      "min_price": 75.0,
+      "max_price": 83.0
+    },
+    {
+      "name": "Apio Hoja",
+      "country": "UY",
+      "min_price": 1000.0,
+      "max_price": 1200.0
+    },
+    {
+      "name": "Banana Cave Ndish(Nanica)",
+      "country": "BR",
+      "min_price": 45.0,
+      "max_price": 50.0
+    },
+    {
+      "name": "Banana Cave Ndish(Nanica)",
+      "country": "EC",
+      "min_price": 73.7,
+      "max_price": 76.3
+    },
+    {
+      "name": "Berenjena",
+      "country": "UY",
+      "min_price": 54.0,
+      "max_price": 58.0
+    },
+    {
+      "name": "Boniato Arape Y/Cuarí",
+      "country": "UY",
+      "min_price": 21.0,
+      "max_price": 23.0
+    },
+    {
+      "name": "Boniato Be Aure Gard/Cuabé",
+      "country": "UY",
+      "min_price": 25.0,
+      "max_price": 27.0
+    },
+    {
+      "name": "Brócoli",
+      "country": "UY",
+      "min_price": 700.0,
+      "max_price": 800.0
+    },
+    {
+      "name": "Calabac Ín",
+      "country": "UY",
+      "min_price": 15.0,
+      "max_price": 18.0
+    },
+    {
+      "name": "Calabac Ín",
+      "country": "UY",
+      "min_price": 18.0,
+      "max_price": 20.0
+    },
+    {
+      "name": "Ce Bolla",
+      "country": "UY",
+      "min_price": 50.0,
+      "max_price": 52.0
+    },
+    {
+      "name": "Chauc Ha Chat A",
+      "country": "UY",
+      "min_price": 80.0,
+      "max_price": 90.0
+    },
+    {
+      "name": "Coliflor",
+      "country": "UY",
+      "min_price": 700.0,
+      "max_price": 800.0
+    },
+    {
+      "name": "Espárrago",
+      "country": "PE",
+      "min_price": 3600.0,
+      "max_price": 3800.0
+    },
+    {
+      "name": "Le Chuga Cre Spa",
+      "country": "UY",
+      "min_price": 250.0,
+      "max_price": 300.0
+    },
+    {
+      "name": "Le Chuga Mantecosa",
+      "country": "UY",
+      "min_price": 240.0,
+      "max_price": 250.0
+    },
+    {
+      "name": "Lima",
+      "country": "BR",
+      "min_price": 66.0,
+      "max_price": 72.0
+    },
+    {
+      "name": "Limón",
+      "country": "UY",
+      "min_price": 27.5,
+      "max_price": 30.0
+    },
+    {
+      "name": "Mamon",
+      "country": "BR",
+      "min_price": 130.0,
+      "max_price": 140.0
+    },
+    {
+      "name": "Manzana Cripps Pink",
+      "country": "UY",
+      "min_price": 80.0,
+      "max_price": 90.0
+    },
+    {
+      "name": "Manzana Re D De Lic Ious",
+      "country": "UY",
+      "min_price": 60.0,
+      "max_price": 70.0
+    },
+    {
+      "name": "Manzana Re D De Lic Ious",
+      "country": "UY",
+      "min_price": 80.0,
+      "max_price": 90.0
+    },
+    {
+      "name": "Me Lón Amarillo",
+      "country": "BR",
+      "min_price": 100.0,
+      "max_price": 110.0
+    },
+    {
+      "name": "Me Lón Re T Iculado",
+      "country": "BR",
+      "min_price": 110.0,
+      "max_price": 120.0
+    },
+    {
+      "name": "Morrón Amarillo",
+      "country": "UY",
+      "min_price": 90.0,
+      "max_price": 95.0
+    },
+    {
+      "name": "Morrón Rojo",
+      "country": "UY",
+      "min_price": 118.0,
+      "max_price": 125.0
+    },
+    {
+      "name": "Morrón Ve Rde",
+      "country": "UY",
+      "min_price": 55.0,
+      "max_price": 57.0
+    },
+    {
+      "name": "Nabo",
+      "country": "UY",
+      "min_price": 800.0,
+      "max_price": 900.0
+    },
+    {
+      "name": "Nabo",
+      "country": "UY",
+      "min_price": 1000.0,
+      "max_price": 1200.0
+    },
+    {
+      "name": "Palt A Hass",
+      "country": "PE",
+      "min_price": 190.0,
+      "max_price": 200.0
+    },
+    {
+      "name": "Palt A Hass",
+      "country": "PE",
+      "min_price": 220.0,
+      "max_price": 240.0
+    },
+    {
+      "name": "Papa Blanca(Lavada)",
+      "country": "UY",
+      "min_price": 56.0,
+      "max_price": 58.0
+    },
+    {
+      "name": "Pe Pino",
+      "country": "UY",
+      "min_price": 45.0,
+      "max_price": 50.0
+    },
+    {
+      "name": "Pe Rejil",
+      "country": "UY",
+      "min_price": 700.0,
+      "max_price": 800.0
+    },
+    {
+      "name": "Plát Ano",
+      "country": "BR",
+      "min_price": 120.0,
+      "max_price": 125.0
+    },
+    {
+      "name": "Plát Ano",
+      "country": "EC",
+      "min_price": 145.0,
+      "max_price": 153.0
+    },
+    {
+      "name": "Pue Rro",
+      "country": "UY",
+      "min_price": 700.0,
+      "max_price": 800.0
+    },
+    {
+      "name": "Pue Rro",
+      "country": "UY",
+      "min_price": 900.0,
+      "max_price": 1000.0
+    },
+    {
+      "name": "Rabanito",
+      "country": "UY",
+      "min_price": 450.0,
+      "max_price": 500.0
+    },
+    {
+      "name": "Re Molacha",
+      "country": "UY",
+      "min_price": 550.0,
+      "max_price": 600.0
+    },
+    {
+      "name": "Re Pollo Blanco",
+      "country": "UY",
+      "min_price": 500.0,
+      "max_price": 550.0
+    },
+    {
+      "name": "Re Pollo Blanco",
+      "country": "UY",
+      "min_price": 550.0,
+      "max_price": 600.0
+    },
+    {
+      "name": "Re Pollo Colorado",
+      "country": "UY",
+      "min_price": 550.0,
+      "max_price": 600.0
+    },
+    {
+      "name": "Re Pollo Colorado",
+      "country": "UY",
+      "min_price": 450.0,
+      "max_price": 500.0
+    },
+    {
+      "name": "Tomate Che Rry",
+      "country": "UY",
+      "min_price": 80.0,
+      "max_price": 90.0
+    },
+    {
+      "name": "Tomate Che Rry Pe Rit A",
+      "country": "UY",
+      "min_price": 80.0,
+      "max_price": 90.0
+    },
+    {
+      "name": "Tomate O Blongo(Pe Rit A)",
+      "country": "UY",
+      "min_price": 70.0,
+      "max_price": 80.0
+    },
+    {
+      "name": "Tomate Re Dondo",
+      "country": "UY",
+      "min_price": 65.0,
+      "max_price": 70.0
+    },
+    {
+      "name": "Uva Blanca",
+      "country": "BR",
+      "min_price": 200.0,
+      "max_price": 225.0
+    },
+    {
+      "name": "Uva Rosada",
+      "country": "BR",
+      "min_price": 200.0,
+      "max_price": 225.0
+    },
+    {
+      "name": "Uva Rosada",
+      "country": "CL",
+      "min_price": 225.0,
+      "max_price": 230.0
+    },
+    {
+      "name": "Zanahoria",
+      "country": "UY",
+      "min_price": 23.0,
+      "max_price": 26.0
+    },
+    {
+      "name": "Zapallito",
+      "country": "UY",
+      "min_price": 80.0,
+      "max_price": 90.0
+    },
+    {
+      "name": "Zapallo Kabutiá",
+      "country": "UY",
+      "min_price": 18.0,
+      "max_price": 20.0
+    },
+    {
+      "name": "Zucc Hini",
+      "country": "UY",
+      "min_price": 105.0,
+      "max_price": 115.0
+    }
+  ],
+  "Type 2 - Especias y Hongos": [
+    {
+      "name": "Albahaca Sobre",
+      "country": "UY",
+      "min_price": 450.0,
+      "max_price": 500.0
+    },
+    {
+      "name": "Rucula",
+      "country": "UY",
+      "min_price": 400.0,
+      "max_price": 450.0
+    }
+  ],
+  "Type 3 - Huevos": []
+}
