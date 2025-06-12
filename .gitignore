@@ -1,0 +1,50 @@
+# --- Compiled object files ---
+*.o
+*.obj
+
+# --- Executables ---
+*.out
+*.exe
+*.elf
+*.bin
+
+# --- Static/Shared libraries ---
+*.a
+*.so
+*.so.*
+
+# --- Neovim swap/backup files ---
+*.swp
+*.swo
+*.swn
+*~
+
+# --- Temporary/backup files ---
+*.tmp
+*.bak
+
+# --- Build/output folders ---
+/build/
+/bin/
+/dist/
+/debug/
+/release/
+
+# --- Logs ---
+*.log
+
+# --- OS-specific ---
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# --- Python bytecode (if relevant) ---
+__pycache__/
+*.py[cod]
+
+# --- Misc (e.g., tags file from ctags) ---
+tags
+TAGS
+
+
