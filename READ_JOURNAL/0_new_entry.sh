@@ -47,8 +47,6 @@ if [ ! -f "$FILEPATH" ]; then
         echo "Log for $dir on $today"
         echo ""
         echo ""
-        echo ""
-        echo ""
     } > "$FILEPATH"
 fi
 
