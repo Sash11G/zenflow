@@ -2,4 +2,25 @@ Thu Jun 12 09:09:44 PM -03 2025
 
 Log for maths on 2025-06-12
 
-Lets see
+I have to keep up the good work.
+Every day doing maths...
+I have been procrastinating a bit. 
+
+I just have to study at a comfortable pace.
+
+Stop doing things that are irrelevant, focus
+on doing things that pack a good punch, like:
+- Trig, precalc, and calc books.
+- Python projects, relevant useful projects for life.
+- C projects, exploring C potential and usage, low level.
+- Cisco Networking path.
+- OS dev.
+- Graphics.
+
+Some of these build over the others, so focus on progressively
+building knowledge.
+
+Focus on learning structurally with books that are in the 
+goldilocks zone, comfortably challenging/hard.
+
+Good textbooks are best learning resources.
