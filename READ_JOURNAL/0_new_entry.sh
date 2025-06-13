@@ -50,5 +50,5 @@ if [ ! -f "$FILEPATH" ]; then
 fi
 
 # Open with editor
-nvim "$FILEPATH"
+nvim +':call cursor(line("$")+3, 1)' "$FILEPATH"
 
