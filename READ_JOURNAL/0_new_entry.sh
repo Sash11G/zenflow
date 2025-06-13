@@ -48,6 +48,7 @@ if [ ! -f "$FILEPATH" ]; then
         echo ""
         echo ""
         echo ""
+        echo ""
     } > "$FILEPATH"
 fi
 
