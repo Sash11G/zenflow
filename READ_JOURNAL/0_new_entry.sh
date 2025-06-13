@@ -46,9 +46,12 @@ if [ ! -f "$FILEPATH" ]; then
         echo ""
         echo "Log for $dir on $today"
         echo ""
+        echo ""
+        echo ""
     } > "$FILEPATH"
 fi
 
 # Open with editor
-nvim +':call cursor(line("$")+3, 1)' "$FILEPATH"
+nvim + "$FILEPATH"
+
 
