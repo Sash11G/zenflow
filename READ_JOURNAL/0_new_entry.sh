@@ -51,6 +51,6 @@ if [ ! -f "$FILEPATH" ]; then
 fi
 
 # Open with editor
-nvim +':normal! G$a' "$FILEPATH"
+nvim +':call cursor(line("$"), col("$")) + 1' +startinsert "$FILEPATH"
 
 
