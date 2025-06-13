@@ -1,0 +1,1 @@
+/home/wuji/zenflow/READ_JOURNAL/0_new_entry.sh
