@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "maths/MATH_PROCESS.md",
+                "file": "3d graphics/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MATH_PROCESS"
+              "title": "Untitled"
             }
           }
         ]
@@ -170,6 +170,9 @@
   },
   "active": "d138349155305b91",
   "lastOpenFiles": [
+    "maths/MATH_PROCESS.md",
+    "3d graphics/Untitled.md",
+    "3d graphics",
     "GLIDE.md",
     "MATH.md",
     "REFLECT.md"
