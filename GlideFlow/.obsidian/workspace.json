@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH.md",
+                "file": "maths/MATH_PROCESS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MATH"
+              "title": "MATH_PROCESS"
             }
           }
         ]
