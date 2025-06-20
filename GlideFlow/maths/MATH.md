@@ -15,6 +15,7 @@
 
 ### Active Topics
 - Limits (in progress)
+- Trigonometry Textbook: Unit circle
 - Algebra 2: polynomials, quadratics, rational expressions
 - Coordinate geometry: lines, slope, distance, midpoint, circle equation
 - Matrix operations: addition, multiplication, Gaussian elimination
