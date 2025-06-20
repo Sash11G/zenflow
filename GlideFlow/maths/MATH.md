@@ -4,6 +4,7 @@
 ## CURRENT EDGE
 
 - [ ] Subject: Mathematics
+- [ ] Trigonometry Textbook
 - [ ] Focus: Limits, coordinate geometry, Gaussian elimination
 - [ ] Next Step: Solve mixed problems using concept combinations (e.g., matrix + line equations)
 - [ ] Blocked By: Fully internalizing how limits and transformations behave geometrically
