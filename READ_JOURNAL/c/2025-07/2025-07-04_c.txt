@@ -3,3 +3,14 @@ Fri Jul  4 02:31:54 AM -03 2025
 Log for c on 2025-07-04
 
 
+Observed some code, for a C gui which uses an api through http requests to identify genre of peoples names.
+
+Scanned the code and visualized execution, and detected bugs that verified.
+It felt good with my ability to understand the code, and I think that reading code is an essential part of learning, because you become more fluent at reading it, and you exposed yourself to programs, how they are structured, and you can also see what good code looks like.
+
+I plan to build projects by walking through them, build an os with jonas birch's playlist, while refreshing my mind on low level fundamentals.
+
+I have to erradicate distractoins like gaming, youtube, discord etc.
+
+I have to note all the time and energy sinks and remove them ASAP, and creating a lot of friction for distractions, and only having productive stuff at my disposal; pdf's, downloaded yt videos, math textbooks, etc. 
+Perhaps even removing the internet or limiting it in some way, truly limiting my options to those mentioned above, or doing nothing at all.
