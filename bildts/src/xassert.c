@@ -12,7 +12,7 @@
         );\
         abort();\
     }\
-} while(0);
+} while(0)
 #else 
 #define xassert(expr) ((void)0)
 #endif
